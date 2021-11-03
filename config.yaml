@@ -6,21 +6,24 @@ menu:
         #   url: /about
         #   pre: <span class="main-pages">
         #   post: </span>
-        #   weight: 1
+        #   weight: 10
         - name: Bookmarks
           url: /bookmarks
           pre: <span class="main-pages">
           post: </span>
-          weight: 2
+          weight: 20
+        - name: Slides
+          url: https://slides.jadin.me
+          weight: 30
         - name: Posts by date
           url: /all
-          weight: 3
+          weight: 40
         - name: Posts by tag
           url: /tags
-          weight: 4
+          weight: 50
         - name: Search
           url: /search
-          weight: 5
+          weight: 60
 
 title: Taylor Jadin
 theme:
