@@ -14,6 +14,7 @@ menu:
           weight: 20
         - name: Slides
           url: https://slides.jadin.me
+          pre: <span class="main-pages">
           weight: 30
         - name: Posts by date
           url: /all
