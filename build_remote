@@ -1,3 +1,6 @@
 #!/bin/bash
 
-cd /home/jadinme/jadin.me && git pull && hugo -d /home/jadinme/public_html
+hugoDir=/home/jadinme/jadin.me
+siteDir=/home/jadinme/public_html
+
+cd $hugoDir && git pull && hugo -d $siteDir
