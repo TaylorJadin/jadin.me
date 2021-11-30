@@ -1,8 +1,7 @@
 ---
 title: Draft Post
-date: 2021-11-30
+date: 20xx-xx-xx
 tags:
-- Draft
 cover:
     image: 
 ---
