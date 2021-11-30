@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cd /home/jadinme/jadin.me && git pull && hugo -d ~/public_html
+cd /home/jadinme/jadin.me && git pull && hugo -d /home/jadinme/public_html
