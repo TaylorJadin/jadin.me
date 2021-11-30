@@ -1,3 +1,0 @@
-#!/bin/bash
-
-git pull & hugo -d ~/public_html
