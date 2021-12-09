@@ -19,3 +19,8 @@ a.footnote-ref, a.footnote-backref {
     z-index: 300;
     text-align: center;
     }
+
+figcaption {
+    text-align: center;
+    font-style: italic;
+}
