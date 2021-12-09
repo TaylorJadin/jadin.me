@@ -2,7 +2,7 @@
 title: Leaving SNC
 date: 2021-11-30
 tags: 
-- Career stuff
+- career stuff
 cover:
     image: snc_campus.jpg
 ---

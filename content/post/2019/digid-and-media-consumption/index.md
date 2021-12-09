@@ -2,8 +2,8 @@
 title: Digital Identity and Media Consumption
 date: 2019-01-14T23:05:00Z
 tags:
-- DigPINS
-- Domain of One's Own
+- digpins
+- domain of one's own
 cover:
     image: ttrss.png
 ---

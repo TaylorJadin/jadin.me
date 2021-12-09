@@ -2,7 +2,7 @@
 title: "My Visitor and Resident Map"
 date: 2019-01-09T23:04:00Z
 tags:
-- DigPINS
+- digpins
 cover:
     image: https://images.unsplash.com/photo-1488375634201-b85b28653a79?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ
 ---

@@ -2,8 +2,8 @@
 title: Bringing Web Apps to the Desktop with Nativefier
 date: 2019-03-07
 tags:
-- Ramblings
-- Tools
+- ramblings
+- tools
 cover:
     image: dock.png
 ---

@@ -2,9 +2,9 @@
 title: Embedding Pinboard Widgets on this site
 date: 2019-10-23T20:22:38Z
 tags:
-- Meta
-- IndieWeb
-- Domain of One's Own
+- meta
+- indieweb
+- domain of one's own
 cover:
     image: 
 ---

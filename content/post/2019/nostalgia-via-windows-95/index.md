@@ -2,7 +2,7 @@
 title: Nostalgia via Windows 95
 date: 2019-02-09T15:54:05Z
 tags:
-- Ramblings
+- ramblings
 cover:
     image: 2019-02-09_08-22-14.png
 ---

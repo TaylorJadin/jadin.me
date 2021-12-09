@@ -2,8 +2,8 @@
 title: digciz.jadin.me
 date: 2019-10-21T03:21:51Z
 tags:
-- Digital Citizenship
-- Domain of One's Own
+- digital citizenship
+- domain of one's own
 cover:
     image: passport.jpg
 ---

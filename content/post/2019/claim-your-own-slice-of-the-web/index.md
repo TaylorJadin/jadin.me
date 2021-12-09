@@ -2,8 +2,8 @@
 title: Claim Your Own Slice of the Web
 date: 2019-03-29T16:01:03Z
 tags:
-- Domain of One's Own
-- Tech Bar
+- domain of one's own
+- tech bar
 cover:
     image: 2.jpg
 ---

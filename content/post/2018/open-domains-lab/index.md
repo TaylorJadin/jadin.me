@@ -2,7 +2,7 @@
 title: Open Domains Lab
 date: 2018-03-29T22:02:00Z
 tags:
-- Domain of One's Own
+- domain of one's own
 cover:
     image: typewriter.jpg
 ---

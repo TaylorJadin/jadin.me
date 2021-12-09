@@ -2,8 +2,8 @@
 title: "The Fastest Path to a Single Page Website"
 date: 2018-02-20T22:56:00Z
 tags:
-- Domain of One's Own
-- Tech Bar
+- domain of one's own
+- tech bar
 cover:
     image: Screen-Shot-2019-03-29-at-11.04.53-AM.png
 ---
