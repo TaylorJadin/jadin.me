@@ -45,6 +45,7 @@ params:
   defaultTheme: dark
   disableThemeToggle: true
   env: production
+  comments: true
   ShowShareButtons: false
   ShowReadingTime: true
   ShowPostNavLinks: true
@@ -62,3 +63,4 @@ languageCode: en-us
 author:
   name: Taylor Jadin
   email: taylor@jadin.me
+disqusShortname: taylorjadin
