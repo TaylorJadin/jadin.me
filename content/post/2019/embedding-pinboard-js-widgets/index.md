@@ -6,7 +6,7 @@ tags:
 - indieweb
 - domain of one's own
 cover:
-    image: 
+    image: pinboard.png
 ---
 
 I've been messing around with Pinboard lately for social bookmarking and I’ve been really impressed with its archiving features and all the excellent iOS clients for it. I’ve also messed around with getting my bookmarks showing up on my domain! I've had some people ask exactly how I've integrated Pinboard with this site, so here's what I've done.
