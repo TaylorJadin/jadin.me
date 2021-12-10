@@ -6,7 +6,7 @@ tags:
 cover:
    image: Image.jpg
 ---
-This is my second week working at Reclaim Hosting as their Community Instructional Technologist. It’s been fantastic getting to meet the team, tiring getting my work from home set up just the way I like it[^1], and invigorating getting to dive right into a bunch of new stuff. It’s already been amazing making Domains my day job, something which I loved helping with at SNC so much.
+This is my second week working at Reclaim Hosting as their Community Instructional Technologist. It’s been fantastic getting to meet the team, tiring getting my work from home desk setup put together just the way I like it[^1], and invigorating getting to dive right into a bunch of new stuff. It’s already been amazing making Domains my day job, something which I loved helping with at SNC so much.
 
 {{< tweet user="brumface" id="1465784711285022726" >}}
 
