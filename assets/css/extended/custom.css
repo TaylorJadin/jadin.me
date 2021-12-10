@@ -1,12 +1,9 @@
-a.footnote-ref, a.footnote-backref {
-    font-size: small;
-    margin: 2px;
-    border: 1px solid white;
-    box-shadow: none;
-}
-
 .main-pages {
     font-weight: bold;
+}
+
+.first-entry {
+    margin: var(--gap)0 calc(var(--gap)) !important;
 }
 
 .post .post-content figcaption {
@@ -20,7 +17,14 @@ a.footnote-ref, a.footnote-backref {
     text-align: center;
     }
 
-figcaption {
+a.footnote-ref, a.footnote-backref {
+    font-size: small;
+    margin: 2px;
+    border: 1px solid white;
+    box-shadow: none;
+}
+
+    figcaption {
     text-align: center;
     font-style: italic;
 }
