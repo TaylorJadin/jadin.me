@@ -1,5 +1,8 @@
 ---
 title: About Me
+slug: /about
+ShowReadingTime: False
+rss_ignore: true
 hidden: true
 ---
 
