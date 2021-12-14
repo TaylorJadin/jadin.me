@@ -10,7 +10,7 @@ tags:
 
 Hey maybe you will find this useful if you:
 1. Use macOS
-2. Use OBS’s Virtual Camera feature to send the output of OBS to Discord, Zoom, etc.
+2. Use OBS’s Virtual Camera feature to send the output of OBS to Discord, Zoom, etc.[^1]
 3. Have a [Stream Deck](https://www.elgato.com/en/stream-deck)
 4. Are annoyed that you are constantly opening OBS and clicking the “Start Virtual Camera” button
 
@@ -33,3 +33,5 @@ My first idea was to make a one-line script or Automator action and then point t
 BOOM, now you can click a button and OBS will start with the Virtual Camera feature already started up and ready to go. For bonus points, you can even go into OBS’s settings and enable the System Tray, and the “Minimize to system tray when started” checkbox, and you won’t even have hide/minimize the window after OBS starts.
 
 ![Screenshot of the OBS settings window](obs_settings.png)
+
+[^1]: This is a pretty fun thing you can do to add some video-productiony-goodness to video calls. You can do things like quickly switch between video cameras, add images and other effects, and basically do anything that OBS can do!
