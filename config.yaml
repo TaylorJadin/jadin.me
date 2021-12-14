@@ -40,7 +40,7 @@ outputs:
         - RSS
         - JSON
 Permalinks:
-  post: '/:slug'
+  post: '/:filename'
 params:
   defaultTheme: dark
   disableThemeToggle: true
