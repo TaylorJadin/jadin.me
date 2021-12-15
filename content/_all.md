@@ -1,6 +1,7 @@
 ---
 title: "Posts by date"
 layout: "archives"
-url: /all
+slug: /all
+rss_ignore: true
 ---
 
