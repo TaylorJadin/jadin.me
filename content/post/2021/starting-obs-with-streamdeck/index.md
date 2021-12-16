@@ -31,7 +31,7 @@ My first idea was to make a one-line script or Automator action and then point t
 
 ![Screenshot of Stream Deck software](streamdeck_screenshot.png)
 
-BOOM, now you can click a button and OBS will start with the Virtual Camera feature already started up and ready to go. For bonus points, you can even go into OBS’s settings and enable the System Tray, and the “Minimize to system tray when started” checkbox, and you won’t even have hide/minimize the window after OBS starts.
+BOOM, now you can click a button and OBS will start with the Virtual Camera feature already started up and ready to go. For bonus points, you can even go into OBS’s settings and enable the System Tray, and the “Minimize to system tray when started” checkbox, and you won’t even need to hide/minimize the window after OBS starts.
 
 ![Screenshot of the OBS settings window](obs_settings.png)
 
