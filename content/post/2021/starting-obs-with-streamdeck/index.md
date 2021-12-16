@@ -7,6 +7,7 @@ tags:
 aliases:
     - /starting-obs-with-virtual-camera-enabled-on-the-mac-using-a-stream deck
 ---
+Yeah that title is a mouthful.
 
 Hey maybe you will find this useful if you:
 1. Use macOS
