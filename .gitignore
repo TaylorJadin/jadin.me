@@ -1,5 +1,5 @@
 resources
 public
-deploy
+publish
 .hugo_build.lock
 .DS_Store
