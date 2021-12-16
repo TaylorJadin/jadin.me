@@ -27,7 +27,7 @@ open -a /Applications/OBS.app --args --startvirtualcam
 
 However, typing this on the terminal every time I want to start OBS obviously won’t save me any time. There are some things you could do, like save that in a text file and change the file extension to `.command` which will let you double click to run that command in a terminal window, but that's not very slick either, even though it may be fast. I wanted to see if I could do this via my Stream Deck.
 
-My first idea was to make a one-line script or Automator action and then point the Stream Deck to open that script, but I found it can be way simpler than that! It turns out the stream deck software has built-in suppot for running a terminal command in the background, it's just not terribly obvious. All you need to do is add a new Open action, then paste the terminal command from before in the App/File box.
+My first idea was to make a one-line script or Automator action and then point the Stream Deck to open that script, but I found it can be way simpler than that! It turns out the stream deck software has built-in suppot for running a terminal command in the background, it's just not terribly obvious. All you need to do is add a new Open action, then paste the command from before in the App/File box:
 
 ![Screenshot of Stream Deck software](streamdeck_screenshot.png)
 
