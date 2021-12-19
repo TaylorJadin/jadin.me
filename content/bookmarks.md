@@ -1,7 +1,7 @@
 ---
 title: Bookmarks
 slug: /bookmarks
-ShowReadingTime: False
+layout: "page"
 rss_ignore: true
 ---
 <div class="pinboard-tags">
