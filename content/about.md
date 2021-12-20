@@ -1,7 +1,7 @@
 ---
 title: About Me
 slug: /about
-ShowReadingTime: False
+layout: "page"
 rss_ignore: true
 hidden: true
 ---
