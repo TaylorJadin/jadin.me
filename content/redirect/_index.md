@@ -1,0 +1,4 @@
+---
+cascade:
+    layout: "redirect"
+---

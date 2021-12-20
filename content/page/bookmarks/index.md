@@ -2,7 +2,6 @@
 title: Bookmarks
 slug: /bookmarks
 layout: "page"
-rss_ignore: true
 ---
 <div class="pinboard-tags">
 <script language="javascript" src="https://pinboard.in/badge?user=taylorjadin&num=40&color=86CFF7-109FED&size=18-22"></script>
