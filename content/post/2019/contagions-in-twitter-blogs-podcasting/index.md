@@ -5,7 +5,7 @@ tags:
 - digpins
 - digital networks
 cover:
-    image: https://images.unsplash.com/photo-1533105320376-1b9894a4af15?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ
+    image: web.jpg
 ---
 
 _crossposted to [snc.digpins.org](https://snc.digpins.org/uncategorized/contagions-in-twitter-vs-blogs-vs-podcasting/)_

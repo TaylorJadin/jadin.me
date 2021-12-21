@@ -24,7 +24,7 @@
     {{ range (readDir $path) }}
         {{ $src := print $url "/" .Name }}
         <a data-fancybox="gallery" href="{{ $src }}" data-caption="{{ .Name }}">
-            <img src="{{ $src }}" alt="{{ .Name }}" title="{{ .Name }}" >  <br/>
+            <img class="gallery-img" src="{{ $src }}" alt="{{ .Name }}" title="{{ .Name }}" >  <br/>
         </a>
     {{ end }}
 </div>
