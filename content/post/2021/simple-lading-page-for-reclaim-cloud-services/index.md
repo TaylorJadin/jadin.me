@@ -9,7 +9,7 @@ cover:
 
 I haven’t revisited it in a while, but one of my favorite little projects I dug into at the beginning of the pandemic was [making my own little radio station using Azuracast](https://bavatuesdays.com/a-radio-of-ones-own-an-interview-with-taylor-jadin-on-ds106radio/). I need to get back to that, but one of the things on my checklist was to make a small improvement to the landing page for it, [radio.jadin.me](https://radio.jadin.me).
 
-The look of the landing page I was already pretty satisfied with, it's just an [HTML5UP template](https://html5up.net/) that I customized and put the embedded player, however, I want the page to show the player when my Azuracast instance is running, and to say that the stream is offline when I have Azurcast stopped to save money. I was doing this manually by just commenting out bits of the HTML that included the player whenever I would shut the station down, but I knew there were better ways that I just didn't have the time to investigate.
+The look of the landing page I was already pretty satisfied with, it's just an [HTML5UP template](https://html5up.net/) that I customized and slapped the embedded player from azuracast on, but I wanted the pager to automatically show that the stream was offline when I have Azurcast stopped in Reclaim Cloud to save money. I was doing this manually by just commenting out bits of the HTML that included the player whenever I would shut the station down, but I knew there were better ways to do this. I just didn't have the time to investigate.
 
 Why bother with this at all? If I left the page the same when the Azurcast instance I had in Reclaim Cloud environment shut down, the page would look like this:
 
