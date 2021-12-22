@@ -1,5 +1,5 @@
 ---
-title: A simple landing page for Reclaim Cloud services
+title: A simple landing page for stuff I run in Reclaim Cloud
 date: 2021-12-22
 tags:
 - reclaim-cloud
