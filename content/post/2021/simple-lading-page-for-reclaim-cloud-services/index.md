@@ -48,3 +48,5 @@ You can also see on the third to last line that I made a section that will actua
 Then you would simply change the `$online` variable in `index.php` to that error code it gave you.
 
 So with that done, I threw `index.php`, `online.html`, and `offline.html` on my subdomain using my FTP client and I was ready to go! Now when I start my radio station in Reclaim Cloud, my [radio.jadin.me ](https://radio.jadin.me)landing page automatically shows that the station is online!
+
+I think this simple method has a lot of potential. I could see having a landing page that checks to see if a Reclaim Cloud environment is spun up, and if it is, take you there with a redirect. If it's not spun up, it could do a lot of things. Maybe the page tells you to contact the owner of that account, or maybe even spin the environment up automatically via thhe Jelastic API? (possibly after entering a password). I'll have to keep exploring this 😀
