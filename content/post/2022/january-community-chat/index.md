@@ -5,7 +5,7 @@ tags:
 - domain of one's own
 - reclaim hosting
 cover:
-    image: demo-screenshot.jpg
+    image: demo-screenshot.jpeg
 ---
 
 Yesterday, Reclaim Hosting had its first ["Community Chat"](https://community.reclaimhosting.com/t/community-chat-jan-12-2022/4076/7) and I got to host it. The chat was focused around a site template I put together that is intended to help Domains admins showcase the work students, staff, and faculty are doing on their campus. The idea of making tools to build community around domains is [not](https://www.youtube.com/watch?v=hCYBxrFkR1A&list=PLpK5svzslv8qi8YZjqJqKS2hLEGwnUPF0&index=5) [new](https://drive.google.com/file/d/1zFYxpcjD4uHsUlvBXrwutNxljUPSHhly/view) [at](https://inspire.opened.ca/) [all](https://create.ou.edu/creaties/), but I was hoping to make something that schools that were new to DoOO could get started with and would be simple and flexible enough to grow with their needs over time. If there happens to be a Domains admin reading this, reach out to [support@reclaimhosting.com](mailto:support@reclaimhosting.com) and we can put the template on your server. I'm thinking if this template works out well for people, it may be something we build into the DoOO setup for new schools.
