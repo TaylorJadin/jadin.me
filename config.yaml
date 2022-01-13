@@ -7,8 +7,8 @@ menu:
         #   pre: <span class="main-pages">
         #   post: </span>
         #   weight: 10
-        - name: Bookmarks
-          url: /bookmarks
+        - name: Pinboard
+          url: /pins
           pre: <span class="main-pages">
           post: </span>
           weight: 20

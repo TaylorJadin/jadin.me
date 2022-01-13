@@ -3,6 +3,8 @@ title: Starting OBS with Virtual Camera enabled on the Mac using a Stream Deck
 date: 2021-12-14
 tags:
 - tools
+aliases:
+    - /starting-obs-with-virtual-camera-enabled-on-the-mac-using-a-stream-deck
 ---
 Yeah that title is a mouthful.
 
