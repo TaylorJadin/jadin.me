@@ -4,6 +4,7 @@ date: 2021-12-09
 tags:
 - career stuff
 cover:
+   relative: true
    image: Image.jpg
 ---
 {{< tweet user="brumface" id="1465784711285022726" >}}

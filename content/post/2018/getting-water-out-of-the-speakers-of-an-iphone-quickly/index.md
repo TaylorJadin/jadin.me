@@ -4,6 +4,7 @@ date: 2018-03-01T23:00:00Z
 tags:
 - ramblings
 cover:
+    relative: true
     image: waterphone.jpg
 ---
 

@@ -5,6 +5,7 @@ tags:
 - domain of one's own
 - tech bar
 cover:
+    relative true
     image: Screen-Shot-2019-03-29-at-11.04.53-AM.png
 ---
 

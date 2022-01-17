@@ -5,6 +5,7 @@ tags:
 - digital citizenship
 - domain of one's own
 cover:
+    relative: true
     image: passport.jpg
 ---
 

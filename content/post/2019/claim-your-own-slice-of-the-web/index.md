@@ -5,6 +5,7 @@ tags:
 - domain of one's own
 - tech bar
 cover:
+    relative: true
     image: 2.jpg
 ---
 
