@@ -4,6 +4,7 @@ date: 2022-01-20
 tags:
 - stream archive
 cover:
+    relative: true
     image: screencap.jpeg
 ---
 

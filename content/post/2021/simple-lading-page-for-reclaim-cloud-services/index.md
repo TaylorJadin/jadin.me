@@ -3,8 +3,6 @@ title: A simple landing page for stuff I run in Reclaim Cloud
 date: 2021-12-22
 tags:
 - reclaim cloud
-cover:
-   image:
 ---
 
 I haven’t revisited it in a while, but one of my favorite little projects I dug into at the beginning of the pandemic was [making my own little radio station using Azuracast](https://bavatuesdays.com/a-radio-of-ones-own-an-interview-with-taylor-jadin-on-ds106radio/). I need to get back to that, but one of the things on my checklist was to make a small improvement to the landing page for it, [radio.jadin.me](https://radio.jadin.me).

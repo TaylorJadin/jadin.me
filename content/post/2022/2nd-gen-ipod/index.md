@@ -4,6 +4,7 @@ date: 2022-01-20
 tags:
 - old stuff
 cover:
+    relative: true
     image: ipod.jpeg
 ---
 This is hilariously possible and still supported to this day in macOS:

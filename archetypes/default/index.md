@@ -4,5 +4,6 @@ date: {{ .Date }}
 tags:
 - 
 cover:
+    relative: true
     image: 
 ---

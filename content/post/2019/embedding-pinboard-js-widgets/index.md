@@ -6,6 +6,7 @@ tags:
 - indieweb
 - domain of one's own
 cover:
+    relative: true
     image: pinboard.png
 ---
 
