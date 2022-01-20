@@ -5,6 +5,7 @@ tags:
 - digpins
 - digital networks
 cover:
+    relative: true
     image: web.jpg
 ---
 

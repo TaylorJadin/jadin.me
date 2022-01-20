@@ -5,6 +5,7 @@ tags:
 - digpins
 - domain of one's own
 cover:
+    relative: true
     image: ttrss.png
 ---
 

@@ -5,6 +5,7 @@ tags:
 - family
 - music
 cover:
+    relative: true
     image: 
 ---
 

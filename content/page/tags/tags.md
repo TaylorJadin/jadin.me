@@ -1,7 +1,6 @@
 ---
 title: "Posts by tag"
-layout: "terms-tags"
+layout: "terms"
 slug: /tags
-
 ---
 

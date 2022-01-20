@@ -5,6 +5,7 @@ tags:
 - ramblings
 - tools
 cover:
+    relative: true
     image: dock.png
 ---
 

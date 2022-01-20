@@ -5,6 +5,7 @@ tags:
 - domain of one's own
 - reclaim hosting
 cover:
+    relative: true
     image: demo-screenshot.jpeg
 ---
 

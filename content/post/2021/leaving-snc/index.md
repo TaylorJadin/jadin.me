@@ -4,6 +4,7 @@ date: 2021-11-30
 tags: 
 - career stuff
 cover:
+    relative: true
     image: snc_campus.jpg
 ---
 Yesterday was my last day working at St. Norbert College and today was my first day at Reclaim Hosting. I can talk more about my new role at Reclaim Hosting and what I'm excited about soon, but first I need to reflect.
