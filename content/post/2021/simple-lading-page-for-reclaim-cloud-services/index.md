@@ -2,7 +2,7 @@
 title: A simple landing page for stuff I run in Reclaim Cloud
 date: 2021-12-22
 tags:
-- reclaim-cloud
+- reclaim cloud
 cover:
    image:
 ---
