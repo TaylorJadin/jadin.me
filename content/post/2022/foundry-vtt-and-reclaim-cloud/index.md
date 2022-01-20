@@ -7,7 +7,7 @@ cover:
     image: screencap.jpeg
 ---
 
-Yesterday I did a little stream over on [live.jadin.me](https://live.jadin.me) sort of documenting what I learned getting [Foundry Virtual Tabletop](https://foundryvtt.com/) set up on Reclaim Cloud. I learned a great deal about the idiosynrasies of different Docker containers, mapping extra storage containers etc.
+Yesterday I did a little stream over on [live.jadin.me](https://live.jadin.me) sort of documenting what I learned getting [Foundry Virtual Tabletop](https://foundryvtt.com/) set up on Reclaim Cloud. I learned a great deal about the idiosyncrasies of different Docker containers, mapping extra storage containers, etc.
 
 Recording is below!
 
