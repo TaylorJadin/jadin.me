@@ -2,5 +2,10 @@
   "legacyEditor": false,
   "livePreview": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "spellcheckDictionary": [
+    "EposVox",
+    "EposVox",
+    "EposVox"
+  ]
 }

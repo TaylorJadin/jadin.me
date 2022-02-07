@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "41ec8ad8998ca1a8",
+        "id": "b45c9399a86f663a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -63,7 +63,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "41ec8ad8998ca1a8",
+  "active": "b45c9399a86f663a",
   "lastOpenFiles": [
     "content/post/2022/obs-and-streaming-youtubers/index.md"
   ]
