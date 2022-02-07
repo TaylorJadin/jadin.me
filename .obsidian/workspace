@@ -1,0 +1,70 @@
+{
+  "main": {
+    "id": "f6a327e16f020bc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ec8ad8998ca1a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/post/2022/obs-and-streaming-youtubers/index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b261926eae8b07b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "66ff6223c286f683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dafc298d75fe8b0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a05769feefa96794",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d83b1b9aeb1804e9",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "41ec8ad8998ca1a8",
+  "lastOpenFiles": [
+    "content/post/2022/obs-and-streaming-youtubers/index.md"
+  ]
+}
