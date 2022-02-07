@@ -24,7 +24,7 @@ The EposVox channel is fantastic, and goes very deep into capture cards, mics, c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4z00jbded0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-He's also put out an OBS Studio "Master Class" that seems great, though I've only watched a few parts of it so far. I think it could be a great in depth tutorial for folks who want that:
+He's also put out an OBS Studio "Master Class" that seems great, though I've only watched a few parts of it so far. I think it could be a great in-depth tutorial for folks who want that:
 
 [OBS Studio Master Class Playlist - EposVox on YouTube](https://www.youtube.com/playlist?list=PLzo7l8HTJNK-IKzM_zDicTd2u20Ab2pAl)
 

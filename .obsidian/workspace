@@ -7,8 +7,12 @@
         "id": "df4018bc98346161",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/post/2022/obs-and-streaming-youtubers/index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
