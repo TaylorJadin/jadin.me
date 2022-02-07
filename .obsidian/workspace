@@ -11,6 +11,7 @@
           "state": {
             "file": "content/post/2022/obs-and-streaming-youtubers/index.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
