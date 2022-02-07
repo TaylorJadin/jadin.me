@@ -20,7 +20,7 @@ I really like the Alpha Gaming channel, Harris focuses a lot on game streaming c
 
 ## [EposVox](https://www.youtube.com/channel/UCRBHiacaQb5S70pljtJYB2g)
 
-The EposVox channel is fantastic, and goes very deep into capture cards, mics, sometimes cameras, and retro stuff. I really like the breadth of things he covers, and I think he does a pretty good job of covering more broad needs than just game streaming when relevant to the particular product he's talking about.
+The EposVox channel is fantastic, and goes very deep into capture cards, mics, cameras, and retro stuff. I really like the breadth of things he covers, and I think he does a pretty good job of covering more broad needs than just game streaming when relevant to the particular product he's talking about.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4z00jbded0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
