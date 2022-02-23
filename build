@@ -1,7 +1,7 @@
 #!/bin/bash
 
-hugoDir=/home/jadinme/jadin.me
-siteDir=/home/jadinme/public_html
+hugoDir='/home/jadinme/jadin.me'
+siteDir='/home/jadinme/public_html'
 
 if ! [ -d $hugoDir ]
 then

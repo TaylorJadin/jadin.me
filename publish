@@ -1,2 +1,1 @@
-#!/bin/bash
 ssh jadinme@jadin.me 'bash /home/jadinme/jadin.me/build'
