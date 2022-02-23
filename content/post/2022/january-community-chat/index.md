@@ -4,6 +4,7 @@ date: 2022-01-13
 tags:
 - domain of one's own
 - reclaim hosting
+- community chats
 cover:
     relative: true
     image: demo-screenshot.jpeg
