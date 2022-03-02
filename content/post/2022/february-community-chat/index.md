@@ -8,7 +8,7 @@ tags:
 - community chats
 cover:
     relative: true
-    image: 
+    image: screenshot-feb.png
 ---
 
 On February 9th[^1] we had our second Community Chat at Reclaim Hosting, this one called **State of Reclaim!** 
