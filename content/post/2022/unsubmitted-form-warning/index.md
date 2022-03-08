@@ -27,8 +27,8 @@ There isn't a built in feature in Gravity Forms for this, but it turns out that 
 
 You can then copy and paste that script into an HTML field in your form:
 
-![[html field.png]]
+![](htmlfield.png)
 
 Neat!
 
-![[form warning.png]]
+![](formwarning.png)
