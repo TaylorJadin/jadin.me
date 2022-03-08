@@ -13,7 +13,7 @@ I needed to add a warning to a form in Gravity Forms in case someone started fil
 
 There isn't a built in feature in Gravity Forms for this, but it turns out that using jQuery you can easily check if someone has clicked on any of the form inputs, and if they try to navigate a way throw up a warning. I found this snippet on the https://community.gravityforms.com/t/browser-warning-when-closing-tab-when-editing-filling-out-a-form/2637/10:
 
-```javascript
+```html
 <script>
     var userStartedForm;
     jQuery(document).on('focus', '.gform_wrapper input', function(){
