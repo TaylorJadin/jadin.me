@@ -9,5 +9,6 @@
     "EposVox",
     "DoOO"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

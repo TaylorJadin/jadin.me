@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/post/2022/february-community-chat/index.md",
+            "file": "content/post/2022/unsubmitted-form-warning/index.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 618
   },
   "right": {
     "id": "d83b1b9aeb1804e9",
@@ -66,6 +66,7 @@
   },
   "active": "df4018bc98346161",
   "lastOpenFiles": [
+    "content/post/2022/unsubmitted-form-warning/index.md",
     "content/post/2022/february-community-chat/index.md",
     "content/post/2022/february-community-chat/screenshot-feb.png",
     "content/post/2022/obs-and-streaming-youtubers/index.md"
