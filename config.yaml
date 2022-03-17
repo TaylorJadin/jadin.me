@@ -12,6 +12,11 @@ menu:
           pre: <span class="main-pages">
           post: </span>
           weight: 20
+        - name: Video
+          url: https://video.jadin.me
+          pre: <span class="main-pages">
+          post: </span>
+          weight: 25
         - name: Slides
           url: https://slides.jadin.me
           pre: <span class="main-pages">
