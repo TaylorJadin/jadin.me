@@ -7,9 +7,13 @@ cover:
     relative: true
     image: foundry.png
 ---
-I've had this post sitting incomplete in my drafts for a long time! This won't be a comprehensive tutorial on foundry itself after install, but I want to cover the basics and the Reclaim Cloud specific things that you will need if you don't want to have to worry about manually starting the foundry application every time you restart a container (the foundry guide doesn't cover this). You can also [run foundry in Reclaim Cloud using docker containers](https://video.jadin.me/w/sUCuVKBHjecn3oCTAGd5mS), but there are no officially maintained containers at this time, and I found issues with foundry plugin compatibility using Docker, so I went with the method below.
+I've had this post sitting incomplete in my drafts for a long time! 
 
-Make a first make a new environment, select node at the top of the window, enter your environment name, and set your cloudlets how you'd like them:
+[Foundry Virtual Tabletop](https://foundryvtt.com/) is an excellent, self-hostable virtual tabletop tool. You use it to play tabletop RPGs with other folks over the internet, (check the link above out if you are curiosu). It is a paid, NodeJS application that you can run on your own computer or on a server.
+
+This won't be a comprehensive tutorial on foundry itself after install, but I want to cover the basics and the Reclaim Cloud specific things that you will need if you don't want to have to worry about manually starting the foundry application every time you restart a container (the foundry guide doesn't cover this). You can also [run foundry in Reclaim Cloud using docker containers](https://video.jadin.me/w/sUCuVKBHjecn3oCTAGd5mS), but there are no officially maintained containers at this time, and I found issues with foundry plugin compatibility using Docker, so I went with the method below.
+
+First make a new environment, select node at the top of the window, enter your environment name, and set your cloudlets how you'd like them:
 ![screenshot of a node environment in reclaim cloud](slb-foundry.png)
 
 
