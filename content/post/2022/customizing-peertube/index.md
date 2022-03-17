@@ -46,10 +46,17 @@ body#custom-css {
 .block-title, /* hide the "on video.jadin.me" thing */
 .icon-logo, /* hide the logo at the top left */
 div.active-filter:nth-child(2), /* hide the sensitive content filter button*/
-.on-instance > a:nth-child(2) /* hide the trending button */
+.on-instance > a:nth-child(2) /* hide the disover button */
 {
   display: none !important;
 }
 ```
 
+## Peertube customization wishlist
+I do have some things that are still on my list to look into. 
+- I want to come up with something (probably javascript?) that would make it so the sidebar is closed by default. My PeerTube instance as of right doesn't have very many videos so the sidebar serves very little purpose for the visitor.
+- Color match the background colors to this blog site. This probably wouldn't be super difficult, I just haven't bothered[^2]
+
 [^1]: For instance, the sensitive content filter. I don't have any of that on my PeerTube instance, so that button is unnecessary
+
+[^2]: While I'm add it I shoud color match slides.jadin.me too
