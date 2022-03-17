@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c5182fd545e50b1",
+        "id": "df4018bc98346161",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "content/post/2022/foundry-on-reclaim-cloud/index.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 618
+    "width": 300
   },
   "right": {
     "id": "d83b1b9aeb1804e9",
@@ -59,11 +64,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c5182fd545e50b1",
+  "active": "df4018bc98346161",
   "lastOpenFiles": [
-    "content/post/2022/unsubmitted-form-warning/index.md",
-    "content/post/2022/february-community-chat/index.md",
-    "content/post/2022/february-community-chat/screenshot-feb.png",
-    "content/post/2022/obs-and-streaming-youtubers/index.md"
+    "content/post/2022/foundry-on-reclaim-cloud/index.md",
+    "content/post/2022/foundry-on-reclaim-cloud/slb-foundry.png",
+    "content/post/2022/foundry-on-reclaim-cloud/custom-domain-foundry-environment.png",
+    "content/draft/customizing-jitsi-meet/index.md",
+    "content/draft/she-walks-in-beauty/index.md",
+    "content/draft/march-community-chat/index.md",
+    "content/post/2022/foundry-on-reclaim-cloud/foundry.png",
+    "Pasted image 20220317091340.png.md",
+    "content/post/2022/january-community-chat/demo-screenshot.jpeg",
+    "content/post/2022/february-community-chat/index.md"
   ]
 }
