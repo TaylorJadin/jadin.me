@@ -10,7 +10,7 @@ cover:
   image: peertubescreenshot.png
 ---
 
-I've been playing with Peertube running on Reclaim Cloud quite a bit recently, and I wanted to spruce my install at [video.jadin.me](https://video.jadin.me) up a bit.
+PeerTube is a really nice self-hostable YouTube alternative that [Jim Groom](https://bavatuesdays.com) has been using for a bit, and I wanted to spin up my own install at [video.jadin.me](https://video.jadin.me) and theme it a bit to fit in with this blog site. 
 
 The first thing I did was install the dark theme, which I thought would more closely match my blog site as a starting point. You can do this from **Administration > Plugins/Themes**. I grabbed the official dark theme:
 ![screenshot of themes in the peertube admin interface](peertubethemes.png)
@@ -50,4 +50,4 @@ div.active-filter:nth-child(2), /* hide the sensitive content filter button*/
 }
 ```
 
-[^1]: For instance, the sensitive content filter. I don't have any of that on my Peertube instance, so that button is unnecessary
+[^1]: For instance, the sensitive content filter. I don't have any of that on my PeerTube instance, so that button is unnecessary
