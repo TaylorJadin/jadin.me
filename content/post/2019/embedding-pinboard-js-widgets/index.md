@@ -5,6 +5,7 @@ tags:
 - meta
 - indieweb
 - domain of one's own
+- css
 cover:
     relative: true
     image: pinboard.png

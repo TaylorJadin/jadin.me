@@ -4,6 +4,7 @@ date: 2018-02-20T22:56:00Z
 tags:
 - domain of one's own
 - tech bar
+- css
 cover:
     relative: true
     image: Screen-Shot-2019-03-29-at-11.04.53-AM.png
