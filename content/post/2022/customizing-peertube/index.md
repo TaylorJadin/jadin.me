@@ -59,4 +59,4 @@ I do have some things that are still on my list to look into.
 
 [^1]: For instance, the sensitive content filter. I don't have any of that on my PeerTube instance, so that button is unnecessary
 
-[^2]: While I'm add it I shoud color match slides.jadin.me too
+[^2]: While I'm add it I shoud color match [slides.jadin.me](https://slides.jadin.me) too
