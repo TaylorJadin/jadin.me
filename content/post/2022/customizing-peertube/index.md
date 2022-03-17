@@ -10,7 +10,7 @@ cover:
   image: peertubescreenshot.png
 ---
 
-PeerTube is a really nice self-hostable YouTube alternative that [Jim Groom](https://bavatuesdays.com) has been using for a bit, and I wanted to spin up my own install at [video.jadin.me](https://video.jadin.me) and theme it a bit to fit in with this blog site. 
+PeerTube is a really nice self-hostable YouTube alternative that [Jim](https://bavatuesdays.com) has been using for a bit and introduced me to. I wanted to spin up my own install at [video.jadin.me](https://video.jadin.me) and theme it a bit to fit in with this blog site. 
 
 The first thing I did was install the dark theme, which I thought would more closely match my blog site as a starting point. You can do this from **Administration > Plugins/Themes**. I grabbed the official dark theme:
 ![screenshot of themes in the peertube admin interface](peertubethemes.png)
