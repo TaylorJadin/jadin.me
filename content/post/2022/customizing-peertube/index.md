@@ -15,9 +15,11 @@ PeerTube is a really nice self-hostable YouTube alternative that [Jim](https://b
 The first thing I did was install the dark theme, which I thought would more closely match my blog site as a starting point. You can do this from **Administration > Plugins/Themes**. I grabbed the official dark theme:
 ![screenshot of themes in the peertube admin interface](peertubethemes.png)
 
-After installing it, you will need to enabled it from the **Administration > Configuration > Basic** page. 
+After installing it, you will need to enable it from the **Administration > Configuration > Basic** page. 
 
-What I really wanted to do was change the accent colors in the interface, as well as hide some buttons that I feel like are unnecessary with the way I use Peertube[^1]. Custom CSS can be entered on the **Administration > Configuration > Advanced** page. I wanted to simply post my CSS customizations here in case anyone finds them to be useful! Note that these are most likely also specific to the dark theme I am using, so they may require tweaking if you are using a different theme. 
+What I really wanted to do was change the accent colors in the interface, as well as hide some buttons that I felt were unnecessary given the way I use Peertube[^1]. Custom CSS can be entered on the **Administration > Configuration > Advanced** page.
+
+I wanted to post my CSS customizations here in case anyone finds them to be useful. Note that these are most likely  specific to the dark theme I am using, so they may require tweaking if you are using a different theme. 
 
 ```css
 /* Change colors */
