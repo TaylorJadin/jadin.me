@@ -24,4 +24,4 @@ I think this is an important thing that I see people misunderstand all the time,
 
 I took a music composition course in undergrad, and that is where I learned about this concept. I was told that a good way to be able to prove (in court) that you were the copyright owner of a piece of music you wrote was to print off your composition, put it in an envelope and mail it to yourself so that it would be postmarked. Then you would simply never open it.
 
-Anyway, the whole episode is really good, even if you know some of these concepts already. I think it's valuable to hear concise explanations of stuff like this, to clarify my own understanding, but to help me descrive this stuff to other people too.
+Anyway, the whole episode is really good, even if you know some of these concepts already. I think it's valuable to hear concise explanations of stuff like this, not only to clarify my own understanding, but to help me descrive this stuff to other people too.
