@@ -8,7 +8,7 @@ cover:
   image:
 ---
 
-I'm listening to an episode of The FOSS Pod right now and they are talkig about open source licensing, how the licensing part of Open Source is the real, fundamentally improtant thing:
+I'm listening to an episode of The FOSS Pod right now and they are talkig about open source licensing, how the licensing part of Open Source is the real, fundamentally important thing:
 
 [The FOSS Pod: Open Source 101](https://fosspod.content.town/episodes/open-source-101)
 
@@ -23,3 +23,5 @@ I think this is an important thing that I see people misunderstand all the time,
 > Copyright is a type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression.
 
 I took a music composition course in undergrad, and that is where I learned about this concept. I was told that a good way to be able to prove (in court) that you were the copyright owner of a piece of music you wrote was to print off your composition, put it in an envelope and mail it to yourself so that it would be postmarked. Then you would simply never open it.
+
+Anyway, the whole episode is really good, even if you know some of these concepts already. I think its valuable to hear concise explanations of stuff like this, to clarify my own understanding, but to help me descrive this stuff to other people too.
