@@ -12,13 +12,11 @@ I'm listening to an episode of The FOSS Pod right now and they are talkig about 
 
 [The FOSS Pod: Open Source 101](https://fosspod.content.town/episodes/open-source-101)
 
-<video width="500" height="500" controls>
-  <source src="fosspodclip.mp4" type="video/mp4">
-</video> 
+<iframe title="Clip from The FOSS Pod: Open Source 101" src="https://video.jadin.me/videos/embed/75f7c775-8cd9-45cc-8a9d-3bd7620a407e" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 > So the secret of open source is the license, and this is a thing that I didn't really appreciate until fairly recently. Licensing is important because of copyright. And I think a lot of people don't realize that copyright happens automatically by default, whether you do anything or not. So that was a thing, in the course of us planning this episode that I had no idea about, I thought that I thought that you copyright your work, you had to actively go through some kind of legal process to instate that. But apparently that's not the case. Can you help demystify that?
 
-I think this is an important thing that I see people misunderstand all the time, copyright applies to things that you create unless you specify otherwise. This is spelled out in pretty plane language on [copyright.gov](https://copyright.gov/what-is-copyright/):
+I think this is an important thing that I see people misunderstand all the time, copyright applies to things that you create unless you specify otherwise. This is spelled out in pretty plain language on [copyright.gov](https://copyright.gov/what-is-copyright/):
 
 [What is Copyright?](https://www.copyright.gov/what-is-copyright/)
 
