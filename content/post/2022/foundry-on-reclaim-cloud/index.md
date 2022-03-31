@@ -11,7 +11,7 @@ I've had this post sitting incomplete in my drafts for a long time!
 
 [Foundry Virtual Tabletop](https://foundryvtt.com/) is an excellent, self-hostable virtual tabletop tool. You use it to play tabletop RPGs with other folks over the internet, (check the link above out if you are curious). It is a paid, NodeJS application that you can run on your own computer or on a server.
 
-This won't be a comprehensive tutorial on foundry itself after install, but I want to cover the basics and the Reclaim Cloud specific things that you will need if you don't want to have to worry about manually starting the foundry application every time you restart a container (the foundry guide doesn't cover this). You can also [run foundry in Reclaim Cloud using docker containers](https://video.jadin.me/w/sUCuVKBHjecn3oCTAGd5mS), but there are no officially maintained containers at this time, and I found issues with foundry plugin compatibility using Docker, so I went with the method below.
+This won't be a comprehensive tutorial on foundry itself after install, but I want to cover the basics and the Reclaim Cloud specific things that you will need if you don't want to have to worry about manually starting the foundry application every time you restart a container (foundry's own install guide doesn't really cover this). You can also [run foundry in Reclaim Cloud using docker containers](https://video.jadin.me/w/sUCuVKBHjecn3oCTAGd5mS), but there are no officially maintained containers at this time, and I found issues with foundry plugin compatibility using Docker, so I went with the method below.
 
 First make a new environment, select node at the top of the window, enter your environment name, and set your cloudlets how you'd like them:
 ![screenshot of a node environment in reclaim cloud](slb-foundry.png)
@@ -25,7 +25,7 @@ The first thing we are going to do is get rid of the sample node application tha
 rm -r ~/ROOT/*
 ```
 
-Now we're going to basically just follow the instructions on the foundry website:
+Now you'll need to log in to the foundry website, and get your temporary download link for the linux version of Foundry. Then we're going to basically just follow the instructions on the foundry website:
 ```shell
 # Create application and user data directories
 cd $HOME
@@ -41,7 +41,7 @@ unzip foundryvtt.zip
 node resources/app/main.js --dataPath=$HOME/foundrydata
 ```
 
-This will start the foundry in the terminal, but if you try to load the URL, you probably won't see anything yet, as Foundry listens on port 30000 and Jelastic checks for port forwards when it starts a container. For now, you can just quit foundry by using the keyboard shortcut **ctrl+c**
+This will start foundry in the terminal, but if you try to load the URL, you probably won't see anything yet, as Foundry listens on port 30000 and Jelastic checks for port forwards when it starts a container. For now, you can just quit foundry by using the keyboard shortcut **ctrl+c** in the terminal.
 
 Now, we need to set up Foundry to auto start when the container launches! We will make a symlink that will allow Jelastic to launch our application. By default, Jelastic is configured to launch `server.js` in the `~/ROOT` folder, instead of adjusting this, I find it simpler to just make this symlink:
 ```bash
