@@ -72,3 +72,7 @@ author:
   email: taylor@jadin.me
 disqusShortname: https-jadin-me
 googleAnalytics: UA-114305115-1
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
