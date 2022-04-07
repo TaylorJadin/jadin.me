@@ -8,17 +8,17 @@ cover:
     relative: true
     image: jelastic-shell.png
 ---
-I use SSH access to different environment in Reclaim Cloud a lot, but one thing that I like to do is use a native terminal app (I use [iTerm2](https://iterm2.com) on macOS) instead of the Web SSH functionality built in to Jelastic. Web SSH is amazingly convenient, but web-based terminals like that frequently lack some of the features I am used to in desktop-based terminals like, certain keyboard shortcuts, organization features like tabs and panes[^1], etc. Sometimes copy and paste, is also a little funky on Web based terminals as well. 
+I use SSH access to different environment in Reclaim Cloud a lot, but one thing that I like to do is use a native terminal app (I use [iTerm2](https://iterm2.com) on macOS) instead of the Web SSH functionality built in to Jelastic. Web SSH is amazingly convenient, but web-based terminals like that frequently lack some of the features I am used to in desktop-based terminals like, certain keyboard shortcuts, organization features like tabs and panes[^1], etc. Sometimes copy and paste is also a little funky on Web based terminals as well. 
 
 [^1]: How could I possibly be productive WITHOUT panes that let you do stuff like this???![Screenshot of a terminal window with 4 panes, neofetch, gotop, htop, and sl clockwise starting from the top left, lots of nonsense](Capture%202022-04-07T100415.gif)
 
-Luckily you can very easily use any terminal or SSH client you want with environments on Reclaim Cloud, if you like. For  environments where you know the password of the account and you give it a public IP address, you can use SSH like you would to log in to any other server. 
+Luckily you can very easily use any terminal or SSH client you want with environments on Reclaim Cloud, if you like. For  environments where you know the password of the user account and you give it a public IP address, you can use SSH like you would to log in to any other server. 
 
 But what about environments that you don't know the password, or don't have a public IP? Or maybe, like me, you want a way to quickly jump between a bunch of different environments like you can with Web SSH? For this we have the Jelastic SSH Gate! This will allow you to use a text based menu in your terminal to SSH access to any environment in your account!
 
 To get started  need to generate a keypair using the terminal on your computer with `ssh-keygen`. You can in most cases just press enter and accept the defaults when doing this. Next you will want to copy the contents of the `id_rsa.pub` file that gets generated. `id_rsa.pub` is the public part of the public/private keypair. Basically, you never want to share the private key, but the public key is what you can load on to other computers to prove you are who you say you are. 
 
-To copy the key you can use the `cat` command to print the contents of the file to your terminal where you can copy it.
+You can use the `cat` command to print the contents of the file to your terminal where you can copy it.
 
 ```bash
 cat ~/.ssh/id_rsa.pub
