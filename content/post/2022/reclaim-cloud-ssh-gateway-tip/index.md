@@ -10,7 +10,7 @@ cover:
 ---
 I use SSH access to different environment in Reclaim Cloud a lot, but one thing that I like to do is use a native terminal app (I use [iTerm2](https://iterm2.com) on macOS) instead of the Web SSH functionality built in to Jelastic. Web SSH is amazingly convenient, but web-based terminals like that frequently lack some of the features I am used to in desktop-based terminals like, certain keyboard shortcuts, organization features like tabs and panes[^1], etc. Sometimes copy and paste is also a little funky on Web based terminals as well. 
 
-[^1]: How could I possibly be productive WITHOUT panes that let you do stuff like this???![Screenshot of a terminal window with 4 panes, neofetch, gotop, htop, and sl clockwise starting from the top left, lots of nonsense](Capture%202022-04-07T100415.gif)
+[^1]: How could I possibly be productive WITHOUT stuff like this /s ![Screenshot of a terminal window with 4 panes, neofetch, gotop, htop, and sl clockwise starting from the top left, lots of nonsense](Capture%202022-04-07T100415.gif)
 
 Luckily, you can very easily use any terminal or SSH client you want with environments on Reclaim Cloud, if you like. For environments where you know the password of the user account and you give it a public IP address, you can use SSH like you would to log in to any other server. 
 
