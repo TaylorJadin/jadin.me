@@ -27,6 +27,9 @@ menu:
         - name: Posts by tag
           url: /tags
           weight: 50
+        - name: RSS
+          url: /index.xml
+          weight: 55
         - name: Search
           url: /search
           weight: 60
