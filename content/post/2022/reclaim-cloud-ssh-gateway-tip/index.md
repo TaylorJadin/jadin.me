@@ -2,6 +2,7 @@
 title: A Tip for Quick SSH Access on Reclaim Cloud
 date: 2022-04-07
 tags:
+- reclaim
 - reclaim cloud
 - terminal
 cover:

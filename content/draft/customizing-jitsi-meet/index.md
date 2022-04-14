@@ -2,6 +2,7 @@
 title: Customizing Jitsi Meet
 date: 20xx-xx-xx
 tags:
+- reclaim
 - reclaim cloud
 - docker
 cover:

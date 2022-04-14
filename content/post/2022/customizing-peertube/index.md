@@ -2,6 +2,7 @@
 title: Customizing the look of Peertube
 date: 2022-03-17
 tags:
+- reclaim
 - reclaim cloud
 - css
 - peertube
