@@ -56,6 +56,7 @@ params:
   disableThemeToggle: true
   env: production
   comments: true
+  ShowFullTextinRSS: true
   ShowShareButtons: false
   ShowReadingTime: true
   ShowPostNavLinks: true

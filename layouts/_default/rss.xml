@@ -42,8 +42,8 @@
       <description>{{ with .Description | html }}{{ . }}{{ else }}{{ .Summary | html }}{{ end -}}</description>
       {{- if .Site.Params.ShowFullTextinRSS }}
       <content:encoded>{{ (printf "<![CDATA[%s]]>" .Content) | safeHTML }}</content:encoded>
-      {{- end }}
-    </item>
+    {{- end }}
+  </item>
     {{- end }}
     {{ end }}
   </channel>
