@@ -11,7 +11,7 @@ cover:
     image: 
 ---
 
-A very, very, common thing that I find myself doing working with web stuff is copying a long URL, but only needing the domain name part to paste into a terminal or elsewhere. Its annoying to carefully select just part of the URL, and even more annoying to manually delete the parts I don't need:
+A very, very, common thing that I find myself doing while working with web stuff is copying a long URL, but only needing the domain name part to paste into a terminal or elsewhere. It's annoying to carefully select just part of the URL, and even more annoying to manually delete the parts I don't need:
 
 <video style="max-width:100%" autoplay loop muted controls>
 	<source src="copypastebefore.mp4">
@@ -20,7 +20,7 @@ A very, very, common thing that I find myself doing working with web stuff is co
 
 I love automating and making little shortcuts to simplify repetitive tasks like this!
 
-After wasting time trying to do this with regular expressions, [Nick Plank](https://flyingchaucer.net) pointed me in the right direction. All I needed was to programmatically divide the text up into groups using the forward slash as a separator then grab the text in the third group. Here's a visual:
+After wasting time trying to do this with regular expressions, [Nick Plank](https://flyingchaucer.net) pointed me in the right direction. All I needed was to programmatically divide the text up into groups using the forward slash as a separator, then grab the text in the third group. Here's a visual:
 
 ![a URL divided into 4 parts deliminited by the forward slashes, color coded, starting with https://](slashdelimitors.png)
 
@@ -44,7 +44,7 @@ echo -n $domain
 echo -n $domain | pbcopy
 ```
 
-The script basically just gets the contents of the clipboard using `pbpaste` and uses `cut` to divide the URL into parts using by the forward slash as the seperator. If the URL starts with **https:** or **http:** it will grab the 3rd group of text, and if not it grabs the first group. Finally, it prints out the domain to the terminal, then uses `pbcopy` to copy the domain name to the clipboard. 
+The script basically just gets the contents of the clipboard using `pbpaste` and uses `cut` to divide the URL into parts using by the forward slash as the separator. If the URL starts with **https:** or **http:** it will grab the 3rd group of text, and if not it grabs the first group. Finally, it prints out the domain to the terminal, then uses `pbcopy` to copy the domain name to the clipboard. 
 
 This works well, but I don't really want to have to open a separate terminal to use it all the time[^1], so I used this script to make an [Alfred](https://www.alfredapp.com/) workflow. Now I can trigger all of that to automation by just typing `;domain` anywhere on my Mac!
 
