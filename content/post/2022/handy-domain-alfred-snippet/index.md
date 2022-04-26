@@ -1,5 +1,5 @@
 ---
-title: A handy Alfred Workflow get just the domain name from a URL in your clipboard
+title: A handy Alfred Workflow to get just the domain name from a URL in your clipboard
 date: 2022-04-25
 tags:
 - scripting
