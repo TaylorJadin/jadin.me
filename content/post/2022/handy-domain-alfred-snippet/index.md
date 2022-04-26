@@ -8,7 +8,7 @@ tags:
 - Reclaim
 cover:
     relative: true
-    image: 
+    image: alfred-header.png
 ---
 
 A very, very, common thing that I find myself doing while working with web stuff is copying a long URL, but only needing the domain name part to paste into a terminal or elsewhere. It's annoying to carefully select just part of the URL, and even more annoying to manually delete the parts I don't need:
