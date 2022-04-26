@@ -46,7 +46,7 @@ echo -n $domain | pbcopy
 
 The script basically just gets the contents of the clipboard using `pbpaste` and uses `cut` to divide the URL into parts using by the forward slash as the separator. If the URL starts with **https:** or **http:** it will grab the 3rd group of text, and if not it grabs the first group. Finally, it prints out the domain to the terminal, then uses `pbcopy` to copy the domain name to the clipboard. 
 
-This works well, but I don't really want to have to open a separate terminal to use it all the time[^1], so I used this script to make an [Alfred](https://www.alfredapp.com/) workflow. Now I can trigger all of that to automation by just typing `;domain` anywhere on my Mac!
+This works well, but I don't really want to have to open a separate terminal to use it all the time[^1], so I used this script to make an [Alfred](https://www.alfredapp.com/) workflow. Now I can trigger all of that automation by just typing `;domain` anywhere on my Mac!
 
 <video style="max-width:100%" autoplay loop muted controls>
 	<source src="alfred-demo.mp4">
@@ -54,6 +54,7 @@ This works well, but I don't really want to have to open a separate terminal to 
 </video>
 
 If you'd find this useful, and you are an Alfred user, you can get my workflow here!
-- [Domain-snippet.alfredworkflow.zip](Domain-snippet.alfredworkflow.zip)
+
+⬇️ [Domain-snippet.alfredworkflow.zip](Domain-snippet.alfredworkflow.zip)
 
 [^1]: Pay no attention to the fact that my demo video shows me pasting this into a terminal, lol. I'm often pasting domain names into web pages or Slack as well!
