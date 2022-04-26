@@ -53,8 +53,8 @@ This works well, but I don't really want to have to open a separate terminal to 
 	Your browser does not support the video tag.
 </video>
 
-If you'd find this useful, and you are an Alfred user, you can get my workflow here!
+If you'd find this useful, and you are an Alfred user, you can get my workflow here:
 
-⬇️  [Domain-snippet.alfredworkflow.zip](Domain-snippet.alfredworkflow.zip)
+⬇️ [Domain-snippet.alfredworkflow.zip](Domain-snippet.alfredworkflow.zip)
 
 [^1]: Pay no attention to the fact that my demo video shows me pasting this into a terminal, lol. I'm often pasting domain names into web pages or Slack as well!
