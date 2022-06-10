@@ -3,7 +3,7 @@ title: Messing around with Kasm Workspaces on Reclaim Cloud
 date: 2022-04-27
 tags:
 - reclaim
-- reclaimcloud
+- reclaim cloud
 - docker
 cover:
     relative: true
