@@ -8,7 +8,7 @@ tags:
 - peertube 
 cover:
     relative: true
-    image: 
+    image: peertube-studio.png
 ---
 
 [PeerTube 4.2 is out, and it has all kinds of features I'm excited about](https://joinpeertube.org/news#release-4.2) like in-place editing of videos, replays of recurring live streams (basically you can have a permanent Twitch-like URL where you can go live and then have a recording of that livestream automatically available afterward), latency settings for livestreams, and a bunch of other stuff. 
@@ -42,7 +42,7 @@ docker-compose up -d
 
 ... and that was it! Afterward all that was left to do to take full advantage of the new cool stuff in PeerTube 4.2 was to go into the **Administration** menu, then **Configuration**, then **VOD Transcoding** and scroll to the bottom of the page to enable the in-place video editing features:
 
-![Capture 2022-06-21T140125](Capture%202022-06-21T140125.png)
+![Screenshot of the bottom Configuration settings page in PeerTube](configuration.png)
 
 
 
