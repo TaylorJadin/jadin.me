@@ -3,6 +3,7 @@ title: Embedding and Sharing WebRecorder Archives
 date: 2022-06-10
 tags:
 - reclaim cloud
+- reclaim
 - domain of one's own
 - tools
 - site archiving
