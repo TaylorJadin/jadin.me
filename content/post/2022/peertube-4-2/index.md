@@ -25,7 +25,7 @@ While this did seem to pull some updates, I didn't see much of anything change i
 
 ## Fixing Live Chat
 
-After using `docker-compose logs -f` to look at the logs. I tracked down a [GitHub issue that seemed similar to my problems with the Live Chat plugin](https://github.com/JohnXLivingston/peertube-plugin-livechat/issues/99#issuecomment-1160567713)[^1]. A temporary workaround while the developer of the plugin gets things updated for PeerTube 4.2 is to add this line to edit the following file in the docker-volume folder: `docker-volume/data/plugins/node_modules/peertube-plugin-livechat/dist/server/lib/prosody/config/content.js`
+After using `docker-compose logs -f` to look at the logs. I tracked down a [GitHub issue that seemed similar to my problems with the Live Chat plugin](https://github.com/JohnXLivingston/peertube-plugin-livechat/issues/99#issuecomment-1160567713)[^1]. A temporary workaround while the developer of the plugin gets things updated for PeerTube 4.2 is to add a line the following file in the docker-volume folder: `docker-volume/data/plugins/node_modules/peertube-plugin-livechat/dist/server/lib/prosody/config/content.js`
 
 On line 87, after the line that begins with `this.global.set('daemonize`, I added: `this.global.set('run_as_root', true);` and saved the file. I when back to the home folder and did a `docker-compose down` and a `docker-compose up -d` to restart PeerTube. This fixed the chat, but still left me without access to any of the new 4.2 features.
 
