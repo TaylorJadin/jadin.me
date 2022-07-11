@@ -3,7 +3,7 @@ title: A handy Alfred Workflow to get just the domain name from a URL in your cl
 date: 2022-04-25
 tags:
 - scripting
-- terminal
+- cli
 - macOS
 - Reclaim
 cover:

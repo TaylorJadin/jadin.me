@@ -4,7 +4,7 @@ date: 2022-04-07
 tags:
 - reclaim
 - reclaim cloud
-- terminal
+- cli
 cover:
     relative: true
     image: jelastic-shell.png

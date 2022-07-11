@@ -7,6 +7,7 @@ tags:
 - domain of one's own
 - tools
 - site archiving
+- stream archive
 cover:
     relative: true
     image: snapshot.jpg

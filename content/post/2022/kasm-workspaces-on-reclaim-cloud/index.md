@@ -5,6 +5,7 @@ tags:
 - reclaim
 - reclaim cloud
 - docker
+- stream archive
 cover:
     relative: true
     image: kasm-cover.png
