@@ -21,10 +21,10 @@ menu:
           url: https://slides.jadin.me
           pre: <span class="main-pages">
           weight: 30
-        - name: Posts by date
+        - name: All Posts
           url: /all
           weight: 40
-        - name: Posts by tag
+        - name: Tags
           url: /tags
           weight: 50
         - name: RSS
