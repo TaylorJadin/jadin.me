@@ -13,13 +13,13 @@ This is a quick little post to document something I've found handy! A common way
 
 ![screenshot of an environment in reclaim cloud with an nginx load balancer, and node application server](reclaim-cloud-nginx-node.png)
 
-The trick is some applications that you run won't automatically redcirect URLs with HTTP to HTTPS, so you have to manually type HTTPS in your address bar. Turns out with a quick config change in NGINX, you can have the load balancer redirect all HTTP requests to HTTPS!
+The trick is some applications that you run won't automatically redirect URLs with HTTP to HTTPS, so you have to manually type HTTPS in your address bar. Turns out, with a quick config change in NGINX, you can have the load balancer redirect all HTTP requests to HTTPS!
 
-The first step is to use the config panel to make a a new file in the `conf.d` folder for nginx. I called mine `redirect.conf`.
+The first step is to use the config panel to make a new file in the `conf.d` folder for nginx. I called mine `redirect.conf`.
 
 ![an animation showing creating the blank redirect.conf file](redirect-conf.gif)
 
-The you can put the following text in the file and save the file:
+Then you can put the following text in the file and save the file:
 
 ```
 server {
