@@ -1,6 +1,6 @@
 ---
 title: The Basics of the Command Line 
-date: 2022-07-11
+date: 2022-07-11T14:15:59-06:00
 tags:
 - reclaim
 - cli
