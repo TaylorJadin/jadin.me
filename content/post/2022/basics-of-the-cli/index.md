@@ -11,7 +11,7 @@ cover:
 ---
 A couple of weeks ago I did a quick stream (ok it wasn't quick, it was almost 90 minutes) on the Basics of the Command Line.
 
-My goal was to start at the beginning, with navigating around files and folders and editing text, while picking up some tips and tricks along the way, as well show why the command line is still so useful and important. I spend a lot of time trying to drive home that you should _definitely definitely_ use the tab key to autocomplete paths as it will make your life easier. I also get into some automation stuff, like using `|` and `>` to chain commands together and do some simple automations.
+My goal was to start at the beginning, with navigating around files and folders and editing text, while picking up some tips and tricks along the way, as well show why the command line is still so useful and important. I spend a lot of time trying to drive home that you should _definitely definitely_ use the tab key to autocomplete paths as it will make your life easier. I also get into some automation stuff, like using `|` and `>` to chain commands together.
 
 <iframe title="Basics of the  Command Line" src="https://video.jadin.me/videos/embed/c6cbc052-84a2-493f-89ed-74739ef3e6a2" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
