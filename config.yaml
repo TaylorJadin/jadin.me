@@ -48,9 +48,9 @@ outputs:
     - RSS
     - JSON
 Permalinks:
-  post: '/:filename'
-  page: '/:filename'
-  redirect: '/:filename'
+  posts: '/:filename'
+  pages: '/:filename'
+  redirects: '/:filename'
 params:
   defaultTheme: dark
   disableThemeToggle: true
