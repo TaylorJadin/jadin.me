@@ -1,6 +1,5 @@
 #!/bin/bash
 
-POST_TITLE=$1
+POST_TITLE=$(echo $1 | sed 's/ /-/g')
 
 hugo new posts/drafts/$POST_TITLE
-cd ./content/posts/drafts/$POST_TITLE 

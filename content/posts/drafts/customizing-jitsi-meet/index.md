@@ -1,6 +1,6 @@
 ---
 title: Customizing Jitsi Meet
-date: 20xx-xx-xx
+date:
 tags:
 - reclaim
 - reclaim cloud

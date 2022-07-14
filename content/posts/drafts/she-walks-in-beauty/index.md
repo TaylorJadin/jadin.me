@@ -1,6 +1,6 @@
 ---
 title: She Walks in Beauty
-date: 2021-01-08
+date:
 tags:
 - family
 - music
