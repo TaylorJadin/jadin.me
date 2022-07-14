@@ -11,4 +11,4 @@ git clone --recurse-submodules https://github.com/TaylorJadin/jadin.me.git
  - [ ] Implement light theme
  - [ ] Make about me page, include light portfolio and link to resume
  - [ ] Make workflow for short posts / link posts
- - [ ] Integrate / Make workflow for podcast episodes + youtube uploads??
+ - [ ] Integrate / Make automated workflow for podcast episodes + youtube uploads??
