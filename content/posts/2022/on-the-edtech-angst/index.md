@@ -10,7 +10,7 @@ cover:
 
 All the cool kids are blogging about the EdTech angst, including some Reclaimers. The discussion all started with Audrey Watters’s post on the [end of Hack Education and her stepping away from edtech](https://hackeducation.com/2022/06/15/so-long-and-thanks-for-all-the-fish). I, like many others, have followed Audrey’s work for a while, and that work has played a pretty big role in demonstrating to me the value of a critical perspective of technology in my field of choice, edtech, from an early point in my career.
 
-From that announcement has sprouted lots of blogging on the state of edtech (as well as blogging about the blogging about the state of edtech). I’m collecting a list of posts I've come across here, as well as links to when some of the posts were referenced in [Stephen Downes's OLDaily](https://www.downes.ca/news/OLDaily.htm) (represented by 🐦). A better writer would, you know, contextually link to things 🤷🏻‍♂️. I'll do some of that, but I also like a good list of links, so here we go:
+From that announcement has sprouted lots of blogging on the state of edtech (as well as blogging about the blogging about the state of edtech). I’m collecting a list of posts I've come across here, as well as links to when some of the posts were referenced in [Stephen Downes's OLDaily](https://www.downes.ca/news/OLDaily.htm) (represented by 🐦). A better writer would, you know, contextually link to things 🤷🏻‍♂️. I'll do some of that, but I also like a good list of links, so here it is:
 
 - [The End - hackeducation.com](https://hackeducation.com/2022/06/15/so-long-and-thanks-for-all-the-fish) [🐦](https://www.downes.ca/post/73823)
 - [Goodbye Ed-tech, and Good Riddance - audreywatters.com](https://audreywatters.com/2022/06/15/goodbye-and-good-riddance)
@@ -41,7 +41,7 @@ Oh yeah, I'm talking about My Chemical Romance.[^1]
 
 I'd consider myself an optimistic person, but that optimism survived (was forged in the flames of?) high school, [teenage](https://youtu.be/k6EQAOmJrbw) hormones, feeling like an outsider, low-self esteem, and the ridiculous thought that only I felt this particular way. In many ways, this brand of pop-punk-emo-alt-rock[^2] helped (I think) as an outlet.
 
-All of this has little point other than to say, "hey um, my blog post has a theme and a soundtrack, so that's fun," and to explain the mood I'm in while writing. I'd typically not throw my 2 cents in on stuff like this, even though I care a lot about it, because I think what I have to say is said better by the people in the posts linked above.
+All of this has little point other than to say, "hey um, my blog post has a theme and a soundtrack, so that's fun," and to explain the mood I'm in while writing. I'd typically not throw my 2 cents in on stuff like this, even though I care a lot about it, because I think what I have to say is said better by the people in the posts linked above, but here we go.
 
 [^2]: In general, it's a pandering sub-genre that knew its audience. At least MCR feels pretty self-aware and self-deprecating with its album concepts that [perhaps unsurprisingly](https://en.wikipedia.org/wiki/The_Umbrella_Academy) feel like they were ripped from a comic book.
 
