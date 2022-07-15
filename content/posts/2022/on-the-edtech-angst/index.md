@@ -1,6 +1,6 @@
 ---
 title: Have you heard the news that you're dead? (on the edtech angst)
-date: 2022-07-14
+date: 2022-07-14T23:23:46-0500
 tags:
 - ramblings
 cover:
