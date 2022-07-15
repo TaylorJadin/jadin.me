@@ -39,7 +39,7 @@ Oh yeah, I'm talking about My Chemical Romance.[^1]
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dhZTNgAs4Fc?start=161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I'd consider myself an optimistic person, but that optimism survived (was forged in the flames of?) high school and [teenage](https://youtu.be/k6EQAOmJrbw) hormones, feeling like an outsider, low-self esteem, and the ridiculous thought that only I felt that way. In many ways, this brand of pop-punk-emo-alt-rock[^2] helped (I think) as an outlet.
+I'd consider myself an optimistic person, but that optimism survived (was forged in the flames of?) high school, [teenage](https://youtu.be/k6EQAOmJrbw) hormones, feeling like an outsider, low-self esteem, and the ridiculous thought that only I felt this particular way. In many ways, this brand of pop-punk-emo-alt-rock[^2] helped (I think) as an outlet.
 
 All of this has little point other than to say, "hey um, my blog post has a theme and a soundtrack, so that's fun," and to explain the mood I'm in while writing. I'd typically not throw my 2 cents in on stuff like this, even though I care a lot about it, because I think what I have to say is said better by the people in the posts linked above.
 
