@@ -54,7 +54,7 @@ A lot of the discussion has been around some variation of the question, "is edte
 >
 > Now that the company has been acquired, I don't have an answer when someone asks me that "gotcha" question. You got me: "Nope. There's not a goddamn thing." And that certainly means it's time for me to step away from ed-tech for good.
 
-I understand that this is a little type of edtech that Audrey is referring to here, most likely, but it still touches a nerve if you happen to work at a small edtech company, like Reclaim. I think this is where Jim's coming from in his first post, [Is Edtech Dead?](https://bavatuesdays.com/is-edtech-dead/)
+I understand that the type of edtech that Audrey is referring to here is part of a bigger industry and isn't MY edtech, but it still touches a nerve if you happen to work at a small edtech company, like Reclaim. I think this is where Jim's coming from in his first post, [Is Edtech Dead?](https://bavatuesdays.com/is-edtech-dead/)
 > Am I working in a Reclaim bubble? I remain very much compelled by the work we do in this “dead” field, and I have not abandoned all hope just yet.
 
 In my opinion, the best edtech is the kind that operates in an exploratory space, but one that is not driven by investor priorities, an idea that [Jim digs into in his follow-up:](https://bavatuesdays.com/thinking-about-edtech/)
@@ -88,6 +88,8 @@ The post-pandemic feeling of "yeah, we've seen your online learning, and don't w
 
 So where does that leave us? Is it just doom and gloom? Well, it might not come through clearly amidst my rambling in this post, but I'm generally optimistic. Ultimately, my optimism (as always) stems from people doing the good work out there, students advocating for themselves and their learning needs, teachers continuously refining their practice, and technologists pushing boundaries and enabling new learning experiences. At SNC I got to do that work alongside people who demonstrated what it means to be student-centered, and the importance of critical edtech. Now at Reclaim it's been energizing to be part of a company that was built on those values, and to work with edtechs around the world who are trying to enable transformative teaching and learning. It's hard not for me to feel energized when [I see some of the cool things people are doing on the open web](https://abject.ca/trailing-edge-technologies/), especially given the tools required and cost of entry are lower than ever. 
 
-Spreading this brand of optimism happens person-to-person, I think, and done right can be infectious. So share what your working on, and fire up your blog machine. Oh and make sure you have a fully stocked RSS reader to keep up!
+Spreading this brand of optimism happens person-to-person, I think, and done right can be infectious. So share what you're working on, and fire up your blog machine. Oh, and make sure you have a fully stocked RSS reader[^3] to keep up!
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RRKJiM9Njr8?start=167" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[^3]: If you are new to the idea of RSS, I really like [Joe Murphy's post](https://tweedyimpertinence.josephmurphy.name/tech-tips/joes-tech-tip-tracking-blogs/) thats a couple years old but still a good intro. I like to use Feedbin for its excellent web reader and newsletter collecdting features, but you can self-host stuff like FreshRSS or Tiny Tiny RSS, or use free options like Feedly!
