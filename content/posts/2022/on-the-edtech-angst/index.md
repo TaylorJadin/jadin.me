@@ -69,7 +69,7 @@ Unfortunately, I'm pretty sure that big-money Edtech is not actually going anywh
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UCCyoocDxBA?start=95" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Dead!
+## Have you heard the news that you're dead? No one ever had much nice to say
 Early pandemic, when faculty were scrambling to "pivot," many folks supporting faculty in higher ed (including myself) were saying the some or all of these things to anyone that would listen: 
 - there will be a lot more online teaching during the pandemic and post-pandemic
 - an abrupt shift to online teaching is going to be really hard on faculty and students
@@ -84,7 +84,7 @@ The post-pandemic feeling of "yeah, we've seen your online learning, and don't w
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/H48kOqqaWv0?start=35" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Welcome to the Black Parade
+##  So paint it black and take it back, Let's shout it loud and clear 
 
 So where does that leave us? Is it just doom and gloom? Well, it might not come through clearly amidst my rambling in this post, but I'm generally optimistic. Ultimately, my optimism (as always) stems from people doing the good work out there, students advocating for themselves and their learning needs, teachers continuously refining their practice, and technologists pushing boundaries and enabling new learning experiences. At SNC I got to do that work alongside people who demonstrated what it means to be student-centered, and the importance of critical edtech. Now at Reclaim it's been energizing to be part of a company that was built on those values, and to work with edtechs around the world who are trying to enable transformative teaching and learning. It's hard not for me to feel energized when [I see some of the cool things people are doing on the open web](https://abject.ca/trailing-edge-technologies/), especially given the tools required and cost of entry are lower than ever. 
 
