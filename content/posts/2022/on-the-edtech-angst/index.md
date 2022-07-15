@@ -76,6 +76,7 @@ Early pandemic, when faculty were scrambling to "pivot," many folks supporting f
 - creating good online learning experiences takes time and care to design properly
 - emergency pandemic online classes are about the worst first exposure to online learning that anyone could imagine
 - people that were skeptical or on the fence on online learning are only going to come out of this with a more negative view of online learning especially if this is their first/only exposure
+- because of the above points, it’s likely the outside perception of online learning is going to take one step forward and two steps back
 
 From my point of view, most of these predictions unfortunately held up, and were complicated further by the particular brand of techno-solutionism sold by capital E Edtech. It led some orgnizations to double down on spending for these kinds of tools instead of doubling down on supporting students, faculty, and staff.
 
