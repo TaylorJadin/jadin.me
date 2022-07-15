@@ -72,10 +72,10 @@ Unfortunately, I'm pretty sure that big-money Edtech is not actually going anywh
 ## Dead!
 Early pandemic, when faculty were scrambling to "pivot," many folks supporting faculty in higher ed (including myself) were saying the same things to anyone that would listen: 
 - there will be a lot more online teaching during the pandemic and post-pandemic
-- an abrupt shift to online teaching is going to be hard on faculty and students
+- an abrupt shift to online teaching is going to be really hard on faculty and students
 - creating good online learning experiences takes time and care to design properly
-- emergency pandemic online classes is about the worst first exposure to online learning that anyone could imagine
-- people that were skeptical or on the fence are going to come out of this with a more negative view of online learning if this is their only exposure
+- emergency pandemic online classes are about the worst first exposure to online learning that anyone could imagine
+- people that were skeptical or on the fence on online learning are only going to come out of this with a more negative view of online learning if this is their only exposure
 
 This particular bit of [Martin Weller's post](http://blog.edtechie.net/edtech/reviewing-the-ed-tech-angst/) on the place many edtechs found themselves in post-pandemic struck home with me:
 > And then when it was all over, there was a big parade to thank them. Well, no. They were [chastised in the media](http://blog.edtechie.net/higher-ed/why-do-education-secretaries-hate-online-learning/) for online education being on a par with stealing from the charity box outside a sweet shop. And many found that post-pandemic their views were not respected, but instead met with a ‘thanks, but now we’ve seen how important it is, we’re going to put a proper executive in charge’ approach (not at the OU I should hasten to add, just things I’ve picked up anecdotally). That kind of stuff can get a person down.
