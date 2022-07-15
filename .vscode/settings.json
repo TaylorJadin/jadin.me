@@ -5,5 +5,8 @@
             "scheme": "file",
             "pattern": "content/post/2022/embedding-webrecorder-archives/index.md"
         }
+    ],
+    "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+        "tongue-in-cheek-ness"
     ]
 }
