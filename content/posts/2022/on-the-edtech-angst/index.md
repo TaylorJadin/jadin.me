@@ -31,7 +31,7 @@ From that announcement has sprouted lots of blogging on the state of edtech (as 
 
 ## I'm Not Okay (I Promise)
 
-I can't help it, but thinking of the mid-to-late-aughts and "angst" reminds me of some of the music I listened to in high school and middle school, the emo/pop punk hybrid that by the end of high school I would have been ashamed to admit I once liked. Now, as an adult entering his 30s, I enjoy revisiting it with the help of equal amounts nostalgia and tongue-in-cheek-ness.
+I can't help it, but thinking of the mid-to-late-aughts and "angst" reminds me of music I listened to in high school and middle school, an emo/pop punk hybrid that by the end of high school I would have been ashamed to admit I once liked. Now, as an adult entering his 30s, I enjoy revisiting it with the help of equal amounts nostalgia and tongue-in-cheek-ness.
 
 Oh yeah, I'm talking about My Chemical Romance.[^1]
 
