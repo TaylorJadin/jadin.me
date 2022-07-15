@@ -70,7 +70,7 @@ Unfortunately, I'm pretty sure that big-money Edtech is not actually going anywh
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UCCyoocDxBA?start=95" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Dead!
-Early pandemic, when faculty were scrambling to "pivot," many folks supporting faculty in higher ed (including myself) were saying the same things to anyone that would listen: 
+Early pandemic, when faculty were scrambling to "pivot," many folks supporting faculty in higher ed (including myself) were saying the some or all of these things to anyone that would listen: 
 - there will be a lot more online teaching during the pandemic and post-pandemic
 - an abrupt shift to online teaching is going to be really hard on faculty and students
 - creating good online learning experiences takes time and care to design properly
