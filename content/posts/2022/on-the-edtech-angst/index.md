@@ -71,7 +71,7 @@ Unfortunately, I'm pretty sure that big-money Edtech is not actually going anywh
 
 ## Dead!
 Early pandemic, when faculty were scrambling to "pivot," many folks supporting faculty in higher ed (including myself) were saying the same things to anyone that would listen: 
-- there will be more online teaching during and post-pandemic
+- there will be a lot more online teaching during the pandemic and post-pandemic
 - an abrupt shift to online teaching is going to be hard on faculty and students
 - creating good online learning experiences takes time and care to design properly
 - emergency pandemic online classes is about the worst first exposure to online learning that anyone could imagine
@@ -92,4 +92,4 @@ Spreading this brand of optimism happens person-to-person, I think, and done rig
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RRKJiM9Njr8?start=167" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[^3]: If you are new to the idea of RSS, I really like [Joe Murphy's post](https://tweedyimpertinence.josephmurphy.name/tech-tips/joes-tech-tip-tracking-blogs/) thats a couple years old but still a good intro. I like to use Feedbin for its excellent web reader and newsletter collecdting features, but you can self-host stuff like FreshRSS or Tiny Tiny RSS, or use free options like Feedly!
+[^3]: If you are new to RSS, I really like [Joe Murphy's post](https://tweedyimpertinence.josephmurphy.name/tech-tips/joes-tech-tip-tracking-blogs/) thats a couple years old but still a good intro. I like to use Feedbin for its excellent web reader and newsletter collecdting features, but you can self-host stuff like FreshRSS or Tiny Tiny RSS, or use free options like Feedly!
