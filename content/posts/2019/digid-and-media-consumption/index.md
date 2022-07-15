@@ -4,6 +4,7 @@ date: 2019-01-14T23:05:00Z
 tags:
 - digpins
 - domain of one's own
+- ramblings
 cover:
     relative: true
     image: ttrss.png

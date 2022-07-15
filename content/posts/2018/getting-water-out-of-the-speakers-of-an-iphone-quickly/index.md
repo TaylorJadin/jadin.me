@@ -2,7 +2,7 @@
 title: "Getting water out of the speakers of an iPhone quickly"
 date: 2018-03-01T23:00:00Z
 tags:
-- ramblings
+- tools
 cover:
     relative: true
     image: waterphone.jpg
