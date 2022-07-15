@@ -70,12 +70,14 @@ Unfortunately, I'm pretty sure that big-money Edtech is not actually going anywh
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UCCyoocDxBA?start=95" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Have you heard the news that you're dead? No one ever had much nice to say
-Early pandemic, when faculty were scrambling to "pivot," many folks supporting faculty in higher ed (including myself) were saying the some or all of these things to anyone that would listen: 
+Early pandemic, when faculty were scrambling to "pivot," many folks supporting faculty in higher ed (including myself) were saying some or all of these things to anyone that would listen: 
 - there will be a lot more online teaching during the pandemic and post-pandemic
 - an abrupt shift to online teaching is going to be really hard on faculty and students
 - creating good online learning experiences takes time and care to design properly
 - emergency pandemic online classes are about the worst first exposure to online learning that anyone could imagine
 - people that were skeptical or on the fence on online learning are only going to come out of this with a more negative view of online learning especially if this is their first/only exposure
+
+From my point of view, most of these predictions unfortunately held up, and were complicated further by the particular brand of techno-solutionism sold by capital E Edtech. It led some orgnizations to double down on spending for these kinds of tools instead of doubling down on supporting students, staff, and faculty.
 
 This particular bit of [Martin Weller's post](http://blog.edtechie.net/edtech/reviewing-the-ed-tech-angst/) on the place many edtechs found themselves in post-pandemic struck home with me:
 > And then when it was all over, there was a big parade to thank them. Well, no. They were [chastised in the media](http://blog.edtechie.net/higher-ed/why-do-education-secretaries-hate-online-learning/) for online education being on a par with stealing from the charity box outside a sweet shop. And many found that post-pandemic their views were not respected, but instead met with a ‘thanks, but now we’ve seen how important it is, we’re going to put a proper executive in charge’ approach (not at the OU I should hasten to add, just things I’ve picked up anecdotally). That kind of stuff can get a person down.
