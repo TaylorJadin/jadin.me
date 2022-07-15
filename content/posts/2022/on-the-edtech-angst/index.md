@@ -10,7 +10,7 @@ cover:
 
 All the cool kids are blogging about the EdTech angst, including some Reclaimers. The discussion all started with Audrey Watters’s post on the [end of Hack Education and her stepping away from edtech](https://hackeducation.com/2022/06/15/so-long-and-thanks-for-all-the-fish). I, like many others, have followed Audrey’s work for a while, and that work has played a pretty big role in demonstrating to me the value of a critical perspective of technology in my field of choice, edtech, from an early point in my career.
 
-From that announcement has sprouted lots of blogging on the state of edtech (as well as blogging about the blogging about the state of edtech). Mostly for myself, I’m making a list of links I've come across, as well as links to when some of the posts were referenced in [Stephen Downes's OLDaily](https://www.downes.ca/news/OLDaily.htm) (represented by 🐦). A better writer would, you know, contextually link to things 🤷🏻‍♂️. I'll do some of that, but I also like a good list of links, so here we go:
+From that announcement has sprouted lots of blogging on the state of edtech (as well as blogging about the blogging about the state of edtech). I’m collecting a list of posts I've come across here, as well as links to when some of the posts were referenced in [Stephen Downes's OLDaily](https://www.downes.ca/news/OLDaily.htm) (represented by 🐦). A better writer would, you know, contextually link to things 🤷🏻‍♂️. I'll do some of that, but I also like a good list of links, so here it is:
 
 - [The End - hackeducation.com](https://hackeducation.com/2022/06/15/so-long-and-thanks-for-all-the-fish) [🐦](https://www.downes.ca/post/73823)
 - [Goodbye Ed-tech, and Good Riddance - audreywatters.com](https://audreywatters.com/2022/06/15/goodbye-and-good-riddance)
@@ -39,9 +39,9 @@ Oh yeah, I'm talking about My Chemical Romance.[^1]
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dhZTNgAs4Fc?start=161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I'd consider myself an optimistic person, but that optimism survived (was forged in the flames of?) high school and [teenage](https://youtu.be/k6EQAOmJrbw) hormones, feeling like an outsider, low-self esteem, and the ridiculous thought that only I felt that way. In many ways, this brand of pop-punk-emo-alt-rock[^2] helped (I think) as an outlet.
+I'd consider myself an optimistic person, but that optimism survived (was forged in the flames of?) high school, [teenage](https://youtu.be/k6EQAOmJrbw) hormones, feeling like an outsider, low-self esteem, and the ridiculous thought that only I felt this particular way. In many ways, this brand of pop-punk-emo-alt-rock[^2] helped (I think) as an outlet.
 
-All of this has little point other than to say, "hey um, my blog post has a theme and a soundtrack, so that's fun," and to explain the mood I'm in while writing. I'd typically not throw my 2 cents in on stuff like this, even though I care a lot about it, because I think what I have to say is said better by the people in the posts linked above.
+All of this has little point other than to say, "hey um, my blog post has a theme and a soundtrack, so that's fun," and to explain the mood I'm in while writing. I'd typically not throw my 2 cents in on stuff like this, even though I care a lot about it, because I think what I have to say is said better by the people in the posts linked above, but here we go.
 
 [^2]: In general, it's a pandering sub-genre that knew its audience. At least MCR feels pretty self-aware and self-deprecating with its album concepts that [perhaps unsurprisingly](https://en.wikipedia.org/wiki/The_Umbrella_Academy) feel like they were ripped from a comic book.
 
@@ -76,6 +76,7 @@ Early pandemic, when faculty were scrambling to "pivot," many folks supporting f
 - creating good online learning experiences takes time and care to design properly
 - emergency pandemic online classes are about the worst first exposure to online learning that anyone could imagine
 - people that were skeptical or on the fence on online learning are only going to come out of this with a more negative view of online learning especially if this is their first/only exposure
+- because of the above points, it’s likely the outside perception of online learning is going to take one step forward and two steps back
 
 From my point of view, most of these predictions unfortunately held up, and were complicated further by the particular brand of techno-solutionism sold by capital E Edtech. It led some orgnizations to double down on spending for these kinds of tools instead of doubling down on supporting students, faculty, and staff.
 
@@ -88,9 +89,9 @@ The post-pandemic feeling of "yeah, we've seen your online learning, and don't w
 
 ##  So paint it black and take it back, Let's shout it loud and clear 
 
-So where does that leave us? Is it just doom and gloom? Well, it might not come through clearly amidst my rambling in this post, but I'm generally optimistic. Ultimately, my optimism (as always) stems from people doing the good work out there, students advocating for themselves and their learning needs, teachers continuously refining their practice, and technologists pushing boundaries and enabling new learning experiences. At SNC I got to do that work alongside people who demonstrated what it means to be student-centered, and the importance of critical edtech. Now at Reclaim it's been energizing to be part of a company that was built on those values, and to work with edtechs around the world who are trying to enable transformative teaching and learning. It's hard not for me to feel energized when [I see some of the cool things people are doing on the open web](https://abject.ca/trailing-edge-technologies/), especially given the tools required and cost of entry are lower than ever. 
+So where does that leave us? Is it just doom and gloom? Well, it might not come through clearly amidst my rambling in this post, but I'm generally optimistic. Ultimately, my optimism (as always) stems from people doing the good work out there, students advocating for themselves and their learning needs, teachers continuously refining their practice, and technologists pushing boundaries and enabling new learning experiences in thoughtful and unique ways. At SNC I got to do that work alongside people who demonstrated to me what it means to be student-centered, and the importance of critical edtech. Now at Reclaim it's been energizing to be part of a company that was built on those values, and to work with edtechs around the world who are trying to enable transformative teaching and learning. It's hard not for me to feel energized when [I see some of the cool things people are doing on the open web](https://abject.ca/trailing-edge-technologies/).
 
-Spreading this brand of optimism happens person-to-person, I think, and done right can be infectious. So share what you're working on, and fire up your blog machine. Oh, and make sure you have a fully stocked RSS reader[^3] to keep up!
+Spreading this brand of optimism happens person-to-person, I think, and done right it can be infectious. So share what you're working on, and fire up your blog machine. Oh, and make sure you have a fully stocked RSS reader[^3] to keep up!
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RRKJiM9Njr8?start=167" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
