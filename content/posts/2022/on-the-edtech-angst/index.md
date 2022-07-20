@@ -25,6 +25,7 @@ From that announcement has sprouted lots of blogging on the state of edtech (as 
 - [A Trailing Edge Technologies Share-a-thon - abject.ca](https://abject.ca/trailing-edge-technologies/)
 - [The Blogsphere is Hot....with Edtech Angst - bavatuesdays.com](https://bavatuesdays.com/the-blogsphere-is-hot-with-edtech-angst/) [🐦](https://www.downes.ca/post/73924)
 - [You want (edtech) angst? Take it from a millennial - amanda-wentworth-schmidt.com](https://www.amanda-wentworth-schmidt.com/mandas-musings/millennial-take-on-edtech/)
+- [Ed Tech Boxes - bionicteaching.com](https://bionicteaching.com/ed-tech-boxes/) [🐦](http://www.downes.ca/post/73951/rd)
 
 
 [As Jim says](https://bavatuesdays.com/the-blogsphere-is-hot-with-edtech-angst/), the [blogsphere is hot](https://www.youtube.com/watch?v=12yD8JyaVvY), and it's pretty cool to look at the list above and see so much discussion in this little community. Is this what blogging in 2008 was like?
