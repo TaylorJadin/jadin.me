@@ -96,4 +96,4 @@ Spreading this brand of optimism happens person-to-person, I think, and done rig
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RRKJiM9Njr8?start=167" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[^3]: If you are new to RSS, I really like [Joe Murphy's post](https://tweedyimpertinence.josephmurphy.name/tech-tips/joes-tech-tip-tracking-blogs/) thats a couple years old but still a good intro. I like to use Feedbin for its excellent web reader and newsletter collecdting features, but you can self-host stuff like FreshRSS or Tiny Tiny RSS, or use free options like Feedly!
+[^3]: If you are new to RSS, I really like [Joe Murphy's post](https://tweedyimpertinence.josephmurphy.name/tech-tips/joes-tech-tip-tracking-blogs/) as an introduction. It's a couple years old but still really good. I like to use Feedbin for its excellent web reader and newsletter collecting features, but you can self-host stuff like FreshRSS or Tiny Tiny RSS, or use free options like Feedly!
