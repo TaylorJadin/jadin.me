@@ -7,8 +7,8 @@ menu:
         #   pre: <span class="main-pages">
         #   post: </span>
         #   weight: 10
-        - name: Pinboard
-          url: /pins
+        - name: Bookmarks
+          url: https://raindrop.io/jadin-taylor/public-26229943/sort=-created&perpage=30&page=0
           pre: <span class="main-pages">
           post: </span>
           weight: 20
@@ -21,8 +21,8 @@ menu:
           url: https://slides.jadin.me
           pre: <span class="main-pages">
           weight: 30
-        - name: All Posts
-          url: /all
+        - name: Archive
+          url: /archive
           weight: 40
         - name: Tags
           url: /tags
