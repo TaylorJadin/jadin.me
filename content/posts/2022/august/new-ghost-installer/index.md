@@ -11,7 +11,7 @@ cover:
     image: 
 ---
 
-Today Jim and I did a stream showcasing our new Ghost installer for Reclaim Cloud that should automate a lot of common setup tasks that people run into when using Ghost. I'm really proud of this installer because I've put a bunch of time into making this thing really simple to use for folks who don't have experience with Docker or Reclaim Cloud, but just want to get Ghost up and running quickly.
+Today Jim and I did a stream showcasing a new Ghost installer for Reclaim Cloud that should automate a lot of common setup tasks that people run into when using Ghost. I'm really proud of this installer because I've put a bunch of time into making this thing really simple to use for folks who don't have experience with Docker or Reclaim Cloud, but just want to get Ghost up and running quickly.
 
 <iframe title="Exploring  our new Ghost installer on Reclaim Cloud!" src="https://video.jadin.me/videos/embed/6fb6f4b9-f7b3-4d13-ad1d-4e0788dfa651" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
