@@ -15,7 +15,7 @@ This is the first one of these posts, and I get to start by mentioning a book I 
 
 ## Games
 
-I've been playing [Rollerdrome](https://store.steampowered.com/app/1294420/Rollerdrome/) this week, which just came out. It's a fantastic indie game that's like [Tony Hawk's Pro Skater](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_(video_game)) meets [Vanquish](https://store.steampowered.com/app/460810/Vanquish[^1]. You skate around, shoot at enemies in an arena, try to survive and reload your weapons by landing tricks. I've mostly been playing on the Steam Deck. Can't recommend it highly enough.
+I've been playing [Rollerdrome](https://store.steampowered.com/app/1294420/Rollerdrome/) this week, which just came out. It's a fantastic indie game that's like [Tony Hawk's Pro Skater](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_(video_game)) meets [Vanquish](https://store.steampowered.com/app/460810/Vanquish)[^1]. You skate around, shoot at enemies in an arena, try to survive and reload your weapons by landing tricks. I've mostly been playing on the Steam Deck. Can't recommend it highly enough.
 
 [^1]:Not a relatable comparison? Fine its [SSX Tricky](https://en.wikipedia.org/wiki/SSX_Tricky) meets DOOM.
 
