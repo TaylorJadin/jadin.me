@@ -37,7 +37,7 @@ Abby is starting as the new choir director at Oconto Falls High School, and I've
 
 I sold my car I've been driving since 2013, and bought a 2015 BMW X1, from my parents actually. I've been having too much fun getting comfy in the new car and learning about its bells and whistles.
 
-I did [some CSS stuff](https://github.com/TaylorJadin/foundryvtt-custom-login/blob/main/foundryvtt/resources/app/public/css/custom.css) to make a custom login page for the Foundry isntall the D&D group I play in weekly uses. I think it looks pretty cool, and it has nice links to where we keep our private session recordings and the Azuracast station I use to broadcast background music. I've [blogged about Foundry before](https://jadin.me/foundry-on-reclaim-cloud/), but I should do an update on the other tech, radio, and streaming related stuff I do with our D&D group as I've often used it as playground to try out stuff that I would bring to work.
+I did [some CSS stuff](https://github.com/TaylorJadin/foundryvtt-custom-login/blob/main/foundryvtt/resources/app/public/css/custom.css) to make a custom login page for the Foundry server the D&D group I play in weekly uses. I think it looks pretty cool, and it has nice links to where we keep our private session recordings and the Azuracast station I use to broadcast background music. I've [blogged about Foundry before](https://jadin.me/foundry-on-reclaim-cloud/), but I should do an update on the other tech, radio, and streaming related stuff I do with our D&D group as I've often used it as playground to try out stuff that I would later make use of at work.
 
 ![screenshot of the Foundry login page.](foundry_login.png)
 
