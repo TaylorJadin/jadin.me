@@ -41,4 +41,6 @@ I did [some CSS stuff](https://github.com/TaylorJadin/foundryvtt-custom-login/bl
 
 ![screenshot of the Foundry login page.](foundry_login.png)
 
+Finally, I dumped [Pinboard](https://pinboard.in) as its web archiving feature I pay extra for hasn't really been working for some time. I've moved over to [Raindrop.io](https://raindrop.io) and its browser extensions, mobiile apps, desktop apps, and the whole service are fantastic. Really impressed so far.
+
 Welp, this was supposed to be short, and it wasn't really. This is the first one so that makes sense I suppose, I'll have to keep up with these so they can actually be short!
