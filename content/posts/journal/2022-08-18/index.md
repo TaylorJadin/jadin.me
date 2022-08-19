@@ -15,9 +15,9 @@ I just finished [Children of time by Adrian Tchaikovsky](https://www.fictiondb.c
 
 ## Games
 
-I've been playing [Rollerdrome](https://store.steampowered.com/app/1294420/Rollerdrome/) this week, which just came out. It's a fantastic indie game that's like [Tony Hawk's Pro Skater](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_(video_game)) meets [Vanquish](https://store.steampowered.com/app/460810/Vanquish)[^1]. You skate around, shoot at enemies in an arena, try to survive and reload your weapons by landing tricks. I've mostly been playing on the Steam Deck. Can't recommend it highly enough.
+I've been playing [Rollerdrome](https://store.steampowered.com/app/1294420/Rollerdrome/) this week, which just came out. It's a fantastic indie game that's like [SSX Tricky](https://en.wikipedia.org/wiki/SSX_Tricky) meets [Vanquish](https://store.steampowered.com/app/460810/Vanquish)[^1]. You skate around, shoot at enemies in an arena, try to survive and reload your weapons by landing tricks. I've mostly been playing on the Steam Deck. Can't recommend it highly enough.
 
-[^1]:Not a relatable comparison? Fine its [SSX Tricky](https://en.wikipedia.org/wiki/SSX_Tricky) meets DOOM.
+[^1]:Not a relatable comparison? Fine its [Tony Hawk’s Pro Skater](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_(video_game)) meets DOOM.
 
 ![gif of a roller skater firing a shotgun at a mech](rollerdrome.gif "Look at this and tell me this doesn't look rad as hell.</small>") 
 
