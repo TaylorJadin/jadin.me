@@ -1,0 +1,2 @@
+#!/bin/bash
+hugo new posts/journal/$(date +%Y-%m-%d)

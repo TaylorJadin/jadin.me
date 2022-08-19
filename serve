@@ -1,2 +1,8 @@
 #!/bin/bash
-hugo serve --buildFuture --buildDrafts --buildExpired
+
+if [[ `uname -n` == "taylor-compy" ]]; then
+    # WSL
+    hugo.exe serve --buildFuture --buildDrafts --buildExpired
+else
+    hugo serve --buildFuture --buildDrafts --buildExpired
+fi
