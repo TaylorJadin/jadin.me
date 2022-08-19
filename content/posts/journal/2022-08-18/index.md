@@ -19,11 +19,11 @@ I've been playing [Rollerdrome](https://store.steampowered.com/app/1294420/Rolle
 
 [^1]:Not a relatable comparison? Fine its [Tony Hawk’s Pro Skater](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_(video_game)) meets DOOM.
 
-![gif of a roller skater firing a shotgun at a mech](rollerdrome.gif "Look at this and tell me this doesn't look rad as hell.</small>") 
+![gif of a roller skater firing a shotgun at a mech](rollerdrome.gif "Look at this and tell me this doesn't look rad as hell.") 
 
 I've also been playing [Yakuza Kiwami](https://store.steampowered.com/app/834530/Yakuza_Kiwami/) which is a remake/reimagining of the original PS2 game that started the series. I played Yakuza 0 a few years back and loved its over-the-top goofiness and melodrama. This is more of that in a good way, so far.
 
-![man threatening to hit two people with a moped lifted over his head](yakuza.webp “This image was worth linking to just so I could write the alt text: man threatening to hit two people with a moped lifted over his head”)
+![man threatening to hit two people with a moped lifted over his head](yakuza.webp “This image was worth linking to just so I could write the alt text man threatening to hit two people with a moped lifted over his head”)
 
 ## Work
 
