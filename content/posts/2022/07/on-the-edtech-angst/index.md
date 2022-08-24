@@ -5,7 +5,7 @@ tags:
 - ramblings
 cover:
     relative: true
-    image: cover.png
+    image: cover.webp
 ---
 
 All the cool kids are blogging about the EdTech angst, including some Reclaimers. The discussion all started with Audrey Watters’s post on the [end of Hack Education and her stepping away from edtech](https://hackeducation.com/2022/06/15/so-long-and-thanks-for-all-the-fish). I, like many others, have followed Audrey’s work for a while, and that work has played a pretty big role in demonstrating to me the value of a critical perspective of technology in my field of choice, edtech, from an early point in my career.

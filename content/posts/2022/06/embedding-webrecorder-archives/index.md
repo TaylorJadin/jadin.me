@@ -10,7 +10,7 @@ tags:
 - stream archive
 cover:
     relative: true
-    image: snapshot.jpg
+    image: snapshot.webp
 ---
 
 I've been learning a lot about [Webrecorder](https://webrecorder.net/) and specifically [Browsertrix Crawler](https://webrecorder.net/tools#browsertrix) recently as part of a Web Archiving script that I am working on. The goal is to have a tool you could run on Reclaim Cloud (or your local computer using Docker) that you simply give a URL, and it would make a web archive file using Browsertrix Crawler, and a flattened HTML copy of the site using [HTTrack](https://www.httrack.com/).
