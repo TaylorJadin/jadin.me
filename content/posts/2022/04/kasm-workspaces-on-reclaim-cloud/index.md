@@ -8,7 +8,7 @@ tags:
 - stream archive
 cover:
     relative: true
-    image: kasm-cover.png
+    image: kasm-cover.webp
 ---
 
 At the end of the day today I streamed a little bit of me playing around with [Kasm Worskpaces](https://www.kasmweb.com/) on Reclaim Cloud:

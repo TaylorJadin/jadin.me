@@ -7,7 +7,7 @@ tags:
 - cli
 cover:
     relative: true
-    image: jelastic-shell.png
+    image: jelastic-shell.webp
 ---
 I use SSH to access different environment in Reclaim Cloud a lot, but one thing that I like to do is use a native terminal app (I use [iTerm2](https://iterm2.com) on macOS) instead of the Web SSH functionality built in to Jelastic. Web SSH is amazingly convenient, but web-based terminals like this frequently lack some of the features I am used to using in desktop-based terminals like customizable keyboard shortcuts, organization features like tabs and panes[^1], etc. Sometimes, copy and paste is also a little funky on Web based terminals as well. 
 
@@ -29,13 +29,13 @@ cat ~/.ssh/id_rsa.pub
 
 Then in Reclaim Cloud you'll go to  **Settings > SSH Keys** then click on **Add Public Key**. Then paste your public key in the *Key:* box and hit save.
 
-![Screenshot of Jelastic's Public Key screeen](Capture%202022-04-07T102733.png)
+![Screenshot of Jelastic's Public Key screeen](Capture%202022-04-07T102733.webp)
 
 ## Trying out the SSH Gate
 
 Finally, you can click on **SSH Connection** in Jelastic, to find the command that you will need to enter to use the SSH Gate.
 
-![Screenshot of the SSH Connection Tab](Capture%202022-04-07T103415.png)
+![Screenshot of the SSH Connection Tab](Capture%202022-04-07T103415.webp)
 
 Then paste that command in your terminal!
 
@@ -63,7 +63,7 @@ alias reclaim-cloud='SSH_GATE_COMMAND_GOES_INSIDE_THE_QUOTES'
 ```
 
 You'll want to replace the text inside the single quotes with the SSH Gate command you copied from earlier.
-![screenshot of nano editing .zshrc](Capture%202022-04-07T110932.png)
+![screenshot of nano editing .zshrc](Capture%202022-04-07T110932.webp)
 Then when you are all set, you will want to use the **CTRL+X** keyboard shortcut to exit, then type **Y**, then the **Enter** key to save your changes.  Now close your terminal window, and open up a new one and try out your new alias!
 
 ![testing out the alias](Capture%202022-04-07T111447.gif)
