@@ -9,7 +9,7 @@ I've been meaning to do more blogging thats small and simple, so I think I'll st
 
 ## Reading
 
-I just finished [Children of time by Adrian Tchaikovsky](https://www.fictiondb.com/series/children-of-time-adrian-tchaikovsky~58994.htm). It's far future sci-fi where humans have to escape earth and find a new home in the stars, and come across a terraforming experiment from a past human civilization. I really enjoyed it and the ending was just fantastic and unexpected. It has been a very very long time since I finished a fiction novel, so felt great to finish this on top of the fact that I loved it. 
+I just finished [Children of Time by Adrian Tchaikovsky](https://www.fictiondb.com/series/children-of-time-adrian-tchaikovsky~58994.htm). It's far future sci-fi where humans have to escape earth and find a new home in the stars, and come across a terraforming experiment from a past human civilization. I really enjoyed it and the ending was just fantastic and unexpected. It has been a very very long time since I finished a fiction novel, so felt great to finish this on top of the fact that I loved it. 
 
 ![cover of Children of Time](childrenoftime.jpg)
 
