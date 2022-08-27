@@ -6,7 +6,7 @@ tags:
 ---
 ## Family stuff
 
-Nat has been really in to horses lately, so we brought her to a place near Sturgeon Bay to do a quick ride around the arena, she really liked it! We’re also in town to go out to dinner with my parents for my mom’s birthday!
+Nat talking about horses a lot lately, so we brought her to a place near Sturgeon Bay to do a quick ride around the arena, she really liked it! We’re also in town to go out to dinner with my parents for my mom’s birthday!
 
 In our downtime today my dad has been using the [Merlin Bird ID](https://merlin.allaboutbirds.org/) app to play bird noises in their backyard and identity birds they can hear, Natalie is OBSESSED with birds lately because Grandpa and her have been doing this once in a while. Its cool to see such a well-done, totally free app, [come from an organization like this](https://merlin.allaboutbirds.org/the-story/).
 
