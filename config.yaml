@@ -66,7 +66,7 @@ params:
   homeInfoParams:
       Content1: I work at Reclaim Hosting as our Community Instructional Technologist. I am passionate about educating and empowering people who want to make cool stuff on the web.
 
-      Content2: I [tweet](https://twitter.com/taylorjadin), [post pictures to Instagram](https://www.instagram.com/taylor_jadin/), and [occasionally write code](https://github.com/taylorjadin). You can also find links to my [public pbookmarks](https://raindrop.io/jadin-taylor/public-26229943/sort=-created&perpage=30&page=0), my [PeerTube site](https://video.jadin.me/) for videos and streaming, and an archive of [slides and presentations](https://slides.jadin.me/) above.
+      Content2: I [tweet](https://twitter.com/taylorjadin), [post pictures to Instagram](https://www.instagram.com/taylor_jadin/), and [occasionally write code](https://github.com/taylorjadin). You can also find links to my [public pbookmarks](https://raindrop.io/jadin-taylor/public-26229943/sort=-created&perpage=30&page=0), my [PeerTube site](https://video.jadin.me/) for videos and streaming, and an archive of my [slides and presentations](https://slides.jadin.me/) above.
 
 rssLimit: 25
 copyright: Taylor Jadin
