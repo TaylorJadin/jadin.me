@@ -1,5 +1,5 @@
 ---
-title: 📓 August 18, 2022
+title: 📓 August 18th, 2022
 date: 2022-08-18
 tags:
 - journal
