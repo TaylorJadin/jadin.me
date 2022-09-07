@@ -70,7 +70,6 @@ params:
 
 rssLimit: 25
 copyright: Taylor Jadin
-languageCode: en-us
 author:
   name: Taylor Jadin
   email: taylor@jadin.me
