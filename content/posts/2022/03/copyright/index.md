@@ -2,7 +2,7 @@
 title: Copyright
 date: 2022-03-19
 tags:
-- opensource
+- open source
 cover:
   relative: true
   image:

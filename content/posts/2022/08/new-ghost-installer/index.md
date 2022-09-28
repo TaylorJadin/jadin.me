@@ -3,9 +3,9 @@ title: "Exploring the new Ghost Installer for Reclaim Cloud!"
 date: 2022-08-12T20:05:11-0500
 tags:
 - reclaim
-- reclaimcloud
+- reclaim cloud
 - stream archive
-- opensource
+- open source
 cover:
     relative: true
     image: 

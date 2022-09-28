@@ -4,7 +4,7 @@ date: 2022-04-25
 tags:
 - scripting
 - cli
-- macOS
+- macos
 - Reclaim
 cover:
     relative: true
