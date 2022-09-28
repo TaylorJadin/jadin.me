@@ -5,8 +5,11 @@ tags:
 - meta
 - reclaim
 - tools
+- open source
 draft: true
 cover:
     relative: true
-    image: 
+    image: cover.jpg
 ---
+
+I did a stream talking about how I use hugo
