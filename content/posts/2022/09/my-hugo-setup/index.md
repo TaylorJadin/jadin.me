@@ -1,5 +1,5 @@
 ---
-title: "My Hugo Setup"
+title: "My Hugo setup and how this blog works"
 date: 2022-09-29T12:08:24-0500
 tags:
 - meta
