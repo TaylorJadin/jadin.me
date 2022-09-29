@@ -17,7 +17,7 @@ The first thing I needed to do was add attach a public IP address to the node I 
 
 I wanted to use password authentication to connect, so I next needed to get Root access to the node, which is pretty easy to do and documented here:
 
-### [Root Access to any Container - Reclaim Hosting Support](https://support.reclaimhosting.com/hc/en-us/articles/4404920687383-Root-Access-to-any-Container)
+[Root Access to any Container - Reclaim Hosting Support](https://support.reclaimhosting.com/hc/en-us/articles/4404920687383-Root-Access-to-any-Container)
 
 Once I had root access I could change the password on the root user (or any other user for that matter):
 
