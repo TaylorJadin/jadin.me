@@ -8,7 +8,7 @@ tags:
 - open source
 cover:
     relative: true
-    image:
+    image: cover.webp
 ---
 
 This week I did a stream to document how I use [hugo](https://gohugo.io/), the static site generator, for this blog that you're reading right now!
