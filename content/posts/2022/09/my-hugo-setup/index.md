@@ -6,7 +6,6 @@ tags:
 - reclaim
 - tools
 - open source
-draft: true
 cover:
     relative: true
     image:
