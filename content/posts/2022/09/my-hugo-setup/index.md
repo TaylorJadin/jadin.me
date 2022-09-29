@@ -13,7 +13,7 @@ cover:
 
 This week I did a stream to document how I use [hugo](https://gohugo.io/), the static site generator, for this blog that you're reading right now!
 
-<iframe title="My Hugo setup" src="https://video.jadin.me/videos/embed/b43de357-9c77-47d9-ac99-01527410a906" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="My Hugo setup" src="https://video.jadin.me/videos/embed/b43de357-9c77-47d9-ac99-01527410a906?start=7m33s" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
 The point of the stream was to show how I use this tool, but all of this is really not a good starting point if you are looking to get started with hugo, or you just want to see how it works. For that, I'd recommend checking out the [hugo quick start documentation](https://gohugo.io/getting-started/quick-start/)!
 
