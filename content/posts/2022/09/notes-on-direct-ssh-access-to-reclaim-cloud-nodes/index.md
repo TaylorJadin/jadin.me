@@ -9,7 +9,7 @@ cover:
     image: 
 ---
 
-I recently needed to back up a bunch of files, about 6GB, from a Reclaim Cloud node so here are some notes on how I was able to connect directly to the Node so that I could connect to it with [Rsync](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories). I like using the [Reclaim Cloud SSH Gate](https://support.reclaimhosting.com/hc/en-us/articles/4404920655127-Using-the-SSH-Gate) for SSH or SFTP access to containers most of the time, but in my case because I had so many files to sync, I wanted to use rsync, which as far as I'm aware won't work with the SSH Gate. 
+I recently needed to back up a bunch of files, about 6GB, from a Reclaim Cloud node so here are some notes on how I was able to connect directly to the Node. I like using the [Reclaim Cloud SSH Gate](https://support.reclaimhosting.com/hc/en-us/articles/4404920655127-Using-the-SSH-Gate) for SSH or SFTP access to containers most of the time, but in my case because I had so many files to sync, I wanted to use [rsync](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories), which as far as I'm aware won't work with the SSH Gate. 
 
 The first thing I needed to do was add attach a public IP address to the node I was using, as it didn't already have one.
 
