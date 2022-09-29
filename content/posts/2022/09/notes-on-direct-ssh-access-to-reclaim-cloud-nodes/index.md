@@ -1,5 +1,5 @@
 ---
-title: "Notes on Direct Ssh Access to Reclaim Cloud Nodes"
+title: "Notes on Direct SSH Access to Reclaim Cloud Nodes"
 date: 2022-09-29T10:00:36-05:00
 tags:
 - reclaim
