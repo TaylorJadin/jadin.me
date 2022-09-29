@@ -26,7 +26,7 @@ sudo su - #Switch to the root user
 passwd
 ```
 
-Finally, I had to enable password authentication as this particular node's SSH config was not set to allow password logins. I had to edit the `/etc/ssh/sshd_config` file and find this line near the bottom of the file:
+Finally I had to enable password authentication, as this particular node's SSH config was not set to allow password logins. I had to edit the `/etc/ssh/sshd_config` file and find this line near the bottom of the file:
 ```
 PasswordAuthentication no
 ```
