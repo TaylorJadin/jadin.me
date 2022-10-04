@@ -2,12 +2,12 @@
 title: Embedding and Sharing WebRecorder Archives
 date: 2022-06-10
 tags:
-- reclaim cloud
+- reclaimcloud
 - reclaim
-- domain of one's own
+- dooo
 - tools
-- site archiving
-- stream archive
+- sitearchiving
+- streamarchive
 cover:
     relative: true
     image: snapshot.webp

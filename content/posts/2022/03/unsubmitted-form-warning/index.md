@@ -2,7 +2,7 @@
 title: Adding a warning when trying to close an unsubmitted form in Gravity Forms
 date: 2022-03-08
 tags:
-- domain of one's own
+- dooo
 - reclaim
 - wordpress
 ---

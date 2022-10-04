@@ -2,7 +2,7 @@
 title: Claim Your Own Slice of the Web
 date: 2019-03-29T16:01:03Z
 tags:
-- domain of one's own
+- dooo
 - tech bar
 cover:
     relative: true

@@ -4,7 +4,7 @@ date: 2019-10-23T20:22:38Z
 tags:
 - meta
 - indieweb
-- domain of one's own
+- dooo
 - css
 cover:
     relative: true

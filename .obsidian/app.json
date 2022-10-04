@@ -1,6 +1,15 @@
 {
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "newFileFolderPath": "content/posts/drafts",
+  "userIgnoreFilters": [
+    "archetypes/",
+    "assets/",
+    "layouts/",
+    "public/",
+    "static/",
+    "themes/"
+  ]
 }

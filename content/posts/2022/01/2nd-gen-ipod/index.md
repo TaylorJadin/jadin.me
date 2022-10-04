@@ -2,7 +2,7 @@
 title: '2nd Generation iPod from 2002, meet 2021 Macbook Pro'
 date: 2022-01-20
 tags:
-- old stuff
+- oldstuff
 cover:
     relative: true
     image: ipod.jpeg

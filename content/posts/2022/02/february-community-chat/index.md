@@ -4,7 +4,7 @@ date: 2022-02-22
 tags:
 - reclaim
 - reclaim cloud
-- domain of one's own
+- dooo
 - community chats
 cover:
     relative: true

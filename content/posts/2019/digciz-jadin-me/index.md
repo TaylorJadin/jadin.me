@@ -3,7 +3,7 @@ title: digciz.jadin.me
 date: 2019-10-21T03:21:51Z
 tags:
 - digital citizenship
-- domain of one's own
+- dooo
 cover:
     relative: true
     image: passport.jpg

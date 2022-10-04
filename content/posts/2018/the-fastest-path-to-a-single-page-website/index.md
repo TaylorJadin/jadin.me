@@ -2,7 +2,7 @@
 title: "The Fastest Path to a Single Page Website"
 date: 2018-02-20T22:56:00Z
 tags:
-- domain of one's own
+- dooo
 - tech bar
 - css
 cover:

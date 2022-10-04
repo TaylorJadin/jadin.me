@@ -3,7 +3,7 @@ title: Digital Identity and Media Consumption
 date: 2019-01-14T23:05:00Z
 tags:
 - digpins
-- domain of one's own
+- dooo
 - ramblings
 cover:
     relative: true

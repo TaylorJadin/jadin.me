@@ -2,7 +2,7 @@
 title: Reclaim Hosting!
 date: 2021-12-09
 tags:
-- career stuff
+- careerstuff
 cover:
    relative: true
    image: Image.jpg

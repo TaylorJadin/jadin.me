@@ -2,7 +2,7 @@
 title: January Community Chat
 date: 2022-01-13
 tags:
-- domain of one's own
+- dooo
 - reclaim
 - community chats
 cover:
