@@ -5,7 +5,7 @@ tags:
 - reclaim
 - reclaimcloud
 - dooo
-- community chats
+- communitychats
 cover:
     relative: true
     image: screenshot-feb.png

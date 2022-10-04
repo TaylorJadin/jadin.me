@@ -4,7 +4,7 @@ date: 2022-01-13
 tags:
 - dooo
 - reclaim
-- community chats
+- communitychats
 cover:
     relative: true
     image: demo-screenshot.jpeg

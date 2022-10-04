@@ -3,7 +3,6 @@ title: Contagions in Twitter vs. Blogs vs. Podcasting
 date: 2019-01-20T06:25:06Z
 tags:
 - digpins
-- digital networks
 cover:
     relative: true
     image: web.jpg
