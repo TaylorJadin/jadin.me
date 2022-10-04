@@ -3,7 +3,7 @@ title: Claim Your Own Slice of the Web
 date: 2019-03-29T16:01:03Z
 tags:
 - dooo
-- tech bar
+- techbar
 cover:
     relative: true
     image: 2.jpg

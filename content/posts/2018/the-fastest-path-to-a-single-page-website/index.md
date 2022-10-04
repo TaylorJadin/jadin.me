@@ -3,7 +3,7 @@ title: "The Fastest Path to a Single Page Website"
 date: 2018-02-20T22:56:00Z
 tags:
 - dooo
-- tech bar
+- techbar
 - css
 cover:
     relative: true

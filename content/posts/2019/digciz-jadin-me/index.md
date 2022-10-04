@@ -2,7 +2,7 @@
 title: digciz.jadin.me
 date: 2019-10-21T03:21:51Z
 tags:
-- digital citizenship
+- digitalcitizenship
 - dooo
 cover:
     relative: true
