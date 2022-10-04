@@ -3,9 +3,9 @@ title: Messing around with Kasm Workspaces on Reclaim Cloud
 date: 2022-04-27
 tags:
 - reclaim
-- reclaim cloud
+- reclaimcloud
 - docker
-- stream archive
+- streamarchive
 cover:
     relative: true
     image: kasm-cover.webp

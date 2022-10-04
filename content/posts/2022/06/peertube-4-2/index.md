@@ -3,7 +3,7 @@ title: Peertube 4.2!
 date: 2022-06-21
 tags:
 - reclaim
-- reclaim cloud
+- reclaimcloud
 - docker
 - peertube 
 cover:

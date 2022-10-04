@@ -5,7 +5,7 @@ tags:
 - meta
 - reclaim
 - tools
-- open source
+- opensource
 cover:
     relative: true
     image: cover.webp

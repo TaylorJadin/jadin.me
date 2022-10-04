@@ -3,7 +3,7 @@ title: Customizing Jitsi Meet
 date:
 tags:
 - reclaim
-- reclaim cloud
+- reclaimcloud
 - docker
 cover:
     relative: true

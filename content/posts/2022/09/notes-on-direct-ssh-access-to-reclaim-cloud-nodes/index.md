@@ -3,7 +3,7 @@ title: "Notes on Direct SSH Access to Reclaim Cloud nodes"
 date: 2022-09-29T10:00:36-05:00
 tags:
 - reclaim
-- reclaim cloud
+- reclaimcloud
 cover:
     relative: true
     image: 

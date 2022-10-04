@@ -4,9 +4,9 @@ date: 2022-08-12T20:05:16-0500
 tags:
 - reclaim
 - obs
-- open source
+- opensource
 - tools
-- stream archive
+- streamarchive
 cover:
     relative: true
     image: 
