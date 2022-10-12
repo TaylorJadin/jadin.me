@@ -12,7 +12,7 @@ Putting into practice stuff I’ve been curious about for a while, but never had
 Probably the best example: I was able to publish my [first image to Dockerhub](https://hub.docker.com/r/taylorjadin/httrack) as part of a [Site Archiving and HTML flattening toolkit](https://github.com/TaylorJadin/site-archiving-flattening-toolkit/) I've been wanting to work on for a while (years, really). Getting the Understanding Containers workshop together this past summer really got me comfortable enough with Docker that I realized I could make a toolkit like this truly cross-platform and easy to use (as far as command line tools go).
 
 ## Nat's First Haircut
-Nat got her first haircut today at 3 years old! I need to make more of a point of documenting stuff like this, not just on social media. 
+Nat got her first haircut yesterday at 3 years old! I need to make more of a point of documenting stuff like this, not just on social media. 
 
 Before:
 
