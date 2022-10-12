@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Work
-It feels like a theme lately with many of my projects is getting to put into practice stuff I've been curious about for a while, but never had the time to actually work on. A lot of the stuff I've been learning about regarding Docker, as well as working with APIs, is really coming in handy right now across several projects. With both of those examples, I've worked with them in the past sporadically, but taking the time to participate in (and lead, in some cases) Reclaimed EdTech flex courses has immersed me in this stuff enough to give me more confidence.
+It feels like a theme lately, with many of my projects, is getting to put into practice stuff I've been curious about for a while, but never had the time to actually work on. A lot of the stuff I've been learning about regarding Docker, as well as working with APIs, is really coming in handy right now across several projects. With both of those examples, I've worked with them in the past sporadically, but taking the time to participate in (and lead, in some cases) Reclaimed EdTech flex courses has immersed me in this stuff enough to give me more confidence.
 
 Probably the best example: I was able to publish my [first image to Dockerhub](https://hub.docker.com/r/taylorjadin/httrack) as part of a [Site Archiving and HTML flattening toolkit](https://github.com/TaylorJadin/site-archiving-flattening-toolkit/) I've been wanting to work on for a while (years, really). Getting the Understanding Containers workshop together this past summer really got me comfortable enough with Docker that I realized I could make a toolkit like this truly cross-platform and easy to use (as far as command line tools go).
 
