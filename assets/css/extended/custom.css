@@ -24,7 +24,11 @@ a.footnote-ref, a.footnote-backref {
     box-shadow: none;
 }
 
-    figcaption {
+figcaption {
     text-align: center;
     font-style: italic;
+}
+
+fancybox-caption {
+    display: none;
 }
