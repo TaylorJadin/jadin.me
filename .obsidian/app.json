@@ -15,5 +15,6 @@
   "promptDelete": false,
   "spellcheckDictionary": [
     "Kiwami"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
