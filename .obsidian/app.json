@@ -14,7 +14,10 @@
   ],
   "promptDelete": false,
   "spellcheckDictionary": [
-    "Kiwami"
+    "Kiwami",
+    "subresource"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false
 }
