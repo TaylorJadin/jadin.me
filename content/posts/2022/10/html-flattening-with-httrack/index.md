@@ -16,7 +16,7 @@ Two weeks ago, I did a stream on HTML flattening with a tool called [HTTrack](ht
 
 I didn't have time to demo this on the stream, but I mentioned early on that HTTrack and most other flattening tools weren't able to properly archive my own site while keeping the CSS linked properly. Here's how it would look when I would try:
 
-![the jadin.me homepage but with no CSS](Capture%202022-10-24T135248.png)
+![the jadin.me homepage but with no CSS](Capture%202022-10-24T135248.webp)
 
 A couple of days after this stream, I ended up digging into this further and found that it is because the theme I use for my site links CSS stylesheets in using [Subresource integrity](https://www.w3.org/TR/SRI/), basically a checksum to make sure the CSS is delivered to the browser the way it was intended and from the right domain name. 
 
@@ -32,6 +32,6 @@ find . -name "*.html" -exec sed -i -E -e 's/integrity="[^"]+"//g' -e 's/crossori
 
 After pulling the subresource integrity stuff out of the archived HTML, its fixed!
 
-![the jadin.me homepage flattened to html properly!](Capture%202022-10-24T135714.png)
+![the jadin.me homepage flattened to html properly!](Capture%202022-10-24T135714.webp)
 
 Now that this is part of my script, that one little wrinkle is something I shouldn't have to worry about. 
