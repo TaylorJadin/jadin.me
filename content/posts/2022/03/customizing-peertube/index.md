@@ -38,14 +38,14 @@ body#custom-css {
 }
 
 /* Hide the publish button, the menu button, and the drawer if not logged in */
-#custom-css > my-app > div.peertube-container.user-not-logged-in > div.header > div.header-right > my-header > a,
-.user-not-logged-in > .header > .top-left-block > .icon-menu,
+.user-not-logged-in > .root-header > .root-header-right > my-header > .publish-button,
+.user-not-logged-in > .root-header > .top-left-block > .icon-menu,
 .user-not-logged-in > .sub-header-container > .ng-star-inserted > .menu-wrapper
 {
 display: none !important;
 }
 
-/* Fix the spacing when the menu is hidden and you aren't logged in */
+/* Fix the spacing when the menu is hidden when you aren't logged in */
 .user-not-logged-in > .sub-header-container > .main-col {
   margin-inline-start: 0px;
   width: 100%;
@@ -57,6 +57,11 @@ display: none !important;
 div.active-filter  /* hide the filter badges*/
 {
   display: none !important;
+}
+
+/* right align the search bar */
+my-search-typeahead.w-100 {
+  justify-content: right !important;
 }
 ```
 
