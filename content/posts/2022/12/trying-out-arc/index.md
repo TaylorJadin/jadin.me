@@ -8,7 +8,7 @@ cover:
     image: arc.webp
 ---
 
-Got my invite for [Arc](https://arc.net/) and I think I'm going to kick the tires on it for a week as my main browser. So far, I'd say it has some really smart ideas and genuinely really useful features, but I think some of its opinions on browsing workflows probably won't stick with me long-term.
+I got an the beta invite for [Arc](https://arc.net/) and I think I'm going to kick the tires on it for a week as my main browser. So far, I'd say it has some really smart ideas and genuinely really useful features, but I think some of its opinions on browsing workflows probably won't stick with me long-term.
 
 I like the way the address bar and pinned tabs work, [Easels](https://www.youtube.com/watch?v=ukquBSOpmTk&t=476s) are genius, and [Boosts](https://youtu.be/53KQ2wUZG2s) have a ton of potential. That being said, so far I'm left just wishing Easels and Boosts were extensions I could add to Firefox.[^1]
 
