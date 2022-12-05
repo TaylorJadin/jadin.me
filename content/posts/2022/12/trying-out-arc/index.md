@@ -22,5 +22,5 @@ If you haven't heard of Arc, these two videos from the [A Better Computer](https
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NPpwa2PGbsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## UPDATE 2022-12-05 3PM CT
-Welp, I have already switched back. I only made it about 6 hours. I made it through most of the day fine, but managing multiple windows while answering tickets this afternoon was a real pain in Arc. It really seems to excel at one screen or single window use, but having multiple windows and moving things beetween them is not great the way its currently implemented, IMO.
+## Update (6 hours later)
+Welp, I have already switched back. I made it through most of the day fine, but managing multiple windows while answering tickets this afternoon was a real pain in Arc. It really seems to excel at one screen or single window use, but having multiple windows and moving things beetween them is not great the way its currently implemented, IMO.
