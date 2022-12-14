@@ -66,7 +66,7 @@ params:
   homeInfoParams:
       Content1: I work at Reclaim Hosting as our Community Instructional Technologist. I am passionate about educating and empowering people who want to make cool stuff on the web.
 
-      Content2: I blog on this site, <a rel="me" href="https://social.ds106.us/@taylorjadin">post on Mastodon</a>, and [occasionally write code](https://github.com/taylorjadin). You can also find links to my [public pbookmarks](https://raindrop.io/jadin-taylor/public-26229943/sort=-created&perpage=30&page=0), my [PeerTube site](https://video.jadin.me/) for videos and streaming, and an archive of my [slides and presentations](https://slides.jadin.me/) here.
+      Content2: I blog on this site, <a rel="me" href="https://social.ds106.us/@taylorjadin">post on Mastodon</a>, and <a rel="me" href="https://github.com/taylorjadin">occasionally write code</a>. You can also find links to my [public pbookmarks](https://raindrop.io/jadin-taylor/public-26229943/sort=-created&perpage=30&page=0), my [PeerTube site](https://video.jadin.me/) for videos and streaming, and an archive of my [slides and presentations](https://slides.jadin.me/) here.
 
 rssLimit: 25
 copyright: Taylor Jadin
