@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "a2466ce2ee8ae585",
+    "type": "split",
+    "children": [
+      {
+        "id": "52cab94e33bffd08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98aebdbac1f6e439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2022/12/open-source-notation/index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbe815d3a3e05c41",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7eb36a479554158e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d5496a36ce797d69",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4372ca04f51660bf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4adc857b79e9a186",
+    "type": "mobile-drawer",
+    "children": [],
+    "currentTab": 0
+  },
+  "active": "98aebdbac1f6e439",
+  "lastOpenFiles": []
+}
