@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c61ca10d6d2af43a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,6 +83,8 @@
     "children": [],
     "currentTab": 0
   },
-  "active": "98aebdbac1f6e439",
-  "lastOpenFiles": []
+  "active": "c61ca10d6d2af43a",
+  "lastOpenFiles": [
+    "content/posts/2022/12/open-source-notation/index.md"
+  ]
 }

@@ -3,9 +3,6 @@ title: Open Source Music Notation has come so far!
 date: 2022-12-17
 tags:
 - opensource
-cover:
-    relative: true
-    image:
 —
 It is so cool to see how far MuseScore has come. 
 
