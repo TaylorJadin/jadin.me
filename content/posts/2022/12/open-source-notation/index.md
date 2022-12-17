@@ -6,7 +6,7 @@ tags:
 ---
 It is so cool to see how far MuseScore has come. 
 
-https://youtu.be/Qct6LKbneKQ
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Qct6LKbneKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 When I was in college, using the open-source [MuseScore](https://musescore.org/en) was fully not an option between its bugs, and the quality of playback and the fiddliness of making anything legible. The idea of using it for anything serious was practically a joke. Even for simple stuff like I was doing, it would have been a huge time sink, so I saved up for a copy of Finale.
 
