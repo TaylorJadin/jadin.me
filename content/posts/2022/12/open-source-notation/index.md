@@ -14,4 +14,6 @@ I suspect that MakeMusic, the company behind Finale, know that the alternatives 
 
 [^1]: Ok, so actually I looked it up on the Wayback machine, and [it used to be $350 for the academic discount](https://web.archive.org/web/20130429234330/https://store.makemusic.com/Store/default.aspx)!
 
-Its great to see this video break down the design challenges, and how they were overcome. I would definitely use this the next time I need Notation software, which admittedly is not something I need very often anymore, but still! I really hope making these tools easier to get your hands on, and easier to use will lower the barrier to entry for budding composers!
+Its great to see this video break down the design challenges, and how they were overcome. I would definitely use this the next time I need music notation software.[^2] I really hope making these tools easier to get your hands on and easier to use will lower the barrier of entry for budding composers!
+
+[^2]: Admittedly, I don't need notation software very often anymore, but my point still stands!
