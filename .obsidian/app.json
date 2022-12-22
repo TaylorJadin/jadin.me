@@ -16,7 +16,8 @@
   "spellcheckDictionary": [
     "Kiwami",
     "subresource",
-    "Peertube"
+    "Peertube",
+    "Backblaze"
   ],
   "alwaysUpdateLinks": true,
   "autoPairBrackets": false,
