@@ -15,7 +15,7 @@ I ended up kind of flying through everything, as I felt like the clock was ticki
 
 <iframe title="I'm going to try and make an Owncast installer real quick" src="https://video.jadin.me/videos/embed/b8813f4c-3e9f-45dd-b32f-94ecb4cf67b1?start=5m30s" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
-If you are want to check out the actual files for the installer, you can find those here:
+If you want to check out the actual files for the installer, you can find those here:
 
 [TaylorJadin/owncast-installer](https://github.com/taylorjadin/owncast-installer/)
 
