@@ -20,3 +20,6 @@ If you want to check out the actual files for the installer, you can find those 
 [TaylorJadin/owncast-installer](https://github.com/taylorjadin/owncast-installer/)
 
 Oh, and that installer is live in the marketplace now! I did end up including add-ons to make updating and domain configuration 1-click, [like our Ghost installer](https://jadin.me/new-ghost-installer/). I didn't end up streaming the part where I made the add-ons, but that basically amounted to me [borrowing some stuff from my Ghost installer](https://github.com/TaylorJadin/Ghost-docker-jps/blob/66c44b338f5086d3d400ffc5f7584b12096ee91e/manifest.jps#L97). Go check it out if you want to try out a self-hostable live video server!
+
+UPDATE:
+Watching this recording back, it seems like there is a chunk missing near the end! Not sure what happened there, I'll have to investigate another time.
