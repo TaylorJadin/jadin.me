@@ -9,7 +9,7 @@ cover:
     image: owncast-marketplace.png
 ---
 
-I did a livestream today where I attempted to create an [Owncast](https://owncast.online/) installer live on stream. I have used Owncast before, and [used Jim's blog post to set it up manually](https://bavatuesdays.com/installing-owncast-on-reclaim-cloud/), but that's mostly all the prep I had done beforehand. Having just come off of setting up a Mastodon installer, greatly helped as I learned a lot from that experience, and was able to re-use a lot of stuff from it.
+Today I did a stream where I attempted to create an [Owncast](https://owncast.online/) installer live in about an hour. I have used Owncast before, and [used Jim's blog post to set it up manually](https://bavatuesdays.com/installing-owncast-on-reclaim-cloud/), but that's mostly all the prep I had done beforehand. Having just come off of setting up a Mastodon installer, greatly helped as I learned a lot from that experience, and was able to re-use a lot of stuff from it.
 
 I ended up kind of flying through everything, as I felt like the clock was ticking, so it may not be the best explainer, but if are curious how to run things in docker-compose and how our Reclaim Cloud installers work, you may find it an interesting watch, or skim.
 
