@@ -15,7 +15,8 @@
   "promptDelete": false,
   "spellcheckDictionary": [
     "Kiwami",
-    "subresource"
+    "subresource",
+    "Peertube"
   ],
   "alwaysUpdateLinks": true,
   "autoPairBrackets": false,
