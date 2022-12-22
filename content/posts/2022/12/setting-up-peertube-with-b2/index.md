@@ -83,6 +83,7 @@ Once I did a few and they seemed to work, I ran the command to move all of the v
 docker-compose exec -u peertube peertube npm run create-move-video-storage-job -- --to-object-storage --all-videos
 ```
 
+I used `iftop` to watch the traffic out to Backblaze as there isn't really a good progress indicator anywhere else:
 ![](Pasted%20image%2020221222122309.png)
 
 You can also see the Jobs get created in the Peertube web interface by going to **Administration > System > Jobs**
