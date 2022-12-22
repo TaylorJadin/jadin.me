@@ -78,7 +78,6 @@ Note that the videoUUID is not just the last part of the URL on the watch page, 
 ![](Capture%202022-12-22T121853.png)
 
 Once I did a few and they seemed to work, I ran the command to move all of the videos to B2:
-
 ```bash
 docker-compose exec -u peertube peertube npm run create-move-video-storage-job -- --to-object-storage --all-videos
 ```
@@ -87,7 +86,6 @@ I used `iftop` to watch the traffic out to Backblaze as there isn't really a goo
 ![](Pasted%20image%2020221222122309.png)
 
 You can also see the Jobs get created in the Peertube web interface by going to **Administration > System > Jobs**
-
 ![](Pasted%20image%2020221222122414.png)
 
 Now I'm all set with just shy of 200GB of videos stored in Backblaze!
