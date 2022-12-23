@@ -20,7 +20,7 @@ The first thing to do was to get a B2 bucket set up. I'm not going to go into mu
 
 Once the bucket was made, I went to the **App Keys** section to generate credentials for Peertube to use, then made note of them for later.
 
-I also went to **Bucket Settings** to make sure uploaded files were publicly accessible (they'll still be behind long obscure URLs though). I'm pretty sure that with Peertube 5.0 this is actually not necessary as Peertube will not proxy the video traffic, meaning that I could actually keep this set to private, but URL obscurity is more than good enough for my use case here.
+I also went to **Bucket Settings** to make sure uploaded files were publicly accessible (they'll still be behind long obscure URLs though). I'm pretty sure that with Peertube 5.0 this is actually not necessary as Peertube will proxy the video traffic, meaning that I could actually keep this set to private, but URL obscurity is more than secure enough for my use case here.
 
 ![](Capture%202022-12-22T115640.png)
 
