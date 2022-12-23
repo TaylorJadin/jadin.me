@@ -28,7 +28,7 @@ Next, I went to **CORS Rules** and set **Share everything in this bucket with ev
 
 ![](Pasted%20image%2020221222122255.png)
 
-Finally, I also adjusted the **Lifecycle Settings** to keep 30 days worth of backup copies of files, in case I ever deleted something on accident. This is slick because of the way that B2 (and other S3 compatible storage works) it only keeps changed or deleted files for 30 days, not a separate backup of everything, saving you space and therefore money!
+Finally, I also adjusted the **Lifecycle Settings** to keep 30 days worth of backup copies of files, in case I ever deleted something on accident. This is slick because of the way that B2 and other S3 compatible storage works, it only keeps changed or deleted files for 30 days, isntead of keeping a separate daily backup of everything, saving you space and therefore money!
 
 It's awesome that all of this was easy to do, without even having to resort to documentation. Also, I didn't have to jump to like 36 sections of the Dashboard, nor write any JSON for configuration. Take that, AWS!
 
