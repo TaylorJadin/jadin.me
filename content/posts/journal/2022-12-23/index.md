@@ -3,7 +3,6 @@ title: 📓 December 23rd, 2022
 date: 2022-12-23
 tags:
 - journal
-draft: true
 ---
 
 Have a cozy holiday!
