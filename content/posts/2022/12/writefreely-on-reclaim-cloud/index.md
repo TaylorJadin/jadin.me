@@ -1,6 +1,6 @@
 ---
 title: Running WriteFreely on Reclaim Cloud
-date: 20xx-xx-xx
+date: 2022-12-29
 tags:
 - reclaimcloud
 - reclaim
