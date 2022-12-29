@@ -20,7 +20,7 @@ The first thing to do was to get a B2 bucket set up. I'm not going to go into mu
 
 Once the bucket was made, I went to the **App Keys** section to generate credentials for Peertube to use, then made note of them for later.
 
-I also went to **Bucket Settings** to make sure uploaded files were publicly accessible (they'll still be behind long obscure URLs though). I'm pretty sure that with Peertube 5.0 this is actually not necessary as Peertube will not proxy the video traffic, meaning that I could actually keep this set to private, but URL obscurity is more than good enough for my use case here.
+I also went to **Bucket Settings** to make sure uploaded files were publicly accessible (they'll still be behind long obscure URLs though). I'm pretty sure that with Peertube 5.0 this is actually not necessary as Peertube will proxy the video traffic, meaning that I could actually keep this set to private, but URL obscurity is more than secure enough for my use case here.
 
 ![](Capture%202022-12-22T115640.png)
 
@@ -28,7 +28,7 @@ Next, I went to **CORS Rules** and set **Share everything in this bucket with ev
 
 ![](Pasted%20image%2020221222122255.png)
 
-Finally, I also adjusted the **Lifecycle Settings** to keep 30 days worth of backup copies of files, in case I ever deleted something on accident. This is slick because of the way that B2 (and other S3 compatible storage works) it only keeps changed or deleted files for 30 days, not a separate backup of everything, saving you space and therefore money!
+Finally, I also adjusted the **Lifecycle Settings** to keep 30 days worth of backup copies of files, in case I ever deleted something on accident. This is slick because of the way that B2 and other S3 compatible storage works, it only keeps changed or deleted files for 30 days, isntead of keeping a separate daily backup of everything, saving you space and therefore money!
 
 It's awesome that all of this was easy to do, without even having to resort to documentation. Also, I didn't have to jump to like 36 sections of the Dashboard, nor write any JSON for configuration. Take that, AWS!
 
