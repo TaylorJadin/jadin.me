@@ -9,7 +9,7 @@ cover:
     image: cover.png
 ---
 
-Today I did a quick stream attempting to get [WriteFreely](https://writefreely.org/) working on Reclaim Cloud. WriteFreely is an interesting tool that I wanted to play with, and I was able to get things working with some poking around and help from [Tim](https://blog.timowens.io/) in the chat. Things kick off at around 2:51.
+Today I did a quick stream attempting to get [WriteFreely](https://writefreely.org/) working on Reclaim Cloud. WriteFreely is an interesting tool that I wanted to play with, and I was able to get things working with some poking around and help from [Tim](https://blog.timowens.io/) who was watching and pointed out a `bind` setting in the `config.ini` file. More on that below. Things kick off at around 2:51.
 
 <iframe title="Let's get WriteFreely running on Reclaim Cloud!" src="https://video.jadin.me/videos/embed/23cf50ba-5737-4182-96ea-befe794217dd?start=2m51s" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
