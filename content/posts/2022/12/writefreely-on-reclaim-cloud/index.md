@@ -6,7 +6,7 @@ tags:
 - reclaim
 cover:
     relative: true
-    image: 
+    image: cover.png
 ---
 
 Today I did a quick stream attempting to get [WriteFreely](https://writefreely.org/) working on Reclaim Cloud. WriteFreely is an interesting tool that I wanted to play with, and I was able to get things working with some poking around and help from [Tim](https://blog.timowens.io/) in the chat. Things kick off at around 2:51.
