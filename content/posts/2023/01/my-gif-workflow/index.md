@@ -17,7 +17,7 @@ Recently I was making a GIF for [Lauren](https://laurenhanks.com) based on an id
 3. Video editing tools
 
 ## Taking a pre-existing video and making it into a GIF
-This one is relatively straightforward. There are a lot of tools that do this, but by far the best one in terms of getting good quality at small file sizes is [Gifski](https://gif.ski/). It was originally a command line tool, but also has [a very simple and slick GUI version for macOS](https://apps.apple.com/us/app/gifski/id1351639930?mt=12). Looking at the website now, it looks like it has a GUI for Windows as well that I haven't used yet. I'm typically using the macOS GUI, and it lets you drag a video file in, trim it and resize it, and adjust quality settings.
+This one is relatively straightforward. There are a lot of tools that do this, but in my opinion by far the best one in terms of quickly getting good quality at small file sizes is [Gifski](https://gif.ski/). It was originally a command line tool, but also has [a very simple and slick GUI version for macOS](https://apps.apple.com/us/app/gifski/id1351639930?mt=12). Looking at the website now, it looks like it has a GUI for Windows as well that I haven't used yet. I'm typically using the macOS GUI, and it lets you drag a video file in, trim it and resize it, and adjust quality settings.
 
 {{< figure src="gifski.png" title="A screenshot of a GIF in the making" >}}
 
