@@ -1,19 +1,20 @@
 ---
-title: Draft Post
-date: 2023-01-31T14:26:57-0600
+title: My GIF making workflow
+date: 2023-01-31
 tags:
-- test
+- tools
+- cli
 cover:
     relative: true
-    image: 
+    image: fcpro.gif
 ---
 
 File this in "blog it before I forget it."
 
-Recently I made a GIF based on an idea [Lauren](https://laurenhanks.com) had that we could use when talking about Multi-region WordPress Hosting. I have a bunch of different tools that I use when working with GIFs, but I think of them in sort of three categories:
+Recently I was making a GIF for [Lauren](https://laurenhanks.com) based on an idea she had that we could use when talking about Multi-region WordPress Hosting. I have a bunch of different tools that I use when working with GIFs, and I sort of think of them in three categories:
 1. Taking a pre-existing video and making it into a GIF
 2. Making tweaks to a pre-existing GIF
-3. Video editing tools and advanced GIF conversion
+3. Video editing tools
 
 ## Taking a pre-existing video and making it into a GIF
 This one is relatively straightforward. There are a lot of tools that do this, but by far the best one in terms of getting good quality at small file sizes is [Gifski](https://gif.ski/). It was originally a command line tool, but also has [a very simple and slick GUI version for macOS](https://apps.apple.com/us/app/gifski/id1351639930?mt=12). Looking at the website now, it looks like it has a GUI for Windows as well that I haven't used yet. I'm typically using the macOS GUI, and it lets you drag a video file in, trim it and resize it, and adjust quality settings.
@@ -27,12 +28,8 @@ This is sort of a weird between-y workflow. I could do this stuff using the tool
 
 Unfortunately, this tool hasn't been updated in a while and I think it's been pulled from the Mac App Store. That being said, it still works for me and has a place in my toolbox. I think in the long-term, the stuff I do in GIF Brewery will be replaced by the tools I'm putting in my third category.
 
-## Video editing tools and advanced GIF conversion
-When the first two categories of tools above fail me, I turn to Final Cut Pro. This is a workflow I'm just recently getting comfortable with, but I've learned that with Final Cut's masking, and animation features using key frames, and other features I can do quite a bit of cool stuff. 
-
-![a final cut pro timeline](fcpro.gif)
-
-The problem with this is what I'm left with is a video file, not a GIF! Final Cut does have GIF export, but the size of files it produces are massive, and the quality is usually not that great either, so I use a different approach. Originally, I would export a mov or mp4 file, then use the macOS GUI for Gifski to make a nice small and high quality GIF. 
+## Video editing tools
+When the first two categories of tools above fail me, I turn to Final Cut Pro. This is a workflow I'm just recently getting comfortable with, but I've learned that with Final Cut's masking tools, animation features using key frames, and a whole bunch of other stuff I'm still learning about, I can do quite a bit of cool things. The problem with this is what I'm left with is a video file, not a GIF! Final Cut does have GIF export, but the size of files it produces are massive, and the quality is usually not that great either, so I use a different approach. Originally, I would export a mov or mp4 file, then use the macOS GUI for Gifski to make a nice small and high quality GIF. 
 
 That being said, I found two problems with that approach, which is ultimately why I'm writing this surprisingly long blog post. Basically, problem #1 is this result doesn't let me make GIFs with transparent backgrounds, and problem #2 is I can't make GIFs at non-standard resolutions. Final Cut wants typically wants to export video at typical 16x9 aspect ratios with typical resolutions, like 1920x1080 and such. Here's my new workflow to fix both of these issues:
 
