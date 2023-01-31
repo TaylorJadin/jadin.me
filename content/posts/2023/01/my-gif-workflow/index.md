@@ -11,7 +11,7 @@ cover:
 
 File this in "blog it before I forget it."
 
-Recently I was making a GIF for [Lauren](https://laurenhanks.com) based on an idea she had that could used by Reclaim folks when talking about Multi-region WordPress Hosting. I have a bunch of different tools that I use when working with GIFs, and I sort of think of them in three categories:
+Recently I was making a GIF for [Lauren](https://laurenhanks.com) based on an idea she had related to Multi-region WordPress Hosting. I have a bunch of different tools that I use when working with GIFs, and I sort of think of them in three categories:
 1. Taking a pre-existing video and making it into a GIF
 2. Making tweaks to a pre-existing GIF
 3. Video editing tools
