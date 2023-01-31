@@ -2,9 +2,9 @@
 My personal website, powered by [hugo](http://gohugo.io/).
 
 ## Notes
-For cloning including the theme, we need to also grab submodules:
+To get the theme:
 ```
-git clone --recurse-submodules https://github.com/TaylorJadin/jadin.me.git
+git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
 ```
 
 ## To Do
