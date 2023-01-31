@@ -16,7 +16,7 @@ Recently I was making a GIF for [Lauren](https://laurenhanks.com) based on an id
 2. Making tweaks to a pre-existing GIF
 3. Video editing tools
 
-If I had to break it all down the way I GIFs can be summed up by: "Turn something in to a video, then turn that video in to a GIF" but what tools to use when really differ depending on the time I have and the complexity of what I'm trying to do.
+If I had to break it all down the way I GIFs can be summed up into: *Turn something in to a video, then turn that video in to a GIF*. Its just the tools I use to accomplish that differ depending on the time I have and the complexity of what I'm trying to do.
 
 ## Taking a pre-existing video and making it into a GIF
 This one is relatively straightforward. There are a lot of tools that do this, but in my opinion by far the best one in terms of quickly getting good quality at small file sizes is [Gifski](https://gif.ski/). It was originally a command line tool, but also has [a very simple and slick GUI version for macOS](https://apps.apple.com/us/app/gifski/id1351639930?mt=12). Looking at the website now, it looks like it has a GUI for Windows as well that I haven't used yet. I'm typically using the macOS GUI, and it lets you drag a video file in, trim it and resize it, and adjust quality settings.
