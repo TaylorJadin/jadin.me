@@ -1,5 +1,5 @@
 ---
-title: My GIF making workflow
+title: My GIF making workflow with Final Cut and Gifski
 date: 2023-01-31
 tags:
 - tools
