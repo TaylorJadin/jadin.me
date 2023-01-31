@@ -19,7 +19,7 @@ Recently I was making a GIF for [Lauren](https://laurenhanks.com) based on an id
 ## Taking a pre-existing video and making it into a GIF
 This one is relatively straightforward. There are a lot of tools that do this, but by far the best one in terms of getting good quality at small file sizes is [Gifski](https://gif.ski/). It was originally a command line tool, but also has [a very simple and slick GUI version for macOS](https://apps.apple.com/us/app/gifski/id1351639930?mt=12). Looking at the website now, it looks like it has a GUI for Windows as well that I haven't used yet. I'm typically using the macOS GUI, and it lets you drag a video file in, trim it and resize it, and adjust quality settings.
 
-![](gifski.png)
+{{< figure src="gifski.png" title="A screenshot of a GIF in the making" >}}
 
 The great thing about a tool this simple, is it makes it easy to make things quickly by feeding it all sorts of video. Clips from YouTube, screen recordings I make, etc. There are tons of possibilities!
 
@@ -38,16 +38,16 @@ The first step is to make the GIF using Final Cut Pro's tools! Instead of export
 
 [^1]: and audio, and apparently still images too!
 
-![](Capture%202023-01-31T131253.png)
+![A screenshot of Final Cut Pro's Filie menu](Capture%202023-01-31T131253.png)
 
 ### Step 2: Crop and Export from Compressor as an image sequence
 In compressor I drag the **TIFF Image Sequence** preset on to the project, then select my export location, crop the image, and set the output to PNG, as TIFF is more quality than I need. Once I've done that, I start the export with the **Start Batch** button. 
 
-![](Capture%202023-01-31T132521.gif)
+{{< figure src="Capture%202023-01-31T132521.gif" title="A GIF of a GIF in the making" >}}
 
 This allows me to crop the image to whatever size I want. Secondly, instead of outputting a video file, it outputs a series of images, which will preserve transparency if my GIF has it. After the export is done, I'm left with a series of images in a folder, but not a GIF. That part comes next!
 
-![](Capture%202023-01-31T133010.png)
+![a screenshot of a finder folder with hundreds of png images](Capture%202023-01-31T133010.png)
 
 ### Step 3: Use the Gifski CLI to combine the images into a GIF!
 Now I can use Gifski to assemble a gif out of those images! Unfortunately the macOS GUI version of Gifski doesn't support this, but the command line version does. I used [homebrew](https://brew.sh/) to install the Gifski CLI:
@@ -70,4 +70,4 @@ Here's the end result, and its less than a megabyte![^2]
 
 [^2]: Final Cut DOES have a native GIF export, but the file sizes are huge for similar quality. I couldn't get it under 5 Mb, which is way too big.
 
-![](multi%20region.gif)
+![a gif with 3 wordpress logos fading in and out one at a time](multi%20region.gif)
