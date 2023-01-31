@@ -21,7 +21,7 @@ This one is relatively straightforward. There are a lot of tools that do this, b
 
 {{< figure src="gifski.png" title="A screenshot of a GIF of a GIF in the making" >}}
 
-The great thing about a tool this simple, is it makes it easy to make things quickly by feeding it all sorts of video. Clips from YouTube, screen recordings I make, etc. There are tons of possibilities!
+The great thing about a tool this simple is it makes it easy to make things quickly by feeding it all sorts of video. Clips from YouTube, screen recordings I make, etc. There are tons of possibilities!
 
 ## Making tweaks to a pre-existing GIF
 This is sort of a weird between-y workflow. I could do this stuff using the tools in category 3, but sometimes that's more complicated or time consuming than I want. If I have a GIF, (or maybe a GIF I just made from a video using Gifski), but I just want to crop the GIF, change the frame rate, or add simple text or images to the GIF, I like to use [GIF Brewery](https://gfycat.com/gifbrewery).
