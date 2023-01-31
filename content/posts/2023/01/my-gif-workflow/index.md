@@ -65,7 +65,7 @@ gifski --fps 30 --width 480 -o out.gif *.png
 ```
 
 A couple notes on the above command:
-- `--fps 30` sets the FPS of the GIF 30 is actually quite high for a typical gif, most of the ones you see are 15 or lower, but in this case I wanted smoooooth motion.
+- `--fps 30` sets the FPS of the GIF. 30 is actually quite high for a typical gif, most of the ones you see are 15 or lower, but in this case I wanted smoooooth motion.
 - `--width 480` will resize the GIF proportionally. You can leave this option off if resizing is not needed.
 - `-o out.gif` tells Gifski to name the file `out.gif`
 - `*.png` will tell Gifski to look at every .png file in the folder when making the GIF
