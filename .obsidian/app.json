@@ -17,7 +17,8 @@
     "Kiwami",
     "subresource",
     "Peertube",
-    "Backblaze"
+    "Backblaze",
+    "Gifski"
   ],
   "alwaysUpdateLinks": true,
   "autoPairBrackets": false,
