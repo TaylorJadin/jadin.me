@@ -4,6 +4,7 @@ date: 2023-02-03T15:36:11-0600
 tags:
 - streamarchive
 - reclaim
+- setup
 cover:
     relative: true
     image: cover.webp
