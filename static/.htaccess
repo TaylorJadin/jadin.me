@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^jadin\.me$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.jadin\.me$
+RewriteRule ^l\/?(.*)$ "https\:\/\/wis\.cx\/$1" [R=301,L]
