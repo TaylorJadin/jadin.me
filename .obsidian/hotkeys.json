@@ -33,5 +33,14 @@
       ],
       "key": "E"
     }
+  ],
+  "workspace:close": [],
+  "no-empty-windows:close-tab-or-empty-window": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
   ]
 }

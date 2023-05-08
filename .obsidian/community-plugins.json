@@ -2,5 +2,6 @@
   "obsidian-minimal-settings",
   "obsidian-languagetool-plugin",
   "obsidian-local-images",
-  "url-into-selection"
+  "url-into-selection",
+  "no-empty-windows"
 ]
