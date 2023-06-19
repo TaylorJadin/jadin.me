@@ -8,7 +8,7 @@ cover:
     image: 
 ---
 
-I have *a lot* of half-finished blog posts that I want to finish up soon coming off of Reclaim Open, then a week-long family vacation, but hey I might as well finish up this old draft as I used this trick yet again today. I've got to get the blog momentum going after a few month's hiatus.
+I have *a lot* of half-finished blog posts that I want to finish up soon coming back from both [Reclaim Open](https://reclaimopen.com) and a week-long family vacation, but hey I might as well finish up this old draft as I used this trick yet again today. I've got to get the blog momentum going after a few month's hiatus!
 
 I work with docker and docker-compose very often for Reclaim Cloud stuff nowadays, and while I'm pretty comfortable with bind-mounts, docker volumes, and `docker cp` for getting files in and out of containers, doing serious things with databases still scares me a little. While I can use the CLI to do some stuff, I really like a UI when I need to poke around a database; particularly with anything more complicated than a dump or restore. In cPanel-land [phpMyAdmin](https://www.phpmyadmin.net/) is already set up and ready to go, but I don't have that luxury when working with docker-compose based stuff.
 
