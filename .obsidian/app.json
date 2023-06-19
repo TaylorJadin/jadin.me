@@ -18,7 +18,9 @@
     "subresource",
     "Peertube",
     "Backblaze",
-    "Gifski"
+    "Gifski",
+    "Adminer",
+    "Adminer"
   ],
   "alwaysUpdateLinks": true,
   "autoPairBrackets": false,
