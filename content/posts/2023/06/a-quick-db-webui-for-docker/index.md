@@ -12,7 +12,7 @@ I have *a lot* of half-finished blog posts that I want to finish up soon coming 
 
 I work with docker and docker-compose very often for Reclaim Cloud stuff nowadays, and while I'm pretty comfortable with bind-mounts, docker volumes, and `docker cp` for getting files in and out of containers, doing serious things with databases still scares me a little. While I can use the CLI to do some stuff, I really like a UI when I need to poke around a database; particularly with anything more complicated than a dump or restore. In cPanel-land [phpMyAdmin](https://www.phpmyadmin.net/) is already set up and ready to go, but I don't have that luxury when working with docker-compose based stuff.
 
-That's where [Adminer](https://www.adminer.org/) comes in handy. [Tom Woodward](https://bionicteaching.com/) mentioned it in a WPMS workshop (I think WPMS101 last fall?) and I was intrigued that it could do a lot of what phpMyAdmin does, but for any type of database (not just MySQL). On top of that, you only need to "install" a single PHP file, or add a few lines to a docker-compose setup!
+That's where [Adminer](https://www.adminer.org/) comes in handy. [Tom Woodward](https://bionicteaching.com/) mentioned it in a WPMS workshop (I think WPMS101 last fall?) and I was intrigued because it could do a lot of what phpMyAdmin does, but for any type of database (not just MySQL). On top of that, you only need to "install" a single PHP file, or add a few lines to a docker-compose setup!
 
 ## Starting it
 
