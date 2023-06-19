@@ -20,7 +20,8 @@
     "Backblaze",
     "Gifski",
     "Adminer",
-    "Adminer"
+    "Adminer",
+    "phpMyAdmin"
   ],
   "alwaysUpdateLinks": true,
   "autoPairBrackets": false,

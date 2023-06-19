@@ -10,9 +10,9 @@ cover:
 
 I have *a lot* of half-finished blog posts that I want to finish up soon coming off of Reclaim Open, then a week-long family vacation, but hey I might as well finish up this old draft as I used this trick yet again today. I've got to get the blog momentum going after a few month's hiatus.
 
-I work with docker and docker-compose very often for Reclaim Cloud stuff nowadays, and while I'm pretty comfortable with bind-mounts, docker volumes, and `docker cp` for getting files in and out of containers, doing serious things with databases still scares me a little. While I can use the CLI to do some stuff, I really like a UI when I need to poke around a database; particularly with anything more complicated than a dump or restore. In cPanel-land [PHPMyAdmin](https://www.phpmyadmin.net/) is already set up and ready to go, but I don't have that luxury when working with docker-compose based stuff.
+I work with docker and docker-compose very often for Reclaim Cloud stuff nowadays, and while I'm pretty comfortable with bind-mounts, docker volumes, and `docker cp` for getting files in and out of containers, doing serious things with databases still scares me a little. While I can use the CLI to do some stuff, I really like a UI when I need to poke around a database; particularly with anything more complicated than a dump or restore. In cPanel-land [phpMyAdmin](https://www.phpmyadmin.net/) is already set up and ready to go, but I don't have that luxury when working with docker-compose based stuff.
 
-That's where [Adminer](https://www.adminer.org/) comes in handy. Tom Woodward mentioned it in a WPMS workshop (I think WPMS101 last fall?) and I was intrigued that it could do a lot of what PHPMyAdmin does in a single PHP file. It also has a very simply pre-built docker container on Docker Hub! The other handy thing about Adminer also works with more than MySQL, which is handy as I'm often encountering PostgreSQL for applications like PeerTube.
+That's where [Adminer](https://www.adminer.org/) comes in handy. [Tom Woodward](https://bionicteaching.com/) mentioned it in a WPMS workshop (I think WPMS101 last fall?) and I was intrigued that it could do a lot of what phpMyAdmin does, but for any type of database (not just MySQL). On top of that, you only need to "install" a single PHP file, or add a few lines to a docker-compose setup!
 
 ## Starting it
 
@@ -25,7 +25,7 @@ Now, whenever I need it, I can simply add a few lines to the "services" section 
       - '8080:8080'
 ```
 
-Here it is in the context of WordPress running in docker-compose:[^1]
+Here it is in the context of WordPress running in docker-compose[^1]:
 
 [^1]:  Yes, I know that technically for a PHP app like WordPress, I could just drop Adminer's single PHP file in the web root instead of adding lines to my docker-compose file, but I figured a WordPress-based docker-compose example would still be a good one to go with.
 
@@ -115,4 +115,6 @@ Finally, I run this command to stop Adminer, without having to restart any other
 docker-compose up -d --remove-orphans
 ```
 
-Stopping Adminer when it's not in use saves on resources, as well as provides the security benefit, of completing eliminating the possibility that anyone could log in to it.
+Stopping Adminer when it's not in use saves on resources[^2], as well as provides the security benefit of completing eliminating the possibility that anyone could log in to it.
+
+[^2]: Not that it really uses many 🤷🏻‍♂️
