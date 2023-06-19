@@ -1,5 +1,5 @@
 ---
-title: A quick Web UI for database management in docker-compose setups!
+title: A quick web UI for database management in docker-compose!
 date: 2023-06-19
 tags:
 - Reclaim
