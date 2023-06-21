@@ -35,9 +35,9 @@ cd /home/peertube
 
 ### Dump the database using `pg_dumpall`
 ```bash
-docker-compose exec postgres pg_dumpall -U bavatube > dump.sql
+docker-compose exec postgres pg_dumpall -U DATABASE_USERNAME > dump.sql
 ```
-`docker-compose exec postgres` tells Docker to execute the command `pg_dumpall -U bavatube` inside our postgres container, and then `> dump.sql` redirects that output to a file so we can restore it later.
+`docker-compose exec postgres` tells Docker to execute the command `pg_dumpall -U bavatube` inside our postgres container, and then `> dump.sql` redirects that output to a file so we can restore it later. You can find the username, and other databse info in the `.env` file for PeerTube.
 
 ### Stop all containers and delete the database
 ```bash
@@ -60,7 +60,7 @@ We need to start up just the database but not rest of the Peertube containers, s
 
 ### Restore the database dump
 ```bash
-docker-compose exec -T postgres psql -U bavatube -d peertube < dump.sql
+docker-compose exec -T postgres psql -U DATABSE_USERNAME -d DATABASE_NAME < dump.sql
 ```
 
 ### We're done! Start up all the other containers for PeerTube!
