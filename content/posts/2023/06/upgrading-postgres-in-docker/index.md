@@ -37,7 +37,7 @@ cd /home/peertube
 ```bash
 docker-compose exec postgres pg_dumpall -U bavatube > dump.sql
 ```
-`docker-compose exec postgres` tells Docker to execute `pg_dumpall -U bavatube` inside our postgres container, and then `> dump.sql` redirects that output to a file so we can restore it later.
+`docker-compose exec postgres` tells Docker to execute the command `pg_dumpall -U bavatube` inside our postgres container, and then `> dump.sql` redirects that output to a file so we can restore it later.
 
 ### Stop all containers and delete the database
 ```bash
@@ -49,7 +49,7 @@ rm -rf docker-volume/db/
 ```bash
 vim docker-compose.yml
 ``` 
-We just need to change the tag for the postgres container, so we replace `image: postgres:10-alpine` with `image: postgres:13-alpine`.
+We just need to change the tag for the postgres container, so we replace **10** with **13** in the `image: postgres:10-alpine` line.
 ![screenshot of the docker-compose.yml file](docker-compose.png)
 
 ### Start up the Postgres container (and nothing else)
