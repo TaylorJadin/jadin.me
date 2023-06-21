@@ -10,9 +10,9 @@ cover:
     image: 
 ---
 
-Here are some quick notes from helping [Jim](https://bavatuesdays.com) upgrade his [bava.tv](https://bava.tv/) Peertube instance from PostgreSQL 10 to PostgreSQL 13. bava.tv uses Docker so actually changing Postgres versions is dead simple (basically just edit a number in the `docker-compose.yml` file and restart the containers) but we found out pretty quickly that you can't just change the version of Postgres, and expect the database to still work.
+Here are some quick notes from helping [Jim](https://bavatuesdays.com) upgrade his [bava.tv](https://bava.tv/) Peertube instance from PostgreSQL 10 to PostgreSQL 13. bava.tv uses Docker so actually changing Postgres versions is dead simple (basically just edit a number in the `docker-compose.yml` file and restart the containers) but we found out pretty quickly that you can't just change the version of Postgres and expect the database to still work.
 
-First I cloned the environment and added [Adminer](/db-webui-for-docker/) to the `docker-compose.yml` file so I could poke around the database and try exporting and importing stuff, but I had all kinds of errors related to overwriting tables that already existed. It seems like Postgres is very protective about what things you can overwrite or tables you can drop because it has a concept of what tables are related to each other.[^1]
+First I cloned the environment so I could do some testing and added [Adminer](/db-webui-for-docker/) to the `docker-compose.yml` file so I could poke around the database and try exporting and importing stuff, but I had all kinds of errors related to overwriting tables that already existed. It seems like Postgres is very protective about what things you can overwrite or tables you can drop because it has a concept of what tables are related to each other.[^1]
 
 [^1]: That was the problem as best as I can tell. I'm very very far from a DB admin 🤷‍♂️
 
