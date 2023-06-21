@@ -1,3 +1,9 @@
 #!/bin/bash
 
-hugo serve --buildFuture --buildDrafts --buildExpired
+# if on wsl use the windows executable so refreshes work
+if [[ `uname -n` == "taylor-compy" ]]; then
+    # WSL
+    hugo.exe serve --buildFuture --buildDrafts --buildExpired
+else
+    hugo serve --buildFuture --buildDrafts --buildExpired
+fi
