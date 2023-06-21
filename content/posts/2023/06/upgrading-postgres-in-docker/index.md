@@ -56,7 +56,7 @@ We just need to change the tag for the postgres container, so we replace **10** 
 ```bash
 docker-compose up -d postgres
 ```
-We need to start up just the database and not the PeerTube itself so we have a completely empty database to restore our database dump in to. If we allow the PeerTube container to also start up, it will see an empty database and automatically populate it with some data.
+We need to start up just the database but not rest of the Peertube containers, so we have a completely empty database to work with. If we allow the PeerTube container to also start up, it will see an empty database and automatically populate it with some data before we get a chance to restore anything.
 
 ### Restore the database dump
 ```bash
