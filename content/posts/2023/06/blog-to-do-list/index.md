@@ -6,7 +6,7 @@ tags:
 - reclaim
 cover:
     relative: true
-    image: 
+    image: cover.webp
 ---
 
 I've got a whole list of improvements I want to make to this site coming off of Reclaim Open. 
@@ -42,3 +42,7 @@ This should take almost no time to start, but I likely won't get to it for a whi
 I've thought a lot about how to integrate this site with activitypub and fediverse stuff in some way, and so far, I just can't think of a way that would make sense. On the technical side, this is a static site, so what it could actually do would be limited, and on top of that, I've never loved the context collapse that pushing posts from a site out to social media (fediverse or otherwise) creates. I'd prefer to just write on this site, and then post a link on Mastodon afterward. 
 
 But who knows, I could totally change my mind. 
+
+---
+
+Cover image: [danjo house work](https://www.flickr.com/photos/stonesoupinstitute/11073368704/in/photostream/) by Stone Soup Institute on Flickr
