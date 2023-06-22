@@ -32,7 +32,7 @@ Both of these comment system ideas are completely stolen from [Kathleen Fitzpatr
 I'd rate the work required here at "medium-ish." This shouldn't be too hard, just need to set aside some time to work on it.
 
 ## ☐ Fix cover images
-I added nice [lightboxes](https://www.w3schools.com/howto/howto_js_lightbox.asp) to all images on this site, except for cover images. I want to fix that, as well as add a slick integrated way to cover images, instead of putting text at the bottom of the post.
+I added nice [lightboxes](https://www.w3schools.com/howto/howto_js_lightbox.asp) to all images on this site, except for cover images. I want to fix that, as well as add a slick integrated way to attribute sources on cover images, instead of putting text at the bottom of the post like I do now. Oh and I also don't have any way to add alt text either!
 
 ## ☐ About page
 
