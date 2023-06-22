@@ -11,7 +11,7 @@ cover:
 
 I've got a whole list of improvements I want to make to this site coming off of Reclaim Open. 
 
-This blog is a static site made with [hugo](https://gohugo.io/) and of course hosted on Reclaim Hosting. If you are curious about how it's made, I've done a stream and accompanying blog post about it:
+This blog is a static site made with [hugo](https://gohugo.io/) and of course hosted on Reclaim Hosting. If you are curious about how it works, I've done a stream and accompanying blog post about it:
 
 [My Hugo setup and how this blog works](https://jadin.me/my-hugo-setup/)
 
