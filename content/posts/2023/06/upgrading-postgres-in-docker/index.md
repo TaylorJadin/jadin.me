@@ -16,7 +16,7 @@ First I cloned the environment so I could do some testing and added [Adminer](/d
 
 [^1]: That was the problem as best as I can tell. I'm very very far from a DB admin 🤷‍♂️
 
-After [reading the docs a bit](https://www.postgresql.org/docs/current/upgrading.html) it seemed like the most straightforward way is to dump the database on the old version using `pg_dumpall`, upgrade the version of Postgres, then restore the database. `pg_dumpall` will dump not only the [public schema](https://www.postgresql.org/docs/current/ddl-schemas.html) that has all the data we care about, but also the other schemas that mostly seems to contain metadata.
+After [reading the docs a bit](https://www.postgresql.org/docs/current/upgrading.html) it seemed like the most straightforward way is to dump the database on the old version using `pg_dumpall`, upgrade the version of Postgres, then restore the database. `pg_dumpall` will dump not only the [public schema](https://www.postgresql.org/docs/current/ddl-schemas.html) that has all the data we care about, but also the other schemas that mostly seem to contain metadata.
 
 After finding out about `pg_dumpall` I also stumbled upon this blog post about upgrading Postgres in Docker, which was pretty useful:
 
