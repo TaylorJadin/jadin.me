@@ -48,4 +48,4 @@ But who knows, I could totally change my mind.
 
 ---
 
-Cover image: [danjo house work](https://www.flickr.com/photos/stonesoupinstitute/11073368704/in/photostream/) by Stone Soup Institute on Flickr
+Cover image: [danjo house work](https://www.flickr.com/photos/stonesoupinstitute/11073429893/in/photostream/) by Stone Soup Institute on Flickr
