@@ -17,9 +17,9 @@ This blog is a static site made with [hugo](https://gohugo.io/) and of course ho
 
 ## ☐ Pull in posts from Mastodon
 
-This is a big one, and will take some design and javascript work. But I've started cooking something up already. I've got some ideas to bring in my Mastodon posts right on to the site, between posts. Visually, I'm inspired by [theverge.com's](https://theverge.com) redesign. I think I'd pull in a limited amount of posts dynamically on page load, and exclude replies and stuff like that for now. Just so quick thoughts get included on my home page.
+This is a big one, and will take some design and javascript work. But I've started cooking something up already. The idea is to bring in my Mastodon posts right on to the site, between blog posts. Visually, I'm inspired by [theverge.com's](https://theverge.com) redesign. I think I'd pull in a limited amount of posts dynamically on page load, and exclude replies and stuff like that for now. Just so quick thoughts get included on my home page.
 
-I've already started working on this, but it might take me a bit. Also, I very well my change my mind before I ever get this working.
+I've already started working on this, but it might take me a bit. Also I very well might change my mind before I ever get this working.
 
 ## ☐ Get rid of [disqus.com](https://disqus.com) comments and replace my site's comments system with something better
 
