@@ -31,6 +31,9 @@ Both of these comment system ideas are completely stolen from [Kathleen Fitzpatr
 
 I'd rate the work required here at "medium-ish." This shouldn't be too hard, just need to set aside some time to work on it.
 
+## ☐ Fix cover images
+I added nice lightboxes to all images on this site, except for cover images. I want to fix that, as well as add a slick integrated way to cover images, instead of putting text at the bottom of the post.
+
 ## ☐ About page
 
 I should really make an about page where I can start collecting signature projects, presentations, and stuff like that.
