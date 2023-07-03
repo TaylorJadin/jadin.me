@@ -1,7 +1,7 @@
 <script src="/assets/js/medium-zoom.min.js"></script>
 
 <script>
-const images = Array.from(document.querySelectorAll(".post-content img:not(.gallery-img)"));
+const images = Array.from(document.querySelectorAll(".post-content img:not(.no-zoom)"));
 images.forEach(img => {
   mediumZoom(img, {
     margin: 0, /* The space outside the zoomed image */
