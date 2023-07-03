@@ -56,6 +56,7 @@ params:
   disableThemeToggle: true
   env: production
   comments: true
+  opengraph_io_api_key: 0f12c7d8-63f2-4b52-ac94-3af07a85960a
   ShowFullTextinRSS: true
   ShowShareButtons: false
   ShowReadingTime: true

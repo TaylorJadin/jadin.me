@@ -3,7 +3,7 @@
 # if on wsl use the windows executable so refreshes work
 if [[ `uname -n` == "taylor-compy" ]]; then
     # WSL
-    hugo.exe serve --buildFuture --buildDrafts --buildExpired
+    hugo.exe serve
 else
-    hugo serve --buildFuture --buildDrafts --buildExpired
+    hugo serve
 fi

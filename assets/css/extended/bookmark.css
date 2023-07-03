@@ -1,0 +1,61 @@
+a.bookmark-container {
+    display: flex;
+    border-radius: 3px;
+    border: 1px solid rgb(124 139 154/25%);
+    box-shadow: none;
+    overflow: hidden;
+}
+
+.bookmark-content {
+    padding: 20px;
+}
+
+.bookmark-title {
+    font-size: 1.5rem;
+    line-height: 1.4em;
+    font-weight: 600
+}
+
+.bookmark-description {
+    font-size: .9rem;
+    margin-top: 3px;
+    max-height: 44px;
+    overflow-y: hidden;
+    opacity: .7;
+}
+
+.bookmark-metadata {
+    display:flex;
+    align-items:center;
+    margin-top: 22px;
+    width: 100%;
+    font-size: .9rem;
+    white-space: nowrap
+}
+
+.bookmark-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 6px !important;
+}
+
+.bookmark-author {
+    display: inline;
+}
+
+.bookmark-thumbnail {
+    position: relative;
+    flex-grow: 1;
+    min-width: 33%;
+}
+
+.bookmark-thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 0 2px 2px 0;
+    margin: 0;
+}
