@@ -5,13 +5,7 @@ My personal website, powered by [hugo](http://gohugo.io/).
 Install hugo extended edition:
 https://gohugo.io/installation/
 
-Clone the repo:
+Clone the repo and theme all at once
 ```bash
-git clone https://github.com/TaylorJadin/jadin.me.git --depth=1
-```
-
-Get the theme:
-```bash
-cd jadin.me
-git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
+git clone https://github.com/TaylorJadin/jadin.me.git --depth=1 && cd jadin.me && git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
 ```
