@@ -5,7 +5,6 @@ tags:
 - reclaim
 - obs
 - opensource
-- tools
 - streamarchive
 cover:
     relative: true

@@ -4,7 +4,6 @@ date: 2022-09-29T12:08:24-0500
 tags:
 - meta
 - reclaim
-- tools
 - opensource
 cover:
     relative: true

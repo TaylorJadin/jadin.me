@@ -2,7 +2,6 @@
 title: Trying out Arc
 date: 2022-12-05T08:30:25-0600
 tags:
-- tools
 cover:
     relative: true
     image: arc.webp

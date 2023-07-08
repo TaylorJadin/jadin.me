@@ -3,8 +3,7 @@ title: OBS and Streaming Focused Youtube Channels I find useful
 date: 2022-02-07
 tags: 
 - obs
-- tools
-- audio-video
+- av
 cover:
     relative: true
     image: 

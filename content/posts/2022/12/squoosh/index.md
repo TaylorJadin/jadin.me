@@ -2,7 +2,6 @@
 title: A tool with a name so bad, I need to blog it to remember it
 date: 2022-12-12
 tags:
-- tools
 cover:
     relative: true
     image: squooshscreenshot.webp

@@ -2,7 +2,6 @@
 title: Nostalgia via Windows 95
 date: 2019-02-09T15:54:05Z
 tags:
-- tools
 cover:
     relative: true
     image: 2019-02-09_08-22-14.png
