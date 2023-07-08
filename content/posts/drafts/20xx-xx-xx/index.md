@@ -4,4 +4,10 @@ date: 20xx-xx-xx
 tags:
 - journal
 ---
+## 📖 Reading
 
+## 📺 Watching
+
+## 🎧 Listening
+
+## 🎮 Playing

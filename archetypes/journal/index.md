@@ -4,3 +4,10 @@ date: {{ .Date }}
 tags:
 - journal
 ---
+## 📖 Reading
+
+## 📺 Watching
+
+## 🎧 Listening
+
+## 🎮 Playing
