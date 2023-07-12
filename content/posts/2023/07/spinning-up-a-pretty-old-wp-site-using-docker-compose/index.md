@@ -52,6 +52,6 @@ cd wp-41/
 docker-compose up -d && docker-compose logs -f
 ```
 
-Once things were working, I ran through WP's basic setup wizard and bam! WP 4.1!
+Once things were working, I ran through WP's basic setup wizard and bam! WP 4.1! Now we're bloggin' like its 2014. 
 
 ![a screenshot of WordPress 4.1](wp41.png)
