@@ -11,7 +11,7 @@ cover:
 
 For reasons, I needed to spin up a very old WordPress site using Docker today. I'm writing this blog post mostly just to jot down the compose file so I have it handy in the future.
 
-Digging through the [oldest tags for the wordpress image on DockerHub](https://hub.docker.com/_/wordpress/tags?page=123) it looked like 4.1 was the oldest version available, so I went with it. For the database, I went with the last version of MySQL version 5. Then I fired up a docker environment from the Reclaim Cloud marketplace.
+Digging through the [oldest tags for the wordpress image on DockerHub](https://hub.docker.com/_/wordpress/tags?page=123) it looked like 4.1 was the oldest version available, so I went with it. For the database, (after some trial and error) I ended up using the last version of MySQL version 5. Then I fired up a docker environment from the Reclaim Cloud marketplace.
 
 ![a screenshot of the reclaim.cloud marketplace, specifically the Docker Engine CE installer](marketplace.png)
 
