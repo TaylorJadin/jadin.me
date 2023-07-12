@@ -54,7 +54,7 @@ services:
       MYSQL_DATABASE: wordpress_db
       MYSQL_USER: foo
       MYSQL_PASSWORD: bar 
-      MYSQL_RANDOM_ROOT_PASSWORD: yes
+      MYSQL_RANDOM_ROOT_PASSWORD: 1 
     volumes:
       - ./db:/var/lib/mysql
   adminer:
