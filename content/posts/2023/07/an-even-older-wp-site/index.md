@@ -39,7 +39,7 @@ services:
 
 ```
 
-Really the only difference in the compose file is that this one needs `MYSQL_PORT_3306_TCP` instead of  `WORDPRESS_DB_HOST`.
+Really the only difference in the compose file is the version number for WordPress and the `MYSQL_PORT_3306_TCP`  environment variable instead of  `WORDPRESS_DB_HOST`.
 
 Success!
 
