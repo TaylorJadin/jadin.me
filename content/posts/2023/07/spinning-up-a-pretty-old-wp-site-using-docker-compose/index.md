@@ -4,9 +4,14 @@ date: 2023-07-12T15:47:42-05:00
 tags:
 - reclaim
 - docker
+- reclaimcloud
 cover:
     relative: true
     image: 
+---
+
+UPDATE: [I got WordPress 3.9 working too!](/an-even-older-wp-site)
+
 ---
 
 For reasons, I needed to spin up a very old WordPress site using Docker today. I'm writing this blog post mostly just to jot down the compose file so I have it handy in the future.
