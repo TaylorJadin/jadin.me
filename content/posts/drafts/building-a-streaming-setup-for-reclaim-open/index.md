@@ -33,8 +33,16 @@ A quick aside: One interesting thing about that video above is he mentions how c
 
 ## StreamYard
 
-For streaming the keynotes from the Digital Auditorium I decided I would use [StreamYard](https://streamyard.com/), which we use for a lot of Reclaim stuff, and we're big fans of around here. The advantage of using StreamYard in the auditorium being we could give our keynote speakers a link to join the "call" from their laptops to capture their screen over the internet. This allowed me to stay at the back of the room on the balcony and didn't require the use of a wireless HDMI transmitter / receiver kit or anything else complicated. StreamYard also has some nice OBS-like features that would allow me to add a bit more polish to our keynote streams, like titles and lower thirds, "Getting started" scenes with music etc. On top of that, it's still pretty easy to use, and entirely tied to my laptop (it's all web-based), so if necessary somebody else could step in and take my place relatively easily. Finally StreamYard had one other major platform advantage I didn't think of at the time but turned out to be essential, and thats
+For streaming the keynotes from the Digital Auditorium I decided I would use [StreamYard](https://streamyard.com/), which we use for a lot of Reclaim stuff, and we're big fans of around here. The advantage of using StreamYard in the auditorium being we could give our keynote speakers a link to join the "call" from their laptops to capture their screen over the internet. This allowed me to stay at the back of the room on the balcony and didn't require the use of a wireless HDMI transmitter / receiver kit or anything else complicated. StreamYard also has some nice OBS-like features that would allow me to add a bit more polish to our keynote streams, like titles and lower thirds, "Getting started" scenes with music etc. On top of that, it's still pretty easy to use, and entirely tied to my laptop (it's all web-based), so if necessary somebody else could step in and take my place relatively easily.
 
-## The Gear
+## The Gear`
 
-So with that gameplan, we had the centerpiece(s) of our streaming setup figured out for both the regular sessions and keynotes. Now I just had to figure out the rest of the gear, and how it was getting to Fredericksburg.
+So with that gameplan, we had the centerpieces of our streaming setups figured out for both the regular sessions and keynotes. Now I just had to figure out the rest of the gear, and how it was getting to Fredericksburg. Some of it was stuff that we bought for Reclaim Open, some was stuff that I already had and could bring along, some was stuff Tim had at the arcade, and some of it we borrowed from [Andy Rush](https://mastodon.social/@andyrush). Thanks Andy!
+
+### Cameras
+
+We needed 3 cameras, and it turned out that between Tim and I we could bring 3 matching [Sony ZV-1](https://www.dpreview.com/reviews/sony-zv-1-review)'s which really made things simple. I love these little cameras, and I use one pretty much every day as my webcam
+`
+{{< figure src="ZV1.jpg" caption="My ZV1 that I use as my primary webcam. In the flip out screen you can see an image of someone who should be writing this very blog post, but instead is taking a mostly unnecessary picture." alt="A picture of a webcam on a mount above a computer monitor.">}}
+
+;me
