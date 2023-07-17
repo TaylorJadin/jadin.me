@@ -43,4 +43,6 @@ So with that gameplan, we had the centerpieces of our streaming setups figured o
 `
 {{< figure src="ZV1.jpg" caption="My ZV1 that I use as my primary webcam. In the flip out screen you can see an image of someone who should be writing this very blog post, but instead is taking a mostly unnecessary picture." alt="A picture of a webcam on a mount above a computer monitor.">}}
 
-We needed 3 cameras, and it turned out that between Tim and I we could bring 3 matching [Sony ZV-1](https://www.dpreview.com/reviews/sony-zv-1-review)'s which really made things simple. I love these little cameras, and I use one pretty much every day as my webcam. They have a fixed lens, which for our purposes is fine and are easy to power over Micro USB. 
+We needed 3 cameras, and it turned out that between Tim and I we could bring 3 matching [Sony ZV-1](https://www.dpreview.com/reviews/sony-zv-1-review)'s which really made things simple. I love these little cameras, and I use one pretty much every day as my webcam. They have a fixed lens, which for our purposes is fine and are easy to power over Micro USB. They are great little cameras!
+
+### Microphones
