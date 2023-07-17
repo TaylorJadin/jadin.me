@@ -1,6 +1,6 @@
 ---
 title: "A List of Great Albums"
-date: 2022-10-14
+date: 20xx-xx-xx
 tags:
 - lists
 cover:
