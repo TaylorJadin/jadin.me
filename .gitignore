@@ -5,4 +5,5 @@ public
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/plugins/obsidian-languagetool-plugin/data.json
-/.obsidian/plugins/companion/data.json
+.obsidian/plugins/companion/data.json
+.obsidian/plugins/copilot/data.json
