@@ -1,7 +1,7 @@
 [
   "obsidian-minimal-settings",
-  "obsidian-languagetool-plugin",
   "url-into-selection",
   "obsidian-auto-link-title",
-  "copilot"
+  "copilot",
+  "obsidian-languagetool-plugin"
 ]
