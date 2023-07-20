@@ -11,7 +11,7 @@ cover:
     image: cover.webp
 ---
 
-It's been a long time coming, but I'm finally getting around to writing about Reclaim Open. Reading [Tim's post on his pinball streaming rig for Reclaim Arcade](https://blog.timowens.io/building-a-streaming-rig/) has inspired me to start with the streaming / recording setups we used for Reclaim Open and how that all came together! 
+It's been a long time coming, but I'm finally getting around to writing about Reclaim Open. Reading [Tim's post on his pinball streaming rig for Reclaim Arcade](https://blog.timowens.io/building-a-streaming-rig/) has inspired me to start with the streaming / recording setups we used for Reclaim Open and how that all came together! This post has become so long that I'm positive no one will read it, but hey it will be useful for me to look back on!
 
 From the early stages of planning Reclaim Open we knew that we would want to do *some* kind of recording of the sessions and keynotes, but we weren't 100% sure what we were going to be able to pull off given we would have to pack and bring any necessary equipment to UMW for the week of the conference. In addition to that, not being able to truly test things out ahead of time in the space you are going to be recording in makes anything like this difficult and nerve-racking. 
 
