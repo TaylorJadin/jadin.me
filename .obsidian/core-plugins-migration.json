@@ -17,14 +17,14 @@
   "markdown-importer": false,
   "zk-prefixer": false,
   "random-note": false,
-  "outline": false,
+  "outline": true,
   "word-count": true,
-  "slides": false,
+  "slides": true,
   "audio-recorder": false,
   "workspaces": false,
-  "file-recovery": true,
+  "file-recovery": false,
   "publish": false,
   "sync": false,
-  "canvas": true,
-  "bookmarks": true
+  "canvas": false,
+  "bookmarks": false
 }

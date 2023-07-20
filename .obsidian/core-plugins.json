@@ -2,12 +2,11 @@
   "file-explorer",
   "global-search",
   "switcher",
-  "canvas",
   "tag-pane",
   "page-preview",
   "command-palette",
   "editor-status",
-  "bookmarks",
+  "outline",
   "word-count",
-  "file-recovery"
+  "slides"
 ]
