@@ -41,6 +41,6 @@ On Thursday we actually did a second day at the Magic Kingdom so Nat so we could
 
 ## Friday: Hollywood Studios
 
-Friday we went to Hollywood Studios! Highlights for me here were definitely were taking Nat on the Slinky Dog and seeing the Star Wars Galaxy's Edge area. Nat's first roller coaster was actually the Barnstormer on Thursday, but I was suprised by how fast Slinky Dog was. She did great!
+Friday we went to Hollywood Studios! Highlights for me here were definitely were taking Nat on the Slinky Dog and seeing the Star Wars Galaxy's Edge area. Nat's first roller coaster was actually the Barnstormer on Thursday, but I was surprised by how fast Slinky Dog was. She did great!
 
 {{< foldergallery src="june-16" >}}
