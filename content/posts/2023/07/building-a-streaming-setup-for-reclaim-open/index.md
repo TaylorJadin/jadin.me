@@ -82,7 +82,7 @@ Really that just leaves tripods, one of which I brought, one Andy brought, and o
 
 ## How did it go?
 
-Overall, I'm pretty happy with the setups we had. The cameras were great and painless to use. We didn't have any issues with the Yoloboxes, and had the HDMI splitters Tim brought worked well. We had three problems pop up that I will address next time we do something like this:
+Overall, I'm pretty happy with the setups we had. The cameras were great and painless to use, we didn't have any issues with the Yoloboxes, and the HDMI splitters Tim brought worked well. We had three problems pop up that I will address next time we do something like this:
 
 1. The sound quality from the mics was excellent, but unfortunately throughout the day we encountered issues with the Tascam device we used in one of the classrooms repeatedly powering off. I didn't really have the time to narrow down the issue and do further testing, so we kept an eye on it and powered it back on as needed. In the end, using a simple headphone splitter worked so well in the other classroom that I would probably replicate that setup in both locations next time.
 
