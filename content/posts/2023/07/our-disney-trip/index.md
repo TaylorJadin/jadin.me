@@ -34,7 +34,10 @@ On Thursday we actually did a second day at the Magic Kingdom so Nat so we could
 
 {{< foldergallery src="june-15" >}}
 
-{{< video src="tron.mp4" >}}
+<video style="max-width:100%" autoplay loop muted controls>
+  <source src="tron.mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Friday: Hollywood Studios
 
