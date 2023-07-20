@@ -1,5 +1,5 @@
 ---
-title: "Building a Streaming and Recording setup for Reclaim Open"
+title: "Building a Streaming and Recording Setup for Reclaim Open"
 date: 2023-07-20
 tags:
 - reclaim
