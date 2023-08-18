@@ -42,5 +42,14 @@
       ],
       "key": "W"
     }
+  ],
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "open-with-default-app:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
   ]
 }
