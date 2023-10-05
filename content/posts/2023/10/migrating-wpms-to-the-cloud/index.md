@@ -1,9 +1,10 @@
 ---
-title: Migrating CBOX Openlab setups to the cloud
+title: Migrating WordPress Multisite setups to the cloud!
 date: 2023-10-05
 tags:
   - reclaim
   - reclaimcloud
+  - reclaimpress
   - wordpress
   - streamarchive
 cover:
