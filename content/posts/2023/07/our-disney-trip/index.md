@@ -30,7 +30,7 @@ On Wednesday we sort of took a day off and headed to the Disney Springs area for
 
 ## Thursday: Magic Kingdom pt. 2
 
-On Thursday we actually did a second day at the Magic Kingdom so Nat so we could do a few rides and so Nat could do the Bibbidi Bobbidi Boutique! Abby and I also took the opportunity to go do a few rides on our own, including Haunted Mansion and Tron Lightcycle Run (which blew my mind).
+On Thursday we actually did a second day at the Magic Kingdom so Nat could do the Bibbidi Bobbidi Boutique! Abby and I also took the opportunity to go do a few rides on our own, including Haunted Mansion and Tron Lightcycle Run (which blew my mind).
 
 {{< foldergallery src="june-15" >}}
 
