@@ -3,5 +3,7 @@
   "url-into-selection",
   "obsidian-auto-link-title",
   "copilot",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "no-empty-windows",
+  "companion"
 ]

@@ -43,7 +43,15 @@
       "key": "W"
     }
   ],
-  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "obsidian-auto-link-title:enhance-url-with-title": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
   "open-with-default-app:open": [
     {
       "modifiers": [
@@ -51,5 +59,6 @@
       ],
       "key": "O"
     }
-  ]
+  ],
+  "obsidian-auto-link-title:auto-link-title-normal-paste": []
 }
