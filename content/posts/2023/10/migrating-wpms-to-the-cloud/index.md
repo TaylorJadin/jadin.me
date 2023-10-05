@@ -9,7 +9,7 @@ tags:
   - streamarchive
 cover:
   relative: true
-  image:
+  image: geese.jpg
 ---
 
 A couple of weeks back I did a stream with Amanda and Pilot where I showed off what I've been learning about quickly and efficiently moving WordPress Multisite and [Commons in a Box](https://commonsinabox.org/) setups to Reclaim Cloud. I've done a few CBOX Openlab migrations, most recently for [SUNY Oneonta](https://openlab.oneonta.edu/) and [University of New Haven](https://unewhavendh.org/), so I wanted to document what I've been learning. The great thing about CBOX Classic and CBOX Openlab is that they really are just WordPress Multisite, and so not too much special was necessary above and beyond moving any other Multisite.
