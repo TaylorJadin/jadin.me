@@ -12,11 +12,11 @@ cover:
   image: geese.jpg
 ---
 
-A couple of weeks back I did a stream with Amanda and Pilot where I showed off what I've been learning about moving WordPress Multisite and [Commons in a Box](https://commonsinabox.org/) setups to Reclaim Cloud. This is not using a plugin like Updraft Plus or anything like that, as that is usually way slower and can be problematic for large or complex sites. Doing this via command line tools mostly manually means we can transfer files directly between servers using rsync, saving us lots of time. I've done a few CBOX Openlab migrations, most recently for [SUNY Oneonta](https://openlab.oneonta.edu/) and [University of New Haven](https://unewhavendh.org/), so I wanted to document what I've been learning. The great thing about CBOX Classic and CBOX Openlab is that they really are just WordPress Multisite, and so not too much special was necessary above and beyond moving any other Multisite.
+A couple of weeks back I did a stream with Amanda and Pilot where I showed off what I've been learning about moving WordPress Multisite and [Commons in a Box](https://commonsinabox.org/) setups to Reclaim Cloud. I've done a few CBOX Openlab migrations, most recently for [SUNY Oneonta](https://openlab.oneonta.edu/) and [University of New Haven](https://unewhavendh.org/), so I wanted to document what I've been learning. The great thing about CBOX Classic and CBOX Openlab is that they really are just WordPress Multisite, and so not too much special was necessary above and beyond moving any other Multisite.
 
 <iframe title="Migrating WPMS setups to the cloud!" width="100%" height="405" src="https://archive.reclaim.tv/videos/embed/31b5bbd4-8a59-4637-add2-053ca8fb0dc2" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
-I go into detail in the stream, but the steps are also below. For simplicity, I'm going to refer to the new site on the cloud as the "destination" site and the old site on Shared Hosting as the "source."
+This is not using a plugin like Updraft Plus or anything like that, as that is usually way slower and can be problematic for large or complex sites. Doing this via command line tools mostly manually means we can transfer files directly between servers using rsync, saving us lots of time. I go into detail in the stream, but the steps are also below. For simplicity, I'm going to refer to the new site on the cloud as the "destination" site and the old site on Shared Hosting as the "source."
 
 ### Install a fresh copy of WP on Reclaim Cloud
 Use the WordPress standalone kit, and enable Multisite.
