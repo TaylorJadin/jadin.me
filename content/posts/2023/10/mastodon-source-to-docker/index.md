@@ -9,7 +9,7 @@ cover:
   relative: true
   image:
 ---
-[Jim beat me to blogging it](https://bavatuesdays.com/containerizing-mastodon-on-reclaim-cloud/), but on Friday he and I jumped on a stream and migrating a test instance of Mastodon he has, that he [installed the manual way](https://docs.joinmastodon.org/admin/install/), over to a new dockerized install using my [1-click installer on Reclaim Cloud](https://support.reclaimhosting.com/hc/en-us/articles/11874719336087-Running-Mastodon-on-Reclaim-Cloud). 
+[Jim beat me to blogging it](https://bavatuesdays.com/containerizing-mastodon-on-reclaim-cloud/), but on Friday he and I jumped on a stream and migrated a test instance of Mastodon he has that he [installed the manual way](https://docs.joinmastodon.org/admin/install/), over to a new dockerized install using my [1-click installer on Reclaim Cloud](https://support.reclaimhosting.com/hc/en-us/articles/11874719336087-Running-Mastodon-on-Reclaim-Cloud). 
 
 <iframe title="Migrating a Mastodon source install into a Dockerized install!" width="100%" height="315" src="https://archive.reclaim.tv/videos/embed/d20860dc-24f6-42d7-80c2-cc6002f43eed" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
