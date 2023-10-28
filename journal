@@ -1,0 +1,3 @@
+#!/bin/bash
+
+hugo new --kind journal posts/$(date +"%Y")/$(date +"%m")/$(date +%Y-%m-%d)
