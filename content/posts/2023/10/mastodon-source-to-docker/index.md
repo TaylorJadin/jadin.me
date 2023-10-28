@@ -13,7 +13,7 @@ cover:
 
 <iframe title="Migrating a Mastodon source install into a Dockerized install!" width="100%" height="315" src="https://archive.reclaim.tv/videos/embed/d20860dc-24f6-42d7-80c2-cc6002f43eed" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
-Things went super smoothly and this should make future upgrades and maintenance super painless. Because the server uses an S3 bucket for its images, really all we needed to do was dump and restore the database, and then fill ou the `.env` file that had settings for Mail and S3. I found most of what I needed to know about the database side e of things from this doc:
+Things went super smoothly and this should make future upgrades and maintenance super painless. Because the server uses an S3 bucket for its images, really all we needed to do was dump and restore the database, and then fill out the `.env` file that had settings for Mail and S3. I found most of what I needed to know about the database side e of things from this doc:
 [Migrating to a new machine - Mastodon documentation](https://docs.joinmastodon.org/admin/migrating/)
 
 And here are the notes I was taking while we were on stream:\
@@ -21,9 +21,9 @@ And here are the notes I was taking while we were on stream:\
 ## Notes
 
 ### Update .env file
-Look at the installs `env.production` file and port over any necessary settings in to `/root/mastodon/.env`
+Look at the install's `env.production` file and port over any necessary settings in to `/root/mastodon/.env`
 
-### dump the databse
+### dump the database
 ```bash
 su mastodon
 pg_dump -Fc mastodon_production -f backup.dump
