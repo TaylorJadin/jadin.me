@@ -10,7 +10,7 @@ cover:
 ---
 I was watching this Action Retro video where he installs Red Hat Linux 5.2 on a Pentium system. Its cool stuff! 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MsAHi7t4Cj8?si=cNZlrJlpusc3Keg2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/MsAHi7t4Cj8?si=cNZlrJlpusc3Keg2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 That being said, the real gold for me was him referencing this search engine that he runs for use with retro computers, [FrogFind!](http://frogfind.com/)
 
