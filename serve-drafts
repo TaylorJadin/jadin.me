@@ -1,9 +1,0 @@
-#!/bin/bash
-
-# if on wsl use the windows executable so refreshes work
-if [[ `uname -n` == "taylor-compy" ]]; then
-    # WSL
-    hugo.exe serve --buildDrafts --buildFuture
-else
-    hugo serve --buildDrafts --buildFuture
-fi
