@@ -30,6 +30,6 @@ Finally, the ability to [uprank or downrank particular sites or domains that you
 
 Is Kagi worth paying for? If you spend a lot of time thinking about how the web works, care about its future, or if the current state of search engines really bothers you, then maybe. There are [three plans to consider](https://kagi.com/settings?p=billing_plan). The ultimate plan seems to really just be for early adopters and Kagi super fans, and does not seem worth it to me at $25. The $5 a month plan is limited to 300 searches a month, which I think I'd blow through way too fast.
 
-For now, I think I will keep using the $10 a month plan. I'm enjoying using Kagi, and I think I'm getting my money's worth as someone who uses search engines a lot. That being said, I'm still conflicted, and it does still seem expensive to me even though I really care about this kind of stuff.[^2] This does seem like a better value than the $20 a month some people pay for the paid version of ChatGPT 🤷‍♂
+For now, I think I will keep using the $10 a month plan. I'm enjoying using Kagi, and I think I'm getting my money's worth as someone who uses search a lot. That being said, I'm still conflicted, and it does still seem expensive to me even though I really care about this kind of stuff.[^2] But hey, it does seem like a better value than the $20 a month OpenAI wants you to pay for ChatGPT Plus 🤷‍♂
 
 [^2]: I'm also interested in the [watching state of Kagi as a company](https://help.kagi.com/kagi/company/). Will they be sustainable with this pricing?
