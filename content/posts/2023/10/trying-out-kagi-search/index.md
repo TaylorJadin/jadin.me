@@ -6,7 +6,7 @@ cover:
   relative: true
   image: cover.png
 ---
-While I'm not completely averse to using Google stuff, I stopped using Google search a few years ago, just to make sure all of my data eggs aren't just in Google's basket. They already get my email, most of video watching, lots of work documents, and so many other things. For the last few years I've been using DuckDuckGo, which I honestly really like, but I will admit that at times its search results can at times be subpar compared to Google, or at least that's my perception.
+While I'm not completely averse to using Google stuff, I stopped using Google search a few years ago, just to make sure all of my data eggs aren't just in Google's basket. They already get my email, most of video watching, lots of work documents, and so many other things. For the last few years I've been using DuckDuckGo, which I honestly really like, but I will admit that at times its search results can be subpar compared to Google, or at least that's my perception.
 
 Overall, I like and recommend DuckDuckGo. Their [privacy policy is good](https://duckduckgo.com/privacy), the [!Bang feature is amazing](https://duckduckgo.com/duckduckgo-help-pages/features/bangs/)[^1], the design is nice and clean, and they still have a good amount (but not too many) "quick answers" type features and tools. That being said, I'm getting pretty fed up with the AI listicle spam garbage that seems to be cluttering search engines recently, and most of the major search engines all seem to be susceptible (even Google),
 
