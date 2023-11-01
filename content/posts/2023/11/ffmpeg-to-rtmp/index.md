@@ -1,5 +1,5 @@
 ---
-title: A One-liner for using ffmpeg to stream over RTMP
+title: A one-liner for using ffmpeg to stream a video file over RTMP
 date: 2023-11-01T16:58:28.076773-05:00
 tags:
 - cli
