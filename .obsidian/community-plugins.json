@@ -1,8 +1,10 @@
 [
-  "obsidian-minimal-settings",
   "url-into-selection",
   "obsidian-auto-link-title",
   "copilot",
   "obsidian-languagetool-plugin",
-  "companion"
+  "no-empty-windows",
+  "companion",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings"
 ]

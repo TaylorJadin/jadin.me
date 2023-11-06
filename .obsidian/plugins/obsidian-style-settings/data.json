@@ -1,0 +1,11 @@
+{
+  "ul-theme-settings@@ul-color-accent": "ul-purple",
+  "ul-theme-settings@@ul-theme-dark": "ul-dark",
+  "ul-theme-settings@@ul-scrollbars": false,
+  "ul-theme-settings@@ul-background-gradient": false,
+  "ul-theme-settings@@ul-square-tabs": false,
+  "ul-theme-settings@@ul-square-tab-tops": false,
+  "ul-theme-settings@@ul-left-collapse-btn-disable": false,
+  "ul-theme-settings@@grad": false,
+  "ul-theme-settings@@ul-floating-ribbon": false
+}
