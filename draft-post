@@ -1,9 +1,0 @@
-#!/bin/bash
-
-if [[ -z $1 ]]; then
-	echo "Please provide a post title as the first argument"
-	exit
-else
-	POST_TITLE=$(echo $1 | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[^a-z-]//g')
-	hugo new posts/drafts/$POST_TITLE
-fi
