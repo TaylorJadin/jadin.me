@@ -31,9 +31,11 @@
     "Yolobox",
     "Yoloboxes",
     "UMW",
-    "Kagi"
+    "Kagi",
+    "Owncast"
   ],
   "alwaysUpdateLinks": true,
   "autoPairBrackets": false,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "spellcheck": false
 }
