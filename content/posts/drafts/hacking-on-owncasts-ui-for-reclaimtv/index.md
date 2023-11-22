@@ -120,4 +120,4 @@ Owncast has a spot for Custom CSS as well, so I threw the CSS in there.
 
 ## Replacing Owncast's built-in chat with Discord Chat
 
-Embol
+Emboldened 
