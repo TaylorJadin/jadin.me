@@ -1,6 +1,6 @@
 ---
-title: Hacking on Owncast's UI for Reclaimtv
-date: 2023-11-123
+title: Hacking on Owncast's UI for ReclaimTV
+date: 2023-11-23
 tags:
   - reclaim
   - reclaimcloud
