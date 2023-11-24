@@ -128,7 +128,7 @@ Here's what it looks like now when you scroll below the video player!
 
 Emboldened by the relative ease of adding Peertube videos from the page, later on we decided to replace Owncast's built-in chat with an embed of the #livestreams channel of our Discord. This leverages [Widgetbot](https://widgetbot.io) for the actual embedding, which we've used for our workshop and flex course [watch sites](https://watch.reclaimed.tech/open-publishing-ecosystems) at Reclaim for a while now, and it works great! The real trick was figuring out how to effectively replace Owncast's pre-existing chat feature with this. For technical reasons that I don't understand super well[^1], Owncast doesn't let us merely edit the default page, we'd have to do it purely from the browser-side using Javascript to replace the chat.
 
-[^1]: Owncast is distributed as a single binary that you run, and so I think to change some of its templates entirely we'd need to fork the code and build our own version, then run that forked version in Docker, which would be a pain compared to the way I've done it here.
+[^1]: Owncast is distributed as a single binary that you run, and so I think to change some of its templates entirely we'd need to fork the code and build our own version, then run that forked version, which would be a pain compared to the way I've done it here.
 
 The javascript was pretty tricky for me to figure out here, as I just haven't done this kind of thing before. After doing some basic exploration and proof-of-concepting using the Developer tools in my browser, I knew that basically I needed to set up an iframe, then replace a particular div on the desktop version, and another one on the mobile version. 
 
