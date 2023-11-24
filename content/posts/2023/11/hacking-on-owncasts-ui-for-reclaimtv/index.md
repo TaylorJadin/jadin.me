@@ -126,9 +126,11 @@ Here's what it looks like now when you scroll below the video player!
 
 ## Replacing Owncast's built-in chat with Discord Chat
 
-Emboldened by the relative ease of adding Peertube videos from the page, later on we decided to replace Owncast's built-in chat with an embed of the #livestreams of our Discord. This leverages [Widgetbot](https://widgetbot.io) for the actual embedding, which we've used for our workshop and flex course [watch sites](https://watch.reclaimed.tech/open-publishing-ecosystems) at Reclaim for a while now, and it works great! The real trick was figuring out how to effectively replace Owncast's pre-existing chat feature with this. For technical reasons that I don't understand super well, Owncast doesn't let us merely edit the default page, we'd have to do it purely from the browser-side using Javascript to replace the chat.
+Emboldened by the relative ease of adding Peertube videos from the page, later on we decided to replace Owncast's built-in chat with an embed of the #livestreams channel of our Discord. This leverages [Widgetbot](https://widgetbot.io) for the actual embedding, which we've used for our workshop and flex course [watch sites](https://watch.reclaimed.tech/open-publishing-ecosystems) at Reclaim for a while now, and it works great! The real trick was figuring out how to effectively replace Owncast's pre-existing chat feature with this. For technical reasons that I don't understand super well[^1], Owncast doesn't let us merely edit the default page, we'd have to do it purely from the browser-side using Javascript to replace the chat.
 
-The javascript was pretty tricky for me to figure out here, as I just haven't done this kind of thing before. After doing some basic exploration and proof-of-concepting using the Developer tools in my browser, I knew that basically I needed to set up an iframe, then replace a particular `<div>` on the desktop version, and another one on the mobile version. 
+[^1]: Owncast is distributed as a single binary that you run, and so I think to change some of its templates entirely we'd need to fork the code and build our own version, then run that forked version in Docker, which would be a pain compared to the way I've done it here.
+
+The javascript was pretty tricky for me to figure out here, as I just haven't done this kind of thing before. After doing some basic exploration and proof-of-concepting using the Developer tools in my browser, I knew that basically I needed to set up an iframe, then replace a particular div on the desktop version, and another one on the mobile version. 
 
 The trick is Owncast only displays the chat if there's a stream actually happening, so I'd first need to wait for the chat to show up, then replace it with the Discord chat and make a few other changes to the page. Basically, ever half second your browser is checking to see if a div with the id of "virtuoso" exists, which is where the chat should go. Once it finds that div, it does all the work.
 
@@ -226,10 +228,10 @@ Discord Chat
 
 And that's all of it! Just like with the Peertube video embeds, this all was code that just ended up going in to Owncast's admin interface in the appropriate places, and if you want to see all of it in one place, or want to see the most up-to-date version of it, check out the [github repository](https://github.com/reclaimhosting/reclaim.tv-customizations/).
 
-The end result on desktop looks pretty good,[^1] and the pink "Chat" button will toggle it being shown or hidden:
+The end result on desktop looks pretty good,[^2] and the pink "Chat" button will toggle it being shown or hidden:
 ![](Pasted%20image%2020231123172910.png)
 
-[^1]: Although this screenshot isn't maybe the best with just a single cropped message in Discord showing, but it's the best I have available as I write this on my iPad during some Thanksgiving downtime.
+[^2]: Although this screenshot isn't maybe the best with just a single cropped message in Discord showing, but it's the best I have available as I write this on my iPad during some Thanksgiving downtime.
 
 On phones, I'm also pretty happy with the end result:
 ![](-4030974424372187380rpreplay_final1698875293.mp4)
