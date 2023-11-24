@@ -1,12 +1,12 @@
 ---
 title: Hacking on Owncast's UI for Reclaimtv
-date: 2023-11-14
+date: 2023-11-123
 tags:
   - reclaim
   - reclaimcloud
 cover:
   relative: true
-  image:
+  image: 
 ShowToc: true
 TocOpen: true
 ---
