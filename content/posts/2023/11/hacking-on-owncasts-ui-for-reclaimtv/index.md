@@ -234,4 +234,7 @@ The end result on desktop looks pretty good,[^2] and the pink "Chat" button will
 [^2]: Although this screenshot isn't maybe the best with just a single cropped message in Discord showing, but it's the best I have available as I write this on my iPad during some Thanksgiving downtime.
 
 On phones, I'm also pretty happy with the end result:
-![](-4030974424372187380rpreplay_final1698875293.mp4)
+<video style="max-width:100%" autoplay loop muted controls>
+	<source src="mobile-chat.mp4">
+	Your browser does not support the video tag.
+</video>
