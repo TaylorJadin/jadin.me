@@ -10,11 +10,11 @@ cover:
 ShowToc: false
 TocOpen: false
 ---
-One of my big goals for the year at Reclaim was to really beef up the video platform we use at Reclaim for our streams as well as flex courses and workshops. We do publish stuff to YouTube, and we're certainly not leaving that behind, but I wanted self-hostable and federated stuff like Peertube and Owncast to really feel like first-class citizens for us.
+One of my big goals for the year at Reclaim was to really beef up the video platform we use at Reclaim for our streams, as well as flex courses and workshops. We do publish stuff to YouTube, and we're certainly not leaving that behind, but I wanted self-hostable and federated stuff like Peertube and Owncast to really feel like first-class citizens for us.
 
-I think getting into all the tools we are using would and the workflow around them would be a good topic for another post, but for now I wanted to document how I've been customizing the UI of Owncast to fit our needs on [reclaim.tv](https://reclaim.tv)! There are two main things we've done with the default Owncast UI, the first was pulling in videos from our Peertube, where all streams and other video content get archived. The second was to replace Owncast's default chat with an embeddable version of the #livestreams channel from our Discord. 
+I think getting into all the tools we are using would and the surrounding workflow would be a good topic for another post, but for now I wanted to document how I've been customizing the UI of Owncast to fit our needs on [reclaim.tv](https://reclaim.tv)! There are two main things we've done with the default Owncast UI, the first was pulling in videos from our Peertube, where all streams and other video content get archived. The second was to replace Owncast's default chat with an embeddable version of the #livestreams channel from our Discord. 
 
-I'm going to embed snippets of code in this post, but if you want to take a look all of it, check out this git repository:
+I'm going to embed snippets of code in this post, but if you want to take a look at of it, check out this git repository:
 
 [GitHub - reclaimhosting/reclaim.tv-customizations](https://github.com/reclaimhosting/reclaim.tv-customizations/)
 
@@ -67,7 +67,7 @@ function makeTVList(data) {
 }
 ```
 
-This javascript just went straight into the Owncast Admin's "Customize your page with Javascript" area.
+This JavaScript just went straight into the Owncast Admin's "Customize your page with Javascript" area.
 
 ![image-20231117083824773](image-20231117083824773.png)
 
@@ -82,7 +82,7 @@ This I did by just putting HTML inline with the markdown in "Custom Page Content
 
 ![Capture 2023-11-17 08.40.37@2x](Capture%202023-11-17%2008.40.37@2x.png)
 
-Finally I needed to use CSS to style it and make it into a nice grid. This part took longer than the javascript for me because I wasn't borrowing most of it, and I hadn't done much with grid layouts in CSS before. This is what I landed on with some tinkering to make it work well on desktop, phones, and tablets:
+Finally, I needed to use CSS to style it and make it into a nice grid. This part took longer than the javascript for me because I wasn't borrowing most of it, and I hadn't done much with grid layouts in CSS before. This is what I landed on with some tinkering to make it work well on desktop, phones, and tablets:
 
 ```css
 /* 
@@ -171,7 +171,7 @@ function checkDiv() {
 }
 ```
 
-On mobile, I just went the route of loading the Discord embed every single time you click the "Chat" button. I'm waiting half a second here too because I found that if the replacement happened to quickly it would sometimes not work properly. 
+On mobile, I just went the route of loading the Discord embed every single time you click the "Chat" button. I'm waiting half a second here too because I found that if the replacement happened too quickly it would sometimes not work properly. 
 ```js
 
 // Replace built-in Chat with Discord on Mobile every time you click the button
@@ -190,9 +190,9 @@ function checkMobileDiv() {
 }
 ```
 
-There is likely be a better way or more proper way to do all of this, but ultimately this works and was pretty quick to implement in the whole scheme of things. 
+There is likely a better way, or more proper way, to do all of this, but it works. I also learned quite a bit about working with javascript throughout this project.
 
-After that I just had to make hide a few things that we no longer needed, and tweak the height of something on mobile. Here's the CSS for all that:
+After that, I just had to make hide a few things that we no longer needed, and tweak the height of something on mobile. Here's the CSS for all that:
 ```css
 /*
 Discord Chat
@@ -224,12 +224,12 @@ Discord Chat
 }
 ```
 
-And thats all of it! Just like with the Peertube video embeds, this all was code that just ended up going in to Owncast's admin interface in the appropriate places, and if you want to see all of it in one place, or want to see the most up-to-date versino of it, check ou the [github repository](https://github.com/reclaimhosting/reclaim.tv-customizations/).
+And that's all of it! Just like with the Peertube video embeds, this all was code that just ended up going in to Owncast's admin interface in the appropriate places, and if you want to see all of it in one place, or want to see the most up-to-date version of it, check out the [github repository](https://github.com/reclaimhosting/reclaim.tv-customizations/).
 
 The end result on desktop looks pretty good,[^1] and the pink "Chat" button will toggle it being shown or hidden:
 ![](Pasted%20image%2020231123172910.png)
 
-[^1]: Although this screenshot isn't maybe the best with just a single  cropped message in Discord showing, but its the best I have available as I write this on my iPad during some Thanksgiving downtime.
+[^1]: Although this screenshot isn't maybe the best with just a single cropped message in Discord showing, but it's the best I have available as I write this on my iPad during some Thanksgiving downtime.
 
-On phones I'm also pretty happy with the end result:
+On phones, I'm also pretty happy with the end result:
 ![](-4030974424372187380rpreplay_final1698875293.mp4)
