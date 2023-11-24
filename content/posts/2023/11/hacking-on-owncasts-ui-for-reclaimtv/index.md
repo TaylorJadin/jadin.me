@@ -6,7 +6,7 @@ tags:
   - reclaimcloud
 cover:
   relative: true
-  image: 
+  image: image.gif
 ShowToc: false
 TocOpen: false
 ---
