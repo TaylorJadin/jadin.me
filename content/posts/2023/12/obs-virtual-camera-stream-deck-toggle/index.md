@@ -19,7 +19,7 @@ Step one was to set up the hotkey:
 
 ![OBS's Settings page under hotkeys](<Capture 2023-12-07 12.16.24@2x.png>)
 
-Step two was to adapt the AppleScript that I found in that GitHub Gist. Basically this, will first check if OBS is running or not. If isn't, it will launch OBS, wait 1 second, then hit they F5 key to start Virtual Camera. After that it hides the window. If OBS is already running, it will unhide the window, wait 1 second, hit F5 to stop Virtual Camera, then Quit OBS.
+Step two was to adapt the AppleScript that I found in that GitHub Gist. Basically this will first check if OBS is running or not. If isn't, it will launch OBS, wait 1 second, then hit they F5 key to start Virtual Camera. After that it hides the window. If OBS is already running, it will unhide the window, wait 1 second, hit F5 to stop Virtual Camera, then Quit OBS.
 
 ```applescript
 if application "OBS" is running then
