@@ -2,7 +2,8 @@
 title: "A Stream Deck button to Start or Stop OBS Virtual Camera"
 date: 2023-12-07T12:11:37-06:00
 tags:
-- 
+- setup
+- obs
 cover:
     relative: true
     image: 
