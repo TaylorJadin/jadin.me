@@ -47,11 +47,11 @@ else
 end if
 ```
 
-I saved this to a `.applsecript` file so that I could run the AppleScript using my Stream Deck.
+I saved this to a `.applescript` file so that I could run that using my Stream Deck.
 
 Step 3 was making the Stream Deck button to launch that script, using an "Open" action. I also gave it a nice icon:
 
-![Alt text](<Capture 2023-12-07 12.23.15@2x.png>)
+![the stream deck configuration software with an OBS logo on one of the buttons](<Capture 2023-12-07 12.23.15@2x.png>)
 
 Voila! It works perfectly and is super handy!
 
