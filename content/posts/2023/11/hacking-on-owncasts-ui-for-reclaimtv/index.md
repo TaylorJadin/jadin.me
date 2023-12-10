@@ -12,7 +12,7 @@ TocOpen: false
 ---
 One of my big goals for the year at Reclaim was to really beef up the video platform we use at Reclaim for our streams, as well as flex courses and workshops. We do publish stuff to YouTube, and we're certainly not leaving that behind, but I wanted self-hostable and federated stuff like Peertube and Owncast to really feel like first-class citizens for us.
 
-I think getting into all the tools we are using would and the surrounding workflow would be a good topic for another post, but for now I wanted to document how I've been customizing the UI of Owncast to fit our needs on [reclaim.tv](https://reclaim.tv)! There are two main things we've done with the default Owncast UI, the first was pulling in videos from our Peertube, where all streams and other video content get archived. The second was to replace Owncast's default chat with an embeddable version of the #livestreams channel from our Discord. 
+I think getting into all the tools we are using and the surrounding workflow would be a good topic for another post, but for now I wanted to document how I've been customizing the UI of Owncast to fit our needs on [reclaim.tv](https://reclaim.tv)! There are two main things we've done with the default Owncast UI, the first was pulling in videos from our Peertube, where all streams and other video content get archived. The second was to replace Owncast's default chat with an embeddable version of the #livestreams channel from our Discord. 
 
 I'm going to embed snippets of code in this post, but if you want to take a look at of it, check out this git repository:
 
