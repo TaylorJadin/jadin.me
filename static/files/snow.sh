@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Credit to: https://gist.github.com/sontek/1505483/ed3449161c88f3ca5f96c1286009fc68d326d4e8
+# Credit to: https://gist.github.com/sontek/1505483
 
 LINES=$(tput lines)
 COLUMNS=$(tput cols)
