@@ -27,20 +27,20 @@ if application "OBS" is running then
 		tell process "OBS"
 			set visible to true
 			set frontmost to true
-			delay 1
-			key down 63 -- fn
+			delay .5
 			key code 96 -- f5
 		end tell
 	end tell
+	delay 1
 	tell application "OBS" to quit
 else
 	tell application "OBS" to activate
 	tell application "System Events"
 		tell process "OBS"
 			set frontmost to true
-			delay 1
-			key down 63 -- fn
+			delay .5
 			key code 96 -- f5
+			delay .5
 			set visible to false
 		end tell
 	end tell
