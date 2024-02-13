@@ -1,5 +1,5 @@
 ---
-title: A demo plugin to break WordPress
+title: Breaking WordPress with a simple plugin
 date: 2024-02-13T15:01:28.430503-06:00
 tags:
 - reclaim
