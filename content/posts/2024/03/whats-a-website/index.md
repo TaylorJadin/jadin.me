@@ -17,8 +17,8 @@ She then asked “What’s a website?”
 
 She then asked, “like a charger?”
 
-And the best clarification I could come back was “No, you read it.”
+And the best clarification I could come back with was “No, you read it.”
 
-The line of questioning continued. 
+The line of questioning continued until she essentially got bored by it.
 
 As a person who is deeply personally invested in the web, I highly recommend talking to a 4 year old about what websites are, with very little prior knowledge, no jargon, and no visual aid.
