@@ -11,7 +11,7 @@ cover:
 
 Today my 4 year old asked me about what I was working on. And I said “I’m working on a project, a website.”
 
-She then asked “what’s a website?”
+She then asked “What’s a website?”
 
 🤯🤯🤯 … like of course she wouldn’t know that, but I had very little idea how to explain that to her! I also of course found the question hilarous. I said “it’s some thing that you use on a computer, phone, or tablet.”
 
