@@ -15,4 +15,4 @@ then
     exit
 fi
 
-cd $hugoDir && git pull && hugo -d $siteDir
+cd $hugoDir && git pull && /home/jadinme/bin/hugo -d $siteDir
