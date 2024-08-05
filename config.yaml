@@ -47,6 +47,7 @@ outputs:
     - HTML
     - RSS
     - JSON
+    - GhostJSON
 Permalinks:
   posts: '/:filename'
   pages: '/:filename'
