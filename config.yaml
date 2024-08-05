@@ -82,3 +82,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
 enableRobotsTXT: true
+outputFormats:
+  GhostJSON:
+    name: GhostJSON
+    mediaType: application/json
+    baseName: ghost
+    isPlainText: true  
