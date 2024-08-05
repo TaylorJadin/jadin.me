@@ -2,7 +2,7 @@
 {{- $counter := 0 -}}
 {
   "meta": {
-    "exported_on": {{ now.Unix }},
+    "exported_on": {{ now.UnixMilli }},
     "version": "2.14.0"
   },
   "data": {
@@ -21,15 +21,15 @@
         "featured": 0,
         "page": 0,
         "status": "published",
-        "published_at": {{ $element.PublishDate.Unix }},
+        "published_at": {{ $element.PublishDate.UnixMilli }},
         "published_by": 1,
         "meta_title": null,
         "meta_description": null,
         "email_only": false,
         "author_id": 1,
-        "created_at": {{ $element.Date.Unix }},
+        "created_at": {{ $element.Date.UnixMilli }},
         "created_by": 1,
-        "updated_at": {{ $element.Lastmod.Unix }},
+        "updated_at": {{ $element.Lastmod.UnixMilli }},
         "updated_by": 1
       }
       {{- end -}}
