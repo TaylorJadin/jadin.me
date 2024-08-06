@@ -1,5 +1,6 @@
 {{- $pages := where .Site.RegularPages "Title" "!=" "" -}}
 {{- $counter := 0 -}}
+{{- $baseURL := .Site.BaseURL -}}
 {
   "meta": {
     "exported_on": {{ now.UnixMilli }},
@@ -9,13 +10,13 @@
     "posts": [
       {{- range $index, $element := $pages -}}
       {{- $counter = add $counter 1 -}}
+      {{- $slug := (path.Base $element.File.Dir) -}}
       {{- if $index }},{{ end -}}
       {
         "id": {{ $counter }},
         "title": {{ $element.Title | jsonify }},
-        "slug": {{ (path.Base $element.File.Dir) | jsonify }},
-        "html": {{ $element.Content | jsonify }},
-        "featured_iamge": null,
+        "slug": {{ $slug | jsonify }},
+        "html": {{ $element.Content | replaceRE "img loading=\"lazy\" src=\"([^\"]*)\"" (print "img loading=\"lazy\" src=\"" $baseURL $slug "/$1\"") | jsonify }},
         "feature_image_alt": null,
         "feature_image_caption": null,
         "featured": 0,
